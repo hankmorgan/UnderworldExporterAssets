@@ -1,0 +1,28 @@
+textures\shock\sprite_test
+ {
+        DECAL_MACRO
+     	noShadows
+	twoSided
+	nonsolid
+	noimpact
+        translucent
+
+
+
+        deform sprite
+
+	{
+        	blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+		colored
+		map	textures\shock\cortex1.tga
+	}
+
+        {
+        if ( parm1 == 2 )
+        	blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+		colored
+		map	textures\shock\shodan.tga
+        }
+
+
+}

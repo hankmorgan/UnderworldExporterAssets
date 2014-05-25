@@ -1,0 +1,72 @@
+textures\shock\servbot
+ {
+        DECAL_MACRO
+     	noShadows
+	twoSided
+	nonsolid
+	noimpact
+        translucent
+
+
+
+        deform sprite
+
+
+
+       {
+          if ( ( time * 8 ) % 7 == 0 )
+      	         blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+		colored
+          map      textures\shock\servbot\1448_0000.tga
+       }
+
+       {
+          if ( ( time * 8 ) % 7 == 1 )
+                blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+		colored
+          map      textures\shock\servbot\1448_0001.tga
+       }
+       
+       {
+          if ( ( time * 8 ) % 7 == 2 )
+                blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+		colored
+          map      textures\shock\servbot\1448_0002.tga
+       }
+
+       {
+          if ( ( time * 8 ) % 7 == 3 )
+                   blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+		colored
+          map      textures\shock\servbot\1448_0003.tga
+       }
+       
+       {
+          if ( ( time * 8 ) % 7 == 4 )
+                   	blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+		colored
+          map      textures\shock\servbot\1448_0003.tga
+       }
+       
+       {
+          if ( ( time * 8 ) % 7 == 5 )
+                   	blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+		colored
+          map      textures\shock\servbot\1448_0002.tga
+       }
+       
+       {
+          if ( ( time * 8 ) % 7 == 6 )
+                   	blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+		colored
+          map      textures\shock\servbot\1448_0001.tga
+       }
+
+       {
+          if ( ( time * 8 ) % 7 == 7 )
+                   	blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+		colored
+          map      textures\shock\servbot\1448_0000.tga
+       }
+
+}

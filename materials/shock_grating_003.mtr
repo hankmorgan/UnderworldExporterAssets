@@ -1,0 +1,15 @@
+textures\shock\grating\2417
+{
+	DECAL_MACRO
+	noShadows
+	twoSided
+	monsterclip
+	playerclip
+        	
+	qer_editorimage textures/shock/grating/2417.tga
+	{
+		blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+	colored
+		map textures/shock/grating/2417.tga
+	}
+}

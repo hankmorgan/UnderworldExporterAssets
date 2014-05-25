@@ -1,0 +1,113 @@
+skin uw2_painting_00
+{
+   model models/darkmod/uw2/painting.ase
+   textures/uw2/tmobj/tmobj_42 textures/uw2/tmobj/tmobj_42
+}
+
+skin uw2_painting_01
+{
+   model models/darkmod/uw2/painting.ase
+   textures/uw2/tmobj/tmobj_42 textures/uw2/tmobj/tmobj_43
+}
+
+skin uw2_painting_02
+{
+   model models/darkmod/uw2/painting.ase
+   textures/uw2/tmobj/tmobj_42 textures/uw2/tmobj/tmobj_44
+}
+
+skin uw2_painting_03
+{
+   model models/darkmod/uw2/painting.ase
+   textures/uw2/tmobj/tmobj_42 textures/uw2/tmobj/tmobj_45
+}
+
+skin uw2_painting_04
+{
+   model models/darkmod/uw2/painting.ase
+   textures/uw2/tmobj/tmobj_42 textures/uw2/tmobj/tmobj_46
+}
+
+skin uw2_painting_05
+{
+   model models/darkmod/uw2/painting.ase
+   textures/uw2/tmobj/tmobj_42 textures/uw2/tmobj/tmobj_47
+}
+
+skin uw2_doors_00
+{
+     model models/darkmod/uw1/uw_door.ase
+     textures/uw2/doors/doors_00 textures/uw2/doors/doors_00
+}
+
+skin uw2_doors_01
+{
+     model models/darkmod/uw1/uw_door.ase
+     textures/uw2/doors/doors_00 textures/uw2/doors/doors_01
+}
+
+skin uw2_doors_02
+{
+     model models/darkmod/uw1/uw_door.ase
+     textures/uw2/doors/doors_00 textures/uw2/doors/doors_02
+}
+
+skin uw2_doors_03
+{
+     model models/darkmod/uw1/uw_door.ase
+     textures/uw2/doors/doors_00 textures/uw2/doors/doors_03
+}
+
+skin uw2_doors_04
+{
+     model models/darkmod/uw1/uw_door.ase
+     textures/uw2/doors/doors_00 textures/uw2/doors/doors_04
+}
+
+skin uw2_doors_05
+{
+     model models/darkmod/uw1/uw_door.ase
+     textures/uw2/doors/doors_00 textures/uw2/doors/doors_05
+}
+
+skin uw2_doors_06
+{
+     model models/darkmod/uw1/uw_door.ase
+     textures/uw2/doors/doors_00 textures/uw2/doors/doors_06
+}
+
+skin uw2_doors_07
+{
+     model models/darkmod/uw1/uw_door.ase
+     textures/uw2/doors/doors_00 textures/uw2/doors/doors_07
+}
+
+skin uw2_doors_08
+{
+     model models/darkmod/uw1/uw_door.ase
+     textures/uw2/doors/doors_00 textures/uw2/doors/doors_08
+}
+
+skin uw2_doors_09
+{
+     model models/darkmod/uw1/uw_door.ase
+     textures/uw2/doors/doors_00 textures/uw2/doors/doors_09
+}
+
+skin uw2_doors_10
+{
+     model models/darkmod/uw1/uw_door.ase
+     textures/uw2/doors/doors_00 textures/uw2/doors/doors_10
+}
+
+skin uw2_doors_11
+{
+     model models/darkmod/uw1/uw_door.ase
+     textures/uw2/doors/doors_00 textures/uw2/doors/doors_11
+}
+
+skin uw2_doors_12
+{
+     model models/darkmod/uw1/uw_door.ase
+     textures/uw2/doors/doors_00 textures/uw2/doors/doors_12
+}

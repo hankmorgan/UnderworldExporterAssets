@@ -1,0 +1,12 @@
+textures\uw2\tmobj\tmobj_10
+{
+	bumpmap	_flat
+	diffusemap	textures\uw2\tmobj\tmobj_10.tga
+	specularmap	_black
+	qer_editorimage textures\uw2\tmobj\tmobj_10.tga
+	{
+		blend gl_dst_color, gl_one
+	colored
+		map textures\uw2\tmobj\tmobj_10.tga
+	}
+}
