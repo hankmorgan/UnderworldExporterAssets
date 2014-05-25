@@ -1,0 +1,4 @@
+Ogg audio files of the following
+
+shock_barks	- regular computer voice sounds (barkx.ogg)
+shock_logs	- Audio logs and emails (log_xxxx.ogg) from 2441 onwards.

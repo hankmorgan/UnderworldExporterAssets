@@ -1,0 +1,9 @@
+Actual Assets in this folder
+Tga extracts of the following
+
+shock
+shock\doors - chunk 2400-2439 Regular & Reversed
+shock\hud   - 0617
+shock\logs  - chunk 0040
+shock\screens - 0321-0422
+shock\switches - chunk 1350

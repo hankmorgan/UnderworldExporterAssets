@@ -1,0 +1,16 @@
+Contains the following folders
+Assets were extracted using preexisting dumptex tool
+
+Uw1	-Regular uw textures (order may have to be reversed?)
+Uw1\Doors - from doors.gr
+UW1\tmobj - tmboj.gr
+Uw2	-Regular uw2 textures
+Uw2\Doors
+UW2\tmobj
+shock		-regular textures from objart.res
+shock\graffiti	- chunk 0079
+shock\grating   - 2415-2417
+shock\icon	- chunk 0078
+shock\model     - 0475-525 and 2180-2194
+shock\painting  - 1350_0403-1350_0405
+shock\sign	- 1350_0390-1350_0391
