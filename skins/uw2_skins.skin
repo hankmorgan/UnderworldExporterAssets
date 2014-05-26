@@ -195,3 +195,9 @@ skin uw2_sign_07
     model models/darkmod/uw1/uw1_sign.ase
     textures/uw1/tmobj/tmobj_20 textures/uw2/tmobj/tmobj_27
 }
+
+skin uw2_bridge_texture_189
+{
+    model models/darkmod/uw1/uw1_bridge_new.ase
+    textures/uw1/tmobj/tmobj_30 textures/uw2/uw2_189
+}
