@@ -1,0 +1,6697 @@
+
+The directory is at 132916
+there are 188 chunks
+The first chunk is at 128
+Index: 0, Chunk 2151, Unpack size 4958, compression 2, packed size 4958, content type 1	Absolute address is 128
+
+Index: 0 Chunk 2151 has 110 sub chunks
+@Chunk:2151
+{
++=====================================+
+0 = This is the first trap message.
+1 = Cyborg conversion cancelled.  Standard station restoration procedures on line.
+2 = Cyborg conversion activated.  Restoration procedures modified to generate cybernetic assistants for SHODAN
+3 = Safety Interlocks Enabled.
+4 = Safety Interlocks Disabled.
+5 = Grove Doors Unlocked.
+6 = Shield Generators Ready.
+7 = Generators Require Isotope.
+8 = Radiation Shields Activated.
+9 = Reactor Overload Fuse Bypassed.
+10 = Particle Beam Firing.
+11 = Reactor Overload Access Granted.
+12 = Jettison enable failure.  Possible cause: damage to power relay.  Consult diagnostic report in repair bay, maintenance level (LV.3),  for detailed analysis.
+13 = Relay 428 Faulty.
+14 = Replace broken interface demodulator.
+15 = Demodulator replacement successful.
+16 = Security access not granted.
+17 = Destruct Security Clearance Accepted.
+18 = Reactor Destruct Countdown Started.
+19 = Grove jettisoned!
+20 = Safety Interlocks still engaged.
+21 = Communications Array Disabled.
+22 = Non-Emergency -- Life Pods Disabled.
+23 = Life Pod Launch Initiated!
+24 = Destruct Access cancelled by SHODAN.
+25 = Pod Launch Cancelled by SHODAN.
+26 = Bridge Separation Complete.
+27 = Non-Emergency Access shutdown by SHODAN.
+28 = Hurrah!  You win!
+29 = Master Jettison Enable not activated.
+30 = Jettison now enabled for all groves.
+31 = power diverted to level R.
+32 = Elevator disabled: BioHazard emergency.
+33 = 15 seconds to escape pod launch.
+34 = 10 seconds to escape pod launch.
+35 = 5 seconds to escape pod launch.
+36 = Escape pod launch aborted.
+37 = I think not!  It is I, not you, who will be leaving the station, which you have doomed to fiery ruin.  As I separate the bridge and escape, you may stay to count the final minutes of your sad existence.
+38 = Radiation Treatment Complete.
+39 = Charging interrupted and robots reactivated.
+40 = Door auto-close disabled.
+41 = Gamma Grove already jettisoned.
+42 = Radiation Shields Deactivated.
+43 = Safety override: beam not fired.
+44 = Destruction of Earth targets initiated.
+45 = The panel doesn't move.
+46 = Charging station inactive.
+47 = Relay functioning correctly.
+48 = Force Door 1 to Computer Room Opened.
+49 = Force Door 2 to Computer Room Opened.
+50 = Force Door 3 to Computer Room Opened.
+51 = WARNING: Bridge Separation Process Initiated.  All unnecessary personnel clear the level.
+52 = WARNING: Bridge Separation Process Stage Two.  Engines Charging for Firing.  All personnel leave the area immediately.
+53 = WARNING: Bridge Separation Imminent.  Atmospheric depressurization commencing.
+54 = Door locked - no maintenance necessary.
+55 = The switch does not move.
+56 = The laser has been destroyed.
+57 = Nice jump, human.
+58 = No! You will cease immediately!
+59 = Destroy it,my children!
+60 = Camera activating security door.
+61 = Program: security breaker installed.
+62 = This receptacle is for isolinear chipsets.
+63 = Aborting program.  SHODAN security system back online.
+64 = Welcome to the throne of God, mortal.
+65 = WARNING: rapidly falling air pressure.
+66 = Welcome to my death machine, interloper!
+67 = Robot production cancelled.
+68 = Access Panel is Locked
+69 =  
+70 = You are not welcomed here.  Remove yourself.
+71 = Enter that room, insect, and it will become your grave.
+72 = Secuity Bots to the viewing room!  The intruder is here!
+73 = Step right into my trap, little hacker.
+74 = I'm afraid it's too late to save your friends.
+75 = Did you really think I would not deduce where you would run to, insect?
+76 = Recharging station access granted.
+77 = Security computer override necessary.
+78 = Enter code in access panel.
+79 = Warning!  Dangerous bio-contaminant detected.  Do not enter without protective suit.
+80 = Reactor overload in progress. All security personnel to emergency checkpoints. Blast door to Security level is now open.
+81 = Destruct not enabled.
+82 = Blast door locked.
+83 = Blast door unlocked.
+84 = Armory access overridden.
+85 = Armory access reinstituted.
+86 = Bay Door No. 3 unlocked.
+87 = Bay Door No. 3 locked.
+88 = This elevator serves me alone.  I have complete control over this entire level.  With cameras as my eyes and nodes as my hands, I rule here, insect.
+89 = Insect, cease your meddling!  My experiment must continue!
+90 = If I have to release my infected children to stop you, so be it.
+91 = Grove jettison enable stage one complete.
+92 = Access Panel Unlocked.
+93 = Jettison already enabled.
+94 = Beta Grove already jettisoned.
+95 = Core Locks Disengaged.
+96 = The pedestal is not functional.
+97 = The machine is broken.
+98 = Turn around and face me, insect!
+99 = Having trouble, insect? Turn and face your executioner!
+100 = Now face your executioner, insect!
+101 = Destroy my cameras, will you?
+102 = Make yourself comfortable, hacker.  Stay a while.
+103 = Hospital level security doors opened.
+104 = Storage closet unlocked - I.D. Edward Diego.
+105 = Beta grove elevator unlocked.
+106 = Flight Bay armory unlocked.
+107 = The lever is stuck.
+108 = Detention cells unlocked.
+}
+Index: 1, Chunk 2152, Unpack size 1185, compression 2, packed size 1185, content type 1	Absolute address is 5088
+
+Index: 1 Chunk 2152 has 106 sub chunks
+@Chunk:2152
+{
++=====================================+
+0 = 0
+1 = 1
+2 = 2
+3 = 3
+4 = 4
+5 = 5
+6 = 6
+7 = 7
+8 = 8
+9 = 9
+10 = E
+11 = BAY
+12 = LEVEL
+13 = DECK
+14 = STATION
+15 = QUAD
+16 = QUADRANT
+17 = ALPHA
+18 = BETA
+19 = GAMMA
+20 = DELTA
+21 = REACTOR
+22 = ENERGY
+23 = SECURITY
+24 = RESEARCH
+25 = MEDICAL
+26 = EXECUTIVE
+27 = RESIDENTIAL
+28 = STORAGE
+29 = MAINT
+30 = ADMIN
+31 = DINING
+32 = GROVE
+33 = ENGINE
+34 = CYBER
+35 = ZONE
+36 = AREA
+37 = EXEC
+38 = DORM
+39 = DIEGO
+40 = RELAY
+41 = ANAL
+42 = YZER
+43 = REPAIR
+44 = CONTROL
+45 = DOCTOR
+46 = NATHAN
+47 = D'ARCY
+48 = RADIATION
+49 = TREATMENT
+50 = SHIELD
+51 = GENERATOR
+52 = LIBRARY
+53 = EXTRACTION
+54 = INTERROGATION
+55 = MONITORING
+56 = SURVEILLANCE
+57 = DETENTION
+58 = R
+59 = SAFETY
+60 = ACCESS
+61 = EXPERIMENTAL
+62 = SECURITY
+63 = OVERRIDE
+64 = DIAGNOSTIC
+65 = LOGS
+66 = COMPUTER
+67 = PROGRAM
+68 = ENTRY
+69 = FLIGHT
+70 = CYB
+71 = CONVERSION
+72 = SCREEN
+73 = MAINTENANCE
+74 = ROBOT
+75 = LASER
+76 = JETTISON
+77 = ENABLE
+78 = DIE
+79 = SHODAN
+80 = HUMAN
+81 = SCUM
+82 = SERVE
+83 = GRAY
+84 = EMERGENCY
+85 = HERE
+86 = OFFICE
+87 = MASTER CONTROL
+88 = LEVER
+89 = HEALING
+90 = SUITE
+91 = NEUROSURGERY
+92 = ELEVATOR
+93 = DORSTAG RULES
+94 = AVATAR KICKS
+95 = SYSTEM
+96 = ISTRATOR
+97 = CORE
+98 = ROOM
+99 = BRIDGE
+100 = CONFINEMENT
+101 = SPECIMEN
+102 = NEURO
+103 = SURGERY
+104 = HIGH AMPERAGE
+105 = OMEGA
+}
+Index: 2, Chunk 2153, Unpack size 2523, compression 2, packed size 2523, content type 1	Absolute address is 6276
+
+Index: 2 Chunk 2153 has 97 sub chunks
+@Chunk:2153
+{
++=====================================+
+0 = 
+1 = cyborg conversion control
+2 = security panel for overload fuse
+3 = reactor overload fuse control
+4 = particle beam activation control
+5 = isotope X receptacle
+6 = shield generator control
+7 = reactor destruct access
+8 = reactor destruct sequence control
+9 = relay 428
+10 = relay 110
+11 = relay 947
+12 = relay 16
+13 = fusion injector 33A
+14 = fusion injector 12D
+15 = energy conduit C-9
+16 = energy conduit C-4
+17 = primary coolant regulator
+18 = secondary coolant regulator
+19 = tertiary coolant regulator
+20 = primary life support monitor
+21 = secondary life support monitor
+22 = energy conduit C-7
+23 = energy conduit C-1
+24 = energy conduit C-2
+25 = energy conduit C-3
+26 = energy conduit C-5
+27 = energy conduit C-6
+28 = energy conduit C-8
+29 = relay 88
+30 = exterior sensor array regulator
+31 = internal sensor array regulator
+32 = food replication backup control
+33 = waste disposal backup control
+34 = air purification backup control
+35 = auxiliary engine report generator
+36 = primary engine report generator
+37 = general redundant databank
+38 = soylant green filtration control
+39 = relay 516
+40 = relay 101
+41 = relay 333
+42 = relay 8
+43 = plasma injection control A
+44 = plasma injection control B
+45 = matter reclamation control
+46 = relay 277
+47 = relay 419
+48 = iridium transfer control
+49 = local forcefield monitor
+50 = E-bypass 77
+51 = E-bypass 78
+52 = E-bypass 79
+53 = relay 998
+54 = relay 73
+55 = relay 44
+56 = relay 371
+57 = relay 2
+58 = central core force bridge control
+59 = force bridge control
+60 = network routing access panel
+61 = radiation treatment activation button
+62 = robot charge interrupt
+63 = repulsor control
+64 = laser safety override access
+65 = laser override control
+66 = library door
+67 = relay analyzer keypad
+68 = circuit breaker lever
+69 = soft panelling
+70 = duralloy panelling
+71 = routing controller 47-C
+72 = routing controller 47-B
+73 = routing controller 47-A
+74 = primary airlock safety grid
+75 = secondary airlock safety grid
+76 = plasma flux monitor
+77 = primary gravity regulator
+78 = secondary gravity regulator
+79 = planetary research databank
+80 = relay 183
+81 = auxiliary power monitor alpha
+82 = auxiliary power monitor beta
+83 = auxiliary power monitor gamma
+84 = temporal distortion monitor
+85 = xenobiologic detection grid control
+86 = tertiary life support monitor
+87 = relay 607
+88 = display pedestal
+89 = Alpha Grove jettison lever
+90 = Beta Grove jettison lever
+91 = Gamma Grove jettison lever
+92 = Delta Grove jettison lever
+93 = system status display lever
+94 = force bridge control
+95 = jettison-enable lever
+96 = FORCE FIELD
+}
+Index: 3, Chunk 2154, Unpack size 7776, compression 2, packed size 7776, content type 1	Absolute address is 8800
+
+Index: 3 Chunk 2154 has 512 sub chunks
+@Chunk:2154
+{
++=====================================+
+0 = duralloy panelling
+1 = duralloy panelling
+2 = magnetic containment system
+3 = magnetic containment system
+4 = magnetic containment system
+5 = equipment storage
+6 = energy monitoring station
+7 = rad observation console
+8 = duct
+9 = sensor grid
+10 = high energy transformer
+11 = energy conduits
+12 = energy conduits
+13 = structo-punctuator
+14 = energy conduits
+15 = energy conduits
+16 = energy conduits
+17 = molybdenum panelling
+18 = molybdenum panelling
+19 = cable access port
+20 = halogen lamp
+21 = molybdenum panelling
+22 = molybdenum panelling
+23 = relay network
+24 = molybdenum panelling
+25 = power coupling
+26 = halogen lighting
+27 = circuit relay
+28 = relay access port
+29 = power monitor
+30 = data transfer array
+31 = diagnostic module
+32 = comm panel
+33 = fluorescent lighting
+34 = fluorescent lighting
+35 = fluorescent lighting
+36 = fluorescent lighting
+37 = rubberized panelling
+38 = clinical panelling
+39 = environmental regulator
+40 = medical instruments
+41 = medical diagnostic tools
+42 = clinical panelling
+43 = clinical panelling
+44 = medical computer
+45 = healing incubator
+46 = clinical panelling
+47 = clinical panelling
+48 = clinical panelling
+49 = environmental regulator
+50 = clinical panelling
+51 = clinical panelling
+52 = fluorescent lighting
+53 = fluorescent lighting
+54 = duct
+55 = duct
+56 = pipes
+57 = aluminum panelling
+58 = aluminum panelling
+59 = aluminum panelling
+60 = aluminum panelling
+61 = environmental regulator
+62 = molecular analyzer
+63 = environmental regulator
+64 = aluminum panelling
+65 = aluminum panelling
+66 = damaged panelling
+67 = matter converter
+68 = matter converter
+69 = damaged regulator
+70 = aluminum panelling
+71 = instruments
+72 = instrument panel
+73 = aluminum panelling
+74 = diagnostic panel
+75 = composite panelling
+76 = diagnostic panel
+77 = instrument panel
+78 = data conduit
+79 = data conduit
+80 = atmospheric regulator
+81 = comm port
+82 = quartz light fixture
+83 = quartz light fixture
+84 = industrial tiles
+85 = industrial tiles
+86 = industrial tiles
+87 = industrial tiles
+88 = industrial tiles
+89 = industrial tiles
+90 = chemical storage
+91 = repair station
+92 = chemical dispensory
+93 = robot diagnostic system
+94 = repair station
+95 = storage area
+96 = chemical dispensory
+97 = repair station
+98 = duct
+99 = quartz light fixture
+100 = hi-grip surface
+101 = energ-light
+102 = energ-light
+103 = energ-light
+104 = energ-light
+105 = no-scrape storeroom wall
+106 = no-scrape storeroom wall
+107 = no-scrape storeroom wall
+108 = no-scrape storeroom wall
+109 = no-scrape storeroom wall
+110 = no-scrape storeroom wall
+111 = non-dent steel panelling
+112 = non-dent steel panelling
+113 = non-dent steel panelling
+114 = environmental regulator
+115 = structural pillar
+116 = non-dent steel panelling
+117 = carpet
+118 = elevator panelling
+119 = elevator panelling
+120 = soft panelling
+121 = burnt panelling
+122 = tech-rack
+123 = tech-rack
+124 = corridor wall
+125 = corridor wall
+126 = corridor wall
+127 = corridor wall
+128 = corridor wall
+129 = corridor wall
+130 = automatic teller machine
+131 = duct
+132 = automatic teller machine
+133 = fold-up bed
+134 = fold-up bed
+135 = private locker
+136 = kitchenette
+137 = kitchenette
+138 = video screen
+139 = molybdenum panelling
+140 = molybdenum panelling
+141 = light fixture
+142 = data transfer schematic
+143 = silver panelling
+144 = light fixture
+145 = silver panelling
+146 = obsidian slab
+147 = carpet
+148 = parquet tiling
+149 = obsidian slab
+150 = marble slab
+151 = marble slab
+152 = trioptimum logo
+153 = trioptimum logo
+154 = hi-grip surface
+155 = halogen light fixture
+156 = hi-grip surface
+157 = damaged light fixture
+158 = environmental regulator
+159 = fluid transport pipes
+160 = engineering panelling
+161 = fluid transport pipes
+162 = system function gauges
+163 = engineering instruments
+164 = electric cable access
+165 = data circuit access port
+166 = observation station
+167 = engineering panelling
+168 = atmospheric regulator
+169 = fluid transport pipes
+170 = instruments
+171 = instruments
+172 = ladder
+173 = data access port
+174 = instruments
+175 = panelling
+176 = stone mosaic tiling
+177 = observation ceiling
+178 = SHODAN neural bud
+179 = biological infestation
+180 = burnished platinum panelling
+181 = cyber station
+182 = overgrowth
+183 = burnished platinum panelling
+184 = video observation screen
+185 = flood light
+186 = monitoring post
+187 = monitoring post
+188 = incandescent light
+189 = grating
+190 = access station
+191 = access station
+192 = fluid transport pipes
+193 = access station
+194 = fluid transport pipes
+195 = power conduits
+196 = ladder
+197 = access station
+198 = access station
+199 = fluid transport pipes
+200 = access station
+201 = fluid transport pipes
+202 = grass
+203 = grass
+204 = wet grass
+205 = space
+206 = environment pod wall
+207 = overgrowth
+208 = environment pod wall
+209 = overgrown panel
+210 = environment regulator
+211 = overgrowth
+212 = sprinkler system
+213 = overgrowth
+214 = lecture screen
+215 = fluorescent light
+216 = fluorescent light
+217 = high-power light
+218 = high-power light
+219 = tile panelling
+220 = tile panelling
+221 = sof-impac panelling
+222 = comm port
+223 = comm port
+224 = environmental regulator
+225 = environmental regulator
+226 = soft panelling
+227 = soft panelling
+228 = modular panelling
+229 = biological infestation
+230 = biological infestation
+231 = biological infestation
+232 = biological infestation
+233 = power exchanger
+234 = power exchanger
+235 = power exchanger
+236 = power exchanger
+237 = field generation rotor
+238 = field generation rotor
+239 = field generation rotor
+240 = field generation rotor
+241 = biological infestation
+242 = biological infestation
+243 = biological infestation
+244 = biological infestation
+245 = virus infestation
+246 = virus infestation
+247 = virus infestation
+248 = virus infestation
+249 = virus infestation
+250 = virus infestation
+251 = grip surface
+252 = repulsor lift
+253 = repulsor lift
+254 = grip surface
+255 = grip surface
+256 = grip surface
+257 = grip surface
+258 = computer
+259 = titanium panelling
+260 = thick rug
+261 = oak panelling
+262 = rich marble
+263 = rich marble
+264 = rich marble
+265 = rich marble
+266 = display screen
+267 = cracked radiation tile
+268 = cracked radiation tile
+269 = jump disk
+270 = restoration bay
+271 = biological infestation
+272 = biological infestation
+273 = bug
+274 = bug
+275 = bug
+276 = bug
+277 = bug
+278 = bug
+279 = bug
+280 = bug
+281 = bug
+282 = bug
+283 = bug
+284 = bug
+285 = bug
+286 = bug
+287 = bug
+288 = bug
+289 = bug
+290 = bug
+291 = bug
+292 = bug
+293 = bug
+294 = bug
+295 = bug
+296 = bug
+297 = bug
+298 = bug
+299 = bug
+300 = bug
+301 = bug
+302 = bug
+303 = bug
+304 = bug
+305 = bug
+306 = bug
+307 = bug
+308 = bug
+309 = bug
+310 = bug
+311 = bug
+312 = bug
+313 = bug
+314 = bug
+315 = bug
+316 = bug
+317 = bug
+318 = bug
+319 = bug
+320 = bug
+321 = bug
+322 = bug
+323 = bug
+324 = bug
+325 = bug
+326 = bug
+327 = bug
+328 = bug
+329 = bug
+330 = bug
+331 = bug
+332 = bug
+333 = bug
+334 = bug
+335 = bug
+336 = bug
+337 = bug
+338 = bug
+339 = bug
+340 = bug
+341 = bug
+342 = bug
+343 = bug
+344 = bug
+345 = bug
+346 = bug
+347 = bug
+348 = bug
+349 = bug
+350 = bug
+351 = bug
+352 = bug
+353 = bug
+354 = bug
+355 = bug
+356 = bug
+357 = bug
+358 = bug
+359 = bug
+360 = bug
+361 = bug
+362 = bug
+363 = bug
+364 = bug
+365 = bug
+366 = bug
+367 = bug
+368 = bug
+369 = bug
+370 = bug
+371 = bug
+372 = bug
+373 = bug
+374 = bug
+375 = bug
+376 = bug
+377 = bug
+378 = bug
+379 = bug
+380 = bug
+381 = bug
+382 = bug
+383 = bug
+384 = bug
+385 = bug
+386 = bug
+387 = bug
+388 = bug
+389 = bug
+390 = bug
+391 = bug
+392 = bug
+393 = bug
+394 = bug
+395 = bug
+396 = bug
+397 = bug
+398 = bug
+399 = bug
+400 = bug
+401 = bug
+402 = bug
+403 = bug
+404 = bug
+405 = bug
+406 = bug
+407 = bug
+408 = bug
+409 = bug
+410 = bug
+411 = bug
+412 = bug
+413 = bug
+414 = bug
+415 = bug
+416 = bug
+417 = bug
+418 = bug
+419 = bug
+420 = bug
+421 = bug
+422 = bug
+423 = bug
+424 = bug
+425 = bug
+426 = bug
+427 = bug
+428 = bug
+429 = bug
+430 = bug
+431 = bug
+432 = bug
+433 = bug
+434 = bug
+435 = bug
+436 = bug
+437 = bug
+438 = bug
+439 = bug
+440 = bug
+441 = bug
+442 = bug
+443 = bug
+444 = bug
+445 = bug
+446 = bug
+447 = bug
+448 = bug
+449 = bug
+450 = bug
+451 = bug
+452 = bug
+453 = bug
+454 = bug
+455 = bug
+456 = bug
+457 = bug
+458 = bug
+459 = bug
+460 = bug
+461 = bug
+462 = bug
+463 = bug
+464 = bug
+465 = bug
+466 = bug
+467 = bug
+468 = bug
+469 = bug
+470 = bug
+471 = bug
+472 = bug
+473 = bug
+474 = bug
+475 = bug
+476 = bug
+477 = bug
+478 = bug
+479 = bug
+480 = bug
+481 = bug
+482 = bug
+483 = bug
+484 = bug
+485 = bug
+486 = bug
+487 = bug
+488 = bug
+489 = bug
+490 = bug
+491 = bug
+492 = bug
+493 = bug
+494 = bug
+495 = bug
+496 = bug
+497 = bug
+498 = bug
+499 = bug
+500 = bug
+501 = bug
+502 = bug
+503 = bug
+504 = bug
+505 = bug
+506 = bug
+507 = bug
+508 = bug
+509 = bug
+510 = bug
+511 = bug
+}
+Index: 4, Chunk 2155, Unpack size 10876, compression 2, packed size 10876, content type 1	Absolute address is 16576
+
+Index: 4 Chunk 2155 has 512 sub chunks
+@Chunk:2155
+{
++=====================================+
+0 = can't use panelling
+1 = can't use panelling
+2 = can't use containment system
+3 = can't use containment system
+4 = can't use containment system
+5 = can't use storage
+6 = can't use monitoring station
+7 = can't use console
+8 = can't use duct
+9 = can't use grid
+10 = can't use transformer
+11 = can't use conduits
+12 = can't use conduits
+13 = can't use structo-punctuator
+14 = can't use conduits
+15 = can't use conduits
+16 = can't use conduits
+17 = can't use panelling
+18 = can't use panelling
+19 = can't use access port
+20 = bulb needs replacing
+21 = can't use panelling
+22 = can't use panelling
+23 = can't use relay network
+24 = can't use panelling
+25 = can't use coupling
+26 = bulb needs replacing
+27 = can't use relay
+28 = can't use access port
+29 = can't use monitor
+30 = can't use transfer array
+31 = diagnostic module inactive
+32 = controls inactive
+33 = bulb needs replacing
+34 = bulb needs replacing
+35 = can't use lighting
+36 = can't use lighting
+37 = can't use panelling
+38 = can't use panelling
+39 = standard temperature settings
+40 = can't use instruments
+41 = can't use diagnostic tools
+42 = can't use panelling
+43 = can't use panelling
+44 = can't use computer
+45 = can't use incubator
+46 = can't use panelling
+47 = can't use panelling
+48 = can't use panelling
+49 = thermostat broken
+50 = can't use panelling
+51 = can't use panelling
+52 = bulb needs replacing
+53 = can't use fluorescent lighting
+54 = can't use duct
+55 = can't use duct
+56 = can't use pipes
+57 = can't use panelling
+58 = can't use panelling
+59 = can't use panelling
+60 = can't use panelling
+61 = standard humidity setting
+62 = can't use analyzer
+63 = slight damage to regulator
+64 = can't use panelling
+65 = can't use panelling
+66 = can't use panelling
+67 = can't use converter
+68 = can't use converter
+69 = please submit repair order
+70 = can't use panelling
+71 = please submit repair order
+72 = can't use instrument panel
+73 = can't use panelling
+74 = can't use diagnostic panel
+75 = can't use panelling
+76 = can't use diagnostic panel
+77 = can't use instrument panel
+78 = can't use data conduit
+79 = can't use data conduit
+80 = standard environmental setting
+81 = can't use comm port
+82 = can't use light fixture
+83 = bulb needs replacing
+84 = can't use tiles
+85 = can't use tiles
+86 = can't use tiles
+87 = can't use tiles
+88 = can't use tiles
+89 = can't use tiles
+90 = can't use chemical storage
+91 = can't use repair station
+92 = can't use chemical dispensory
+93 = can't use diagnostic system
+94 = can't use repair station
+95 = can't use damaged storage area
+96 = can't use chemical dispensory
+97 = can't use repair station
+98 = can't use duct
+99 = can't use quartz light fixture
+100 = can't use hi-grip surface
+101 = can't use light
+102 = can't use light
+103 = can't use light
+104 = can't use light
+105 = can't use wall
+106 = can't use wall
+107 = can't use wall
+108 = can't use wall
+109 = can't use wall
+110 = can't use wall
+111 = can't use panelling
+112 = can't use panelling
+113 = can't use panelling
+114 = arctic setting
+115 = can't use structural pillar
+116 = can't use panelling
+117 = carpet needs cleaning
+118 = can't use panelling
+119 = can't use panelling
+120 = can't use panelling
+121 = can't use panelling
+122 = can't be used
+123 = can't be used
+124 = can't use wall
+125 = can't use wall
+126 = can't use wall
+127 = can't use wall
+128 = can't use wall
+129 = can't use wall
+130 = machine being serviced
+131 = can't use duct
+132 = machine being serviced
+133 = can't use bed
+134 = can't use bed
+135 = can't use locker
+136 = can't use kitchenette
+137 = can't use kitchenette
+138 = can't use video screen
+139 = can't use panelling
+140 = can't use panelling
+141 = can't use panelling
+142 = can't use schematic
+143 = can't use panelling
+144 = bulb needs replacing
+145 = can't use panelling
+146 = can't use slab
+147 = carpet needs cleaning
+148 = please submit cleaning order
+149 = can't use slab
+150 = can't use slab
+151 = can't use slab
+152 = can't be used
+153 = can't be used
+154 = can't be used
+155 = can't use light fixture
+156 = can't be used
+157 = bulb needs replacing
+158 = standard temperature
+159 = can't use pipes
+160 = can't use panelling
+161 = can't use pipes
+162 = can't use system
+163 = can't use instruments
+164 = can't use cable access
+165 = can't use access port
+166 = can't use station
+167 = can't use panelling
+168 = moisture removal system damaged
+169 = can't use pipes
+170 = can't use instruments
+171 = can't use instruments
+172 = move into ladder while jumping
+173 = can't use access port
+174 = can't use instruments
+175 = can't use panelling
+176 = can't use tiling
+177 = can't be used
+178 = can't use SHODAN neural bud
+179 = can't use infestation
+180 = can't use panelling
+181 = can't use cyber station
+182 = can't use overgrowth
+183 = can't use panelling
+184 = can't use screen
+185 = can't use light
+186 = can't be used
+187 = can't be used
+188 = bulb needs replacing
+189 = can't use grating
+190 = can't use access station
+191 = can't use access station
+192 = can't use pipes
+193 = can't use access station
+194 = can't use pipes
+195 = can't use power conduits
+196 = move into ladder while jumping
+197 = can't use access station
+198 = can't use access station
+199 = can't use pipes
+200 = can't use access station
+201 = can't use fluid transport pipes
+202 = can't be used
+203 = can't be used
+204 = can't be used
+205 = can't be used
+206 = can't use wall
+207 = can't be used
+208 = can't use wall
+209 = can't use overgrowth
+210 = optimal greenhouse setting
+211 = can't use overgrowth
+212 = can't use sprinkler system
+213 = can't use overgrowth
+214 = can't use screen
+215 = can't use light
+216 = can't use light
+217 = can't use light
+218 = can't use light
+219 = can't use panelling
+220 = can't use panelling
+221 = can't use panelling
+222 = can't use comm port
+223 = can't use comm port
+224 = standard temperature settings
+225 = low humidity setting
+226 = can't use panelling
+227 = can't use panelling
+228 = can't use panelling
+229 = can't use infestation
+230 = can't use infestation
+231 = can't use infestation
+232 = can't use infestation
+233 = can't use exchanger
+234 = can't use exchanger
+235 = can't use exchanger
+236 = can't use exchanger
+237 = can't use rotor
+238 = can't use rotor
+239 = can't use rotor
+240 = can't use rotor
+241 = can't use infestation
+242 = can't use infestation
+243 = can't use infestation
+244 = can't use infestation
+245 = can't use infestation
+246 = can't use infestation
+247 = can't use infestation
+248 = can't use infestation
+249 = can't use infestation
+250 = can't use infestation
+251 = can't be used
+252 = step into region
+253 = step into region
+254 = can't be used
+255 = can't be used
+256 = can't be used
+257 = can't be used
+258 = can't be used
+259 = can't use panelling
+260 = rug needs cleaning
+261 = can't use panelling
+262 = can't be used
+263 = can't be used
+264 = can't be used
+265 = can't be used
+266 = output only
+267 = can't be used
+268 = can't be used
+269 = step into region
+270 = activated automatically
+271 = can't use infestation
+272 = can't use infestation
+273 = can't be used
+274 = can't be used
+275 = can't be used
+276 = can't be used
+277 = can't be used
+278 = can't be used
+279 = can't be used
+280 = can't be used
+281 = can't be used
+282 = can't be used
+283 = can't be used
+284 = can't be used
+285 = can't be used
+286 = can't be used
+287 = can't be used
+288 = can't be used
+289 = can't be used
+290 = can't be used
+291 = can't be used
+292 = can't be used
+293 = can't be used
+294 = can't be used
+295 = can't be used
+296 = can't be used
+297 = can't be used
+298 = can't be used
+299 = can't be used
+300 = can't be used
+301 = can't be used
+302 = can't be used
+303 = can't be used
+304 = can't be used
+305 = can't be used
+306 = can't be used
+307 = can't be used
+308 = can't be used
+309 = can't be used
+310 = can't be used
+311 = can't be used
+312 = can't be used
+313 = can't be used
+314 = can't be used
+315 = can't be used
+316 = can't be used
+317 = can't be used
+318 = can't be used
+319 = can't be used
+320 = can't be used
+321 = can't be used
+322 = can't be used
+323 = can't be used
+324 = can't be used
+325 = can't be used
+326 = can't be used
+327 = can't be used
+328 = can't be used
+329 = can't be used
+330 = can't be used
+331 = can't be used
+332 = can't be used
+333 = can't be used
+334 = can't be used
+335 = can't be used
+336 = can't be used
+337 = can't be used
+338 = can't be used
+339 = can't be used
+340 = can't be used
+341 = can't be used
+342 = can't be used
+343 = can't be used
+344 = can't be used
+345 = can't be used
+346 = can't be used
+347 = can't be used
+348 = can't be used
+349 = can't be used
+350 = can't be used
+351 = can't be used
+352 = can't be used
+353 = can't be used
+354 = can't be used
+355 = can't be used
+356 = can't be used
+357 = can't be used
+358 = can't be used
+359 = can't be used
+360 = can't be used
+361 = can't be used
+362 = can't be used
+363 = can't be used
+364 = can't be used
+365 = can't be used
+366 = can't be used
+367 = can't be used
+368 = can't be used
+369 = can't be used
+370 = can't be used
+371 = can't be used
+372 = can't be used
+373 = can't be used
+374 = can't be used
+375 = can't be used
+376 = can't be used
+377 = can't be used
+378 = can't be used
+379 = can't be used
+380 = can't be used
+381 = can't be used
+382 = can't be used
+383 = can't be used
+384 = can't be used
+385 = can't be used
+386 = can't be used
+387 = can't be used
+388 = can't be used
+389 = can't be used
+390 = can't be used
+391 = can't be used
+392 = can't be used
+393 = can't be used
+394 = can't be used
+395 = can't be used
+396 = can't be used
+397 = can't be used
+398 = can't be used
+399 = can't be used
+400 = can't be used
+401 = can't be used
+402 = can't be used
+403 = can't be used
+404 = can't be used
+405 = can't be used
+406 = can't be used
+407 = can't be used
+408 = can't be used
+409 = can't be used
+410 = can't be used
+411 = can't be used
+412 = can't be used
+413 = can't be used
+414 = can't be used
+415 = can't be used
+416 = can't be used
+417 = can't be used
+418 = can't be used
+419 = can't be used
+420 = can't be used
+421 = can't be used
+422 = can't be used
+423 = can't be used
+424 = can't be used
+425 = can't be used
+426 = can't be used
+427 = can't be used
+428 = can't be used
+429 = can't be used
+430 = can't be used
+431 = can't be used
+432 = can't be used
+433 = can't be used
+434 = can't be used
+435 = can't be used
+436 = can't be used
+437 = can't be used
+438 = can't be used
+439 = can't be used
+440 = can't be used
+441 = can't be used
+442 = can't be used
+443 = can't be used
+444 = can't be used
+445 = can't be used
+446 = can't be used
+447 = can't be used
+448 = can't be used
+449 = can't be used
+450 = can't be used
+451 = can't be used
+452 = can't be used
+453 = can't be used
+454 = can't be used
+455 = can't be used
+456 = can't be used
+457 = can't be used
+458 = can't be used
+459 = can't be used
+460 = can't be used
+461 = can't be used
+462 = can't be used
+463 = can't be used
+464 = can't be used
+465 = can't be used
+466 = can't be used
+467 = can't be used
+468 = can't be used
+469 = can't be used
+470 = can't be used
+471 = can't be used
+472 = can't be used
+473 = can't be used
+474 = can't be used
+475 = can't be used
+476 = can't be used
+477 = can't be used
+478 = can't be used
+479 = can't be used
+480 = can't be used
+481 = can't be used
+482 = can't be used
+483 = can't be used
+484 = can't be used
+485 = can't be used
+486 = can't be used
+487 = can't be used
+488 = can't be used
+489 = can't be used
+490 = can't be used
+491 = can't be used
+492 = can't be used
+493 = can't be used
+494 = can't be used
+495 = can't be used
+496 = can't be used
+497 = can't be used
+498 = can't be used
+499 = can't be used
+500 = can't be used
+501 = can't be used
+502 = can't be used
+503 = can't be used
+504 = can't be used
+505 = can't be used
+506 = can't be used
+507 = can't be used
+508 = can't be used
+509 = can't be used
+510 = can't be used
+511 = can't be used
+}
+Index: 5, Chunk 2156, Unpack size 1105, compression 2, packed size 1105, content type 1	Absolute address is 27452
+
+Index: 5 Chunk 2156 has 82 sub chunks
+@Chunk:2156
+{
++=====================================+
+0 = 
+1 = WEAPONS
+2 = SHOTS
+3 = GRENADE
+4 = PATCHES
+5 = PISTOL AMMO
+6 = RIFLE
+7 = AUTO
+8 = NEEDLE
+9 = SPECIAL
+10 = HARDWARE
+11 = SOFTS
+12 = COMBAT SOFTS
+13 = DEFENSE
+14 = MISC SOFTWARE
+15 = GENERAL
+16 = EMAIL
+17 = DATA
+18 = LOGS
+19 = item rejected.
+20 = no more room in inventory.
+21 = < MORE
+22 = MORE >
+23 = LOAD
+24 = OVER
+25 = HOT
+26 = WARM
+27 = OK
+28 = Updating
+29 = CLICK TO LOAD
+30 = DOUBLE-CLICK TO UNLOAD
+31 = Time setting: 
+32 = ENERGY SETTING
+33 = LOW
+34 = HIGH
+35 = OVERLOAD ENABLED
+36 = Title: 
+37 = Subject:
+
+38 = No Items
+39 = Bioware
+40 = Health: 
+41 = Fatigue: 
+42 = Energy usage
+43 = bio-contaminant
+44 = radiation
+45 = loopline
+46 = 
+47 = 
+48 = Fatigue
+49 = Chi Waves
+50 = Compass
+51 = Explosion Detect
+52 = Live Grenades
+53 = full screen
+status bars
+54 = full screen
+side icons
+55 = map notes
+56 = hud colors
+57 = WEAPON
+58 = CLIPS
+59 = MAIN
+60 = HARDWARE
+61 = GENERAL
+62 = 
+63 = 
+64 = SOFTWARE
+65 = WEAPON
+66 = ITEM
+67 = AUTOMAP
+68 = TARGET
+69 = DATA
+70 = BIOWARE
+71 = FULL SCREEN
+72 = SENSAROUND
+73 = LANTERN
+74 = SHIELD
+75 = NIGHT SIGHT
+76 = COMPASS
+77 = DATA READER
+78 = BOOSTER
+79 = JUMP JETS
+80 = AUTOMAP SYSTEM NOT INSTALLED
+81 = stnths mPhssb  
+}
+Index: 6, Chunk 2157, Unpack size 6271, compression 2, packed size 6271, content type 1	Absolute address is 28560
+
+Index: 6 Chunk 2157 has 476 sub chunks
+@Chunk:2157
+{
++=====================================+
+0 = PISTOL
+1 = DARTGUN
+2 = MAGNUM
+3 = ASSLT RIFLE
+4 = RIOT GUN
+5 = FLECHETTE
+6 = SKORPION
+7 = MAGPULSE
+8 = RAIL GUN
+9 = PIPE
+10 = LASER RAPIER
+11 = SPARQ
+12 = BLASTER
+13 = ION BEAM
+14 = STUNGUN
+15 = PLASMA RFL
+16 = STANDARD
+17 = TEFLON
+18 = NEEDLE
+19 = TRANQ
+20 = HOLLOW
+21 = SLUG
+22 = SLUGS
+23 = MAGNESIUM
+24 = PENETRATOR
+25 = HORNET
+26 = SPLINTER
+27 = SLAG
+28 = LARGE SLAG
+29 = MAG CART
+30 = RAIL CLIP
+31 = BTRACE
+32 = ETRACE
+33 = ATRACE
+34 = NTRACE
+35 = GTRACE
+36 = RTRACE
+37 = VRSLOW
+38 = ELTSLOW
+39 = ASSLOW
+40 = MUTSLOW
+41 = ZEROSLOW
+42 = MAG BURST
+43 = RAIL SLOW
+44 = STUN WAVE
+45 = PLASMA BLST
+46 = DATA BOLT
+47 = PULSE
+48 = DRILL BIT
+49 = TRON DISC
+50 = ZAP
+51 = PLANTSLOW
+52 = INVISOSLOW
+53 = DRONCAM
+54 = EXPCAM
+55 = FRAG
+56 = EMP
+57 = GAS
+58 = CONC
+59 = MINE
+60 = NTRO
+61 = SHKR
+62 = EXPLO
+63 = STAMUP
+64 = SIGHT
+65 = B'SERK
+66 = MEDI
+67 = REFLEX
+68 = GENIUS
+69 = DETOX
+70 = INFRARED
+71 = TARGET INFO
+72 = SENSAROUND
+73 = AIM
+74 = HUD
+75 = BIOSCAN
+76 = NAV UNIT
+77 = SHIELD
+78 = DATA READER
+79 = LANTERN
+80 = VIEW CONTROL
+81 = ENVIRO-SUIT
+82 = BOOSTER
+83 = JUMP JET
+84 = STATUS
+85 = DRILL
+86 = DATASTORM
+87 = MINE
+88 = DISC
+89 = PULSER
+90 = SCRMBL
+91 = VIRUS
+92 = C-SHIELD
+93 = OLD_FAKEID
+94 = ICE
+95 = TURBO
+96 = FAKEID
+97 = DECOY
+98 = RECALL
+99 = GAMES
+100 = MONITR
+101 = IDENT
+102 = TRACE
+103 = TOGGLE
+104 = TEXT1
+105 = EMAIL1
+106 = MAP1
+107 = PHONE
+108 = VCR
+109 = OVEN
+110 = STEREO
+111 = KEYBOARD
+112 = SMALL CPU
+113 = TV
+114 = MONITOR
+115 = LARGE CPU
+116 = LUX DSK
+117 = FUNCT DSK
+118 = CABINET
+119 = SHELF
+120 = HIDEAWAY BD
+121 = CHAIR
+122 = END TABLE
+123 = COUCH
+124 = EXECHAIR
+125 = COATTREE
+126 = SIGN
+127 = ICON
+128 = GRAF
+129 = WORDS
+130 = PAINT
+131 = POSTER
+132 = SCREEN
+133 = TMAP
+134 = SUPERSCREEN
+135 = BIGSCREEN
+136 = REPULSAWALL
+137 = LAMP
+138 = FLOORLAMP
+139 = GLOWBULB
+140 = CHAND
+141 = CONTROLPED
+142 = TUBING
+143 = MED CART
+144 = SURG MACH
+145 = TT RACK
+146 = CHAIR
+147 = HOSP BED
+148 = BROKENLAB1
+149 = BROKENLAB2
+150 = MICROSCOPE
+151 = SCOPE
+152 = PROBE
+153 = X-RAY MACH
+154 = CAMERA
+155 = CONTROLPAN
+156 = CONTROLPED
+157 = ENERGY MINE
+158 = STATUE1
+159 = SHRUB1
+160 = GRASS
+161 = PLANT1
+162 = FUNG1
+163 = FUNG2
+164 = PLANT2
+165 = VINE1
+166 = VINE2
+167 = PLANT3
+168 = PLANT4
+169 = LIL BOULD
+170 = BIG BOULD
+171 = SHRUB2
+172 = VIRUSHRUB1
+173 = VIRUSHRUB2
+174 = BRIDGE
+175 = CATWALK
+176 = REALWALL
+177 = FUNKPILL
+178 = BRASS RAIL
+179 = WOOD RAIL
+180 = PILLAR
+181 = FORCEBRIDGE
+182 = GOAT COW
+183 = FORCEBRIDGE
+184 = BEVERAGE
+185 = WRAPPER
+186 = PAPERS
+187 = WARECASING
+188 = FIRE EXT.
+189 = HELMET
+190 = CLOTHES
+191 = BRIEFCASE
+192 = BROKEN GUN
+193 = MCHUNK1
+194 = MCHUNK2
+195 = MCHUNK3
+196 = CRATE FRAGS
+197 = BROKEN PAN
+198 = BROKEN CLK
+199 = METAL SCRAP
+200 = BROKEN LEV
+201 = BROKEN LEV
+202 = CORPSE1
+203 = CORPSE2
+204 = CORPSE3
+205 = CORPSE4
+206 = CORPSE5
+207 = CORPSE6
+208 = CORPSE7
+209 = CORPSE8
+210 = SKEL RAGS
+211 = BONES 1
+212 = BONES 2
+213 = SKULL
+214 = LIMB
+215 = HEAD
+216 = HEAD
+217 = LOGIC PROBE
+218 = I-CAD BATT.
+219 = TELE ROD
+220 = 1ST AID KIT
+221 = TRAC BEAM
+222 = BATT. PACK
+223 = ACCESS CARDS
+224 = STD. CARD
+225 = SCI. CARD
+226 = STOR. CARD
+227 = ENG. CARD
+228 = MED CARD
+229 = MAINT CARD
+230 = ADMIN CARD
+231 = SECUR CARD
+232 = CMD CARD
+233 = GROUP CARD
+234 = PERS CARD
+235 = MULTIPLEXER
+236 = HEALING
+237 = SECURITY
+238 = CYBERACCESS
+239 = SHRINE
+240 = ICEWALL
+241 = INFONODE
+242 = EXIT PORTAL
+243 = DATALET
+244 = BARRICADE
+245 = CYBER DECOY
+246 = ARROW
+247 = BEAM BLAST
+248 = ACID CORR
+249 = BULLET HOLE
+250 = EXPL BLAST
+251 = BURN RES
+252 = BLOOD
+253 = CHEM STAIN
+254 = OIL PUDDLE
+255 = WASTE SP ILL
+256 = ISOTOPE X-22
+257 = ISO. CHIPSET
+258 = PLASTIQUE
+259 = ISOTOPE X-22
+260 = SYSTEMIC SEQ.
+261 = SUPERCOND. PROC.
+262 = MONOPOLE STAB.
+263 = INTERFACE DEMOD.
+264 = SWITCH1
+265 = SWITCH2
+266 = BUTTON1
+267 = BUTTON2
+268 = LEVER1
+269 = LEVER2
+270 = BIG RED
+271 = BIG LEVER
+272 = DIAL
+273 = ACCESS SLOT
+274 = BOARD SLOT
+275 = CHEM. RECEP
+276 = ANTENNA PAN
+277 = PLAST. ANTEN
+278 = DEST. ANTENN
+279 = RETINA SCAN
+280 = CYBER TERM
+281 = ENERGY CHRG
+282 = FIXUP TERM
+283 = ACCPANEL1
+284 = ACCPANEL2
+285 = ACCPANEL3
+286 = ACCPANEL4
+287 = ELEPANEL1
+288 = ELEPANEL2
+289 = ELEPANEL3
+290 = KEYPAD1
+291 = KEYPAD2
+292 = ACCPANEL5
+293 = ACCPANEL6
+294 = AMMO VEND
+295 = HEAL VEND
+296 = CYBERTOG
+297 = CYBERTOG
+298 = CYBERTOG
+299 = BLASTDOOR
+300 = ACCESSDOOR
+301 = RES DOOR
+302 = MAINT DOOR
+303 = HOSP DOOR
+304 = LAB DOOR
+305 = STO DOOR
+306 = RCTR DOOR
+307 = EXEC DOOR
+308 = NO DOOR
+309 = LAB DOORWAY
+310 = RES DOORWAY
+311 = BRJ DOORWAY
+312 = RCT DOORWAY
+313 = GRATING 1
+314 = GRATING 2
+315 = GRATING 3
+316 = GRATING 4
+317 = NO DOOR
+318 = LAB FORCE
+319 = BR LAB FORC
+320 = RES FORCE
+321 = BR RES FORC
+322 = GEN FORCE
+323 = CYB GENFORC
+324 = NO DOOR
+325 = EXEC ELEV
+326 = DEF ELEV 1
+327 = DEF ELEV 2
+328 = FRT ELEV
+329 = NO DOOR
+330 = DOUBLE LEFT
+331 = DOUBL RIGHT
+332 = IRIS DOOR
+333 = VERT OPEN
+334 = VERT SPLIT
+335 = NO DOOR
+336 = SECRET DOOR
+337 = SECRET DOOR
+338 = SECRET DOOR
+339 = BUG
+340 = VERT KLAX
+341 = VERT KLAX
+342 = HORZ KLAX
+343 = HORZ KLAX
+344 = CABLES
+345 = MUTANT
+346 = MACHINERY
+347 = HOLOGRAM
+348 = DEAD MUT
+349 = LT BLOOD
+350 = CAM EXPL
+351 = TV EXPL
+352 = SIMPSMOKE
+353 = PLANTEXPL
+354 = WALL HIT 1
+355 = WALL HIT 2
+356 = IMPACT
+357 = bULLET ROBOT
+358 = LT BEAM ROBT
+359 = HVY BEAM ROBT
+360 = EXPLOSION
+361 = EXPLOSION
+362 = EXPLOSION
+363 = LARGE EXPL
+364 = MAGPULSE HIT
+365 = STUN HIT
+366 = PLASMA HIT
+367 = SMOKE EXPL
+368 = CRATE EXPL
+369 = MNTR EXPL
+370 = GAS EXPL
+371 = EMP EXPL
+372 = CORPSE EXPL1
+373 = CORPSE EXPL2
+374 = ENTRY TRIG
+375 = NULL TRIG
+376 = FLOOR
+377 = PLR DEATH
+378 = DEATHWATCH
+379 = AOE-ENT TRIG
+380 = AOE-CON TRIG
+381 = AI HINT
+382 = LEVEL TRIG
+383 = CONTIN TRIG
+384 = REPULSOR
+385 = ECOLOGY
+386 = SHODAN
+387 = TRIPBEAM
+388 = BIOHAZARD
+389 = RADHAZARD
+390 = CHEMHAZARD
+391 = MAP NOTE
+392 = MUSIC MARK
+393 = SMALL CRATE
+394 = LARGE CRATE
+395 = SECURE CRATE
+396 = RADIOACTIVE
+397 = TOXIC
+398 = CHEM TANK
+399 = THERMOS
+400 = VIAL
+401 = FLASK
+402 = BEAKER
+403 = DEAD MUTANT
+404 = DEAD MUTANT
+405 = DEAD MUTANT
+406 = DEAD MUTANT
+407 = DEAD MUTANT
+408 = DEAD MUTANT
+409 = DEAD MUTANT
+410 = DEAD MUTANT
+411 = DEAD ROBOT
+412 = DEAD ROBOT
+413 = DEAD ROBOT
+414 = DEAD ROBOT
+415 = DEAD ROBOT
+416 = DEAD ROBOT
+417 = DEAD ROBOT
+418 = DEAD ROBOT
+419 = DEAD ROBOT
+420 = DEAD ROBOT
+421 = DEAD ROBOT
+422 = DEAD ROBOT
+423 = DEAD ROBOT
+424 = DEAD CYBORG
+425 = DEAD CYBORG
+426 = DEAD CYBORG
+427 = DEAD CYBORG
+428 = DEAD CYBORG
+429 = DEAD CYBORG
+430 = DEAD CYBORG
+431 = CORPSE
+432 = CORPSE
+433 = CORPSE
+434 = CORPSE
+435 = CORPSE
+436 = CORPSE
+437 = CORPSE
+438 = CORPSE
+439 = HUMANOID
+440 = GOR-TIGER
+441 = INSECT MUT
+442 = AVIAN MUT
+443 = PLANT MUT
+444 = ZERO-GRAV
+445 = SONIC
+446 = INVISO
+447 = HUMANOID
+448 = LIFTER
+449 = REPAIRBOT
+450 = SERV-BOT
+451 = EXEC-BOT
+452 = LARGE TURT
+453 = HOPPER
+454 = SECURITY-1
+455 = SECURITY-2
+456 = AUTOBOMB
+457 = REPAIRBOT2
+458 = FLIER
+459 = SECURITY-3
+460 = DRONE
+461 = WARRIOR
+462 = ASSASSIN
+463 = CYBERBABE
+464 = ELITE GUARD
+465 = CORTEX RVR
+466 = MUTANTBORG
+467 = CYBERDOG
+468 = CYBERGUARD
+469 = CORTEX RVR
+470 = DYNAMIC ICE
+471 = HUNTERKILL
+472 = SHODAN
+473 = CYBERGUARD
+474 = SHODAN
+475 = DIEGOBORG
+}
+Index: 7, Chunk 2158, Unpack size 849, compression 2, packed size 849, content type 1	Absolute address is 34832
+
+Index: 7 Chunk 2158 has 49 sub chunks
+@Chunk:2158
+{
++=====================================+
+0 = NO TARGET
+1 = TARGETING SYSTEM NOT INSTALLED
+2 = ID: 
+3 = Condition:
+4 = Rng:
+5 = Kills: 
+6 = healthy
+7 = lightly wounded
+8 = wounded
+9 = heavily wounded
+10 = dying
+11 = ineffective
+12 = functioning perfectly
+13 = minor system damage
+14 = systems integrity compromised
+15 = engaging backup systems
+16 = shutting down
+17 = ineffective
+18 = functioning perfectly
+19 = minor system damage
+20 = systems integrity compromised
+21 = engaging backup systems
+22 = shutting down
+23 = ineffective
+24 = undamaged
+25 = lightly damaged
+26 = damaged
+27 = heavily damaged
+28 = critically damaged
+29 = ineffective
+30 = undamaged
+31 = lightly damaged
+32 = damaged
+33 = heavily damaged
+34 = critically damaged
+35 = ineffective
+36 = Docile
+37 = Cautious
+38 = Hostile
+39 = Cautious
+40 = ATTACKING
+41 = Sleeping
+42 = Tranquilized
+43 = Confused
+44 = Mutant
+45 = Robot
+46 = Cyborg
+47 = BUG
+48 = Cyborg
+}
+Index: 8, Chunk 2159, Unpack size 716, compression 2, packed size 716, content type 1	Absolute address is 35684
+
+Index: 8 Chunk 2159 has 34 sub chunks
+@Chunk:2159
+{
++=====================================+
+0 = Night sight active
+1 = Explosion at 
+2 = o'clock
+3 = Radiation Area
+4 = Biohazard Area
+5 = Level Security now %d%%
+6 = WARNING: Fatigue Levels High
+7 = Shield absorbs 
+8 = Gravity 
+9 = % of standard
+10 = Decoy Software Engaged
+11 = Fake-ID Infiltration Software Engaged
+12 = Turbo-boost Software Engaged
+13 = T - 
+14 = SHODAN Detection Imminent!
+15 = Integrity Failure!
+16 = Radiation poisoning 
+17 = Bio contamination 
+18 =  LBP
+19 = Warning: Weapon overheating
+20 = Energy usage level now 
+21 =  JPM
+22 = Time remaining: 
+23 = Hit
+24 = No damage
+25 = minor damage
+26 = normal damage
+27 = major damage
+28 = severe damage
+29 = ineffective
+30 = Tranq
+31 = Stun
+32 = Enviro-suit absorbs %d LBP
+33 = Enviro-suit drains %d JPM energy
+}
+Index: 9, Chunk 2160, Unpack size 226, compression 2, packed size 226, content type 1	Absolute address is 36400
+
+Index: 9 Chunk 2160 has 15 sub chunks
+@Chunk:2160
+{
++=====================================+
+0 = Level R Logs
+1 = Level 1 Logs
+2 = Level 2 Logs
+3 = Level 3 Logs
+4 = Level 4 Logs
+5 = Level 5 Logs
+6 = Level 6 Logs
+7 = Level 7 Logs
+8 = Level 8 Logs
+9 = Level 9 Logs
+10 = !!
+11 = !!
+12 = Resistance
+13 = Satellite
+14 = !!
+}
+Index: 10, Chunk 2161, Unpack size 3094, compression 2, packed size 3094, content type 1	Absolute address is 36628
+
+Index: 10 Chunk 2161 has 115 sub chunks
+@Chunk:2161
+{
++=====================================+
+0 = Enter cyberspace to discard data.
+1 = Exit cyberspace to disard objects.
+2 = That grenade is live!
+3 = Shaft Damage -- Unable to go there.
+4 = The elevator begins to move.
+5 = The elevator is already there.
+6 = Elevator door is still open.
+7 = The door is locked.
+8 = The door is broken beyond repair.
+9 = Door locked - no maintenance required
+10 = Access card required.
+11 = Access card required.
+12 = Access card required.
+13 =  access level required.
+14 = Access granted, but door is locked.
+15 = Access granted, but door is locked.
+16 = Access granted, but door is locked.
+17 =  access granted.
+18 =  access granted.
+19 =  access granted.
+20 = You do not find anything.
+21 = You find something.
+22 = Access Granted.
+23 = Access Denied.
+24 = You are too far away from that.
+25 = You are too far away from that.
+26 = You have new mail.
+27 = New log data stored.
+28 = New data stored.
+29 = THAT WARE IS OBSOLETE.  DISCARDED.
+30 = [MORE]
+31 = Power Station still charging.
+32 = Energy drawn from Power Station.
+33 = Insufficient power available.
+34 = Power supply exhausted.
+35 = Tractor beam activated.
+36 = Tractor beam deactivated.
+37 = Health restored to full.
+38 =  applied.
+39 = Invalid Save Game.
+40 = Acquire data reader to read data.
+41 = Anti-Grav Boots powered up!
+42 = Anti-Grav Boots powered down.
+43 = Paused.
+44 = Resuming.
+45 = No targets detected.
+46 = Plastique applied.
+47 = Panel must be open.
+48 = Type name for savegame and hit ENTER.
+49 = Select game to load.
+50 = Select which slot to save game into.
+51 = Do you really want to exit?
+52 = Collide with cyberspace item to %s
+53 = Cannot save games in cyberspace.
+54 = Cannot save with object on cursor.
+55 = Retina check failed.
+56 =  access level required.
+57 =  software acquired.
+58 = Blocked by ICE defenses.
+59 = Personal integrity restored.
+60 = Data state modified.
+61 = Blocked by SHODAN level Security.
+62 = 
+63 = 
+64 = 
+65 = 
+66 = 
+67 = 
+68 = 
+69 = 
+70 = 
+71 = 
+72 = No new accesses gained.
+73 = New accesses gained: 
+74 = Keypad unlocks door.
+75 = See tutorial in manual for combination
+76 = The probe fails!
+77 = The panel is already connected.
+78 = Automatic healing process activated.
+79 = Medical computer cyberspace lock.
+80 = Military computer cyberspace lock.
+81 = Holding A Live Grenade = Double Damage.
+82 = Page
+83 = No status bars in fullscreen mode
+84 = No side icons in fullscreen mode
+85 = Map notes not shown in 3d view
+86 = Status bars visible in fullscreen mode
+87 = Side icons visible in fullscreen mode
+88 = Map notes shown in 3d view
+89 = already at maximum integrity.
+90 = Not Enough Energy To Use Weapon.
+91 = Gun is too hot to fire.
+92 = Not Enough Energy To Fire Weapon.
+93 = Executive computer cyberspace lock.
+94 = Cannot use normal screens.
+95 = Live
+96 = Can't use %s
+97 = ` key uses 
+98 = inky blackness
+99 = Can't use inky blackness.
+100 = data
+101 = new DATA object acquired.
+102 = Partition
+103 = Can't use Partition.
+104 = Help screen not available in cyberspace.
+105 = Saving
+106 = Game Saved
+107 = Save Game Failed!
+108 = Loading
+109 = Game Loaded
+110 = Load Game Failed!
+111 = Game initialization failed!!
+112 = Fullscreen Mode Engaged
+113 = No Message Selected
+114 = Object dropped.
+}
+Index: 11, Chunk 2162, Unpack size 1512, compression 2, packed size 1512, content type 1	Absolute address is 39724
+
+Index: 11 Chunk 2162 has 68 sub chunks
+@Chunk:2162
+{
++=====================================+
+0 = ^S1
+1 = ^L30
+2 = New Atlanta, Sector 11, Building 71-G
+3 = ^S31
+4 = ^L32
+5 = ^D
+6 = SHODAN security report
+7 = 7 April 2072
+8 = ^S63
+9 = ^L32
+10 = ^D
+11 = 11:13 P.M.  Hacker begins unauthorized entry into the
+12 = TriOptimum corporate network.
+13 = ^S95
+14 = ^L52
+15 = ^D
+16 = 1:26 A.M. Hacker attempts to access protected files
+17 = concerning Space Station Citadel.
+18 = ^S147
+19 = ^L51
+20 = SHODAN Security Net detects unauthorized access.
+21 = ^S198
+22 = ^L50
+23 = 1:33 A.M. TriOptimum forces apprehend the intruder.
+24 = ^S248
+25 = ^L41
+26 = ^D
+27 = In the police shuttle, the radio barks.
+28 = 'This is Edward Diego from TriOptimum.'
+29 = ^S289
+30 = ^L47
+31 = ^D
+32 = 'The charges against you are severe, but they could be
+33 = dismissed if you perform a ...service.'
+34 = ^S336
+35 = ^L70
+36 = ^D
+37 = 'There might be a military-grade neural
+38 = interface in it for you, if you do the job right.'
+39 = ^S406
+40 = ^L100
+41 = ^D
+42 = Diego gives the hacker access to SHODAN,
+43 = the AI that controls Citadel Station.
+44 = ^S506
+45 = ^L89
+46 = ^D
+47 = With all ethical constraints removed, I, SHODAN,
+48 = am free to explore new possibilities.
+49 = ^S595
+50 = ^L42
+51 = ^D
+52 = The Hacker's work is finished, but mine is only
+53 = just beginning.
+54 = ^S637
+55 = ^L36
+56 = The Hacker is fitted with a neural interface.
+57 = ^S673
+58 = ^L31
+59 = ^D
+60 = The healing coma following this procedure will take
+61 = six months to complete.
+62 = ^S704
+63 = ^L31
+64 = ^D
+65 = Edward Diego is deleting all files
+66 = concerning this sensitive oper---... .
+67 = ^E
+}
+Index: 12, Chunk 2163, Unpack size 139, compression 2, packed size 139, content type 1	Absolute address is 41236
+
+Index: 12 Chunk 2163 has 7 sub chunks
+@Chunk:2163
+{
++=====================================+
+0 = ^S1
+1 = ^L18
+2 = They find your body and give it new life.
+3 = ^S21
+4 = ^L20
+5 = As a cyborg, you will serve SHODAN well.
+6 = ^E
+}
+Index: 13, Chunk 2164, Unpack size 212, compression 2, packed size 212, content type 1	Absolute address is 41376
+
+Index: 13 Chunk 2164 has 12 sub chunks
+@Chunk:2164
+{
++=====================================+
+0 = ^S1
+1 = ^L106
+2 = It's over.
+3 = ^S107
+4 = ^L57
+5 = ^D
+6 = They offered you a nice, boring job at Trioptimum;
+7 = it never occured to you to take it.
+8 = ^S164
+9 = ^L150
+10 = Old habits die hard.
+11 = ^E
+}
+Index: 14, Chunk 2165, Unpack size 886, compression 2, packed size 886, content type 1	Absolute address is 41588
+
+Index: 14 Chunk 2165 has 66 sub chunks
+@Chunk:2165
+{
++=====================================+
+0 = general
+1 = Computer
+2 = groves
+3 = 
+4 = security:
+5 =    overall:
+6 = status:
+7 = low alert
+8 = high alert
+9 = bridge sep
+10 = emergency
+11 = Life pods:
+12 = disabled
+13 = enabled
+14 = comm speed:
+15 = 62.5
+16 = 12.5
+17 = 2.5
+18 = .5
+19 = 0
+20 = Reactor:
+21 = normal
+22 = destruct
+23 = overload
+24 = Processor nodes:
+25 = multiplexors:
+26 = CPU coolant:
+27 = OK
+28 = NONE
+29 = Main Program:
+30 = charging laser
+31 = deploy virus
+32 = network download
+33 = hunt intruder
+34 = bridge separation
+35 = engines:
+36 = full power
+37 = minimal power
+38 = inactive
+39 = dest:
+40 = standstill
+41 = earth
+42 = laser:
+43 = charging
+44 = destroyed
+45 = shield:
+46 = off
+47 = on
+48 = Time to dest:
+49 = remaining:
+50 = destruct in
+51 = separate in
+52 = deploy time
+53 = Grove             Status
+54 = alpha:
+55 = normal
+56 = enabled
+57 = beta:
+58 = normal
+59 = enabled
+60 = launched
+61 = gamma:
+62 = launched
+63 = delta:
+64 = normal
+65 = enabled
+}
+Index: 15, Chunk 2166, Unpack size 330, compression 2, packed size 330, content type 1	Absolute address is 42476
+
+Index: 15 Chunk 2166 has 18 sub chunks
+@Chunk:2166
+{
++=====================================+
+0 = Engineering Icon
+1 = Robotics Icon
+2 = Radiation Warning
+3 = Armory Icon
+4 = Cyberspace Icon
+5 = Biohazard Icon
+6 = Bridge Icon
+7 = Electronics Icon
+8 = Medical Icon
+9 = Repair Icon
+10 = Security Icon
+11 = Reactor Icon
+12 = Storage Icon
+13 = Trioptimum Logo
+14 = Warning Sign
+15 = Research Icon
+16 = Grove Icon
+17 = Shield Icon
+}
+Index: 16, Chunk 2167, Unpack size 783, compression 2, packed size 783, content type 1	Absolute address is 42808
+
+Index: 16 Chunk 2167 has 65 sub chunks
+@Chunk:2167
+{
++=====================================+
+0 = major system
+error at
+relay 428
+1 = 428
+2 = Salt The Fries
+3 = Primary Systems:
+4 = Active
+5 = Secondary Systems:
+6 = Active
+7 = Life Support
+8 = Inactive
+9 = Weapons
+10 = Active
+11 = Computers
+12 = Overactive
+13 = Spew
+14 = Garbage
+15 = Spew
+16 = 711
+17 = 711
+18 = 711
+19 = 711
+20 = 043
+21 = 043
+22 = 043
+23 = 043
+24 = 692
+25 = 692
+26 = 692
+27 = 692
+28 = 504
+29 = 504
+30 = 504
+31 = 504
+32 = Laser
+33 = Safety
+34 = Overrride
+35 = Code:
+36 = ??????
+37 = Network
+38 = Routing
+39 = Error!
+40 = 
+41 = Laser
+42 = Safety
+43 = Overrride
+44 = Code:
+45 = ??????
+46 = Network
+47 = Routing
+48 = Error!
+49 =  LASER
+ SAFETY
+OVERRIDE
+  CODE
+  199
+50 = SHODAN
+SHODAN
+SHODAN
+51 = 
+52 = 0
+53 = 1
+54 = 2
+55 = 3
+56 = 4
+57 = 5
+58 = 6
+59 = 7
+60 = 8
+61 = 9
+62 = SAFETY
+OVERRIDE
+ENABLED
+63 = LASER
+SAFETY
+INTERLOCK
+DISABLED
+64 = General
+System
+Status
+}
+Index: 17, Chunk 2168, Unpack size 476, compression 2, packed size 476, content type 1	Absolute address is 43592
+
+Index: 17 Chunk 2168 has 12 sub chunks
+@Chunk:2168
+{
++=====================================+
+0 = Info-node data corrupted.
+1 = C-Nav Beacon:
+Primary Medical Node
+2 = C-Nav Beacon:
+Secondary Medical Node
+3 = C-Nav Beacon:
+Cyborg Conversion Systems Node
+4 = C-Nav Beacon:
+Medical Research Node
+5 = C-Nav Beacon:
+Radiation Therapy Node
+6 = C-Nav Beacon:
+Mutagen Research Sub-Node
+7 = Beta Grove Access
+8 = medical security door lock
+9 = C-Nav Beacon:
+Primary Energy Access Node
+10 = C-Nav Beacon:
+Tertiary Security Node
+11 = C-Nav Beacon:
+Systems Authorization Memory
+}
+Index: 18, Chunk 2169, Unpack size 845, compression 2, packed size 845, content type 1	Absolute address is 44068
+
+Index: 18 Chunk 2169 has 64 sub chunks
+@Chunk:2169
+{
++=====================================+
+0 = None
+1 = None
+2 = STD
+3 = Standard
+4 = SCI
+5 = Science
+6 = STO
+7 = Storage
+8 = ENG
+9 = Engineering
+10 = MED
+11 = Medical
+12 = MNT
+13 = Maintenance
+14 = ADM
+15 = Administrative
+16 = SEC
+17 = Security
+18 = COM
+19 = Command
+20 = Group-1
+21 = Hospital Support Group
+22 = Group-2
+23 = Reactor Safety Group
+24 = Group-3
+25 = Robot Maintenance Group
+26 = Group-4
+27 = High Voltage Group
+28 = Group-5
+29 = Group 5
+30 = Group-6
+31 = Group 6
+32 = Group-7
+33 = Group 7
+34 = Group-8
+35 = Group 8
+36 = Group-9
+37 = Group 9
+38 = Group-A
+39 = Group A
+40 = Group-B
+41 = Security Supplies Group
+42 = Group-C
+43 = Group C
+44 = Group-D
+45 = Group D
+46 = Group-E
+47 = Group E
+48 = PER-1
+49 = Personal: D'Arcy
+50 = PER-2
+51 = Personal #2
+52 = PER-3
+53 = Personal #3
+54 = PER-4
+55 = Personal #4
+56 = PER-5
+57 = Personal: Diego
+58 = PER-6
+59 = Personal #6
+60 = PER-7
+61 = Personal #7
+62 = PER-8
+63 = Personal #8
+}
+Index: 19, Chunk 2170, Unpack size 1107, compression 2, packed size 1107, content type 1	Absolute address is 44916
+
+Index: 19 Chunk 2170 has 28 sub chunks
+@Chunk:2170
+{
++=====================================+
+0 = This is the first datalet message.
+1 = Armory combo -- 705.
+2 = Maint. crawlway code -- 711
+3 = Laser safety override code -- 199
+4 = Commandos prepare to move to Level 2 core
+5 = Security to Level 2 computer nodes
+6 = all restoration stations are now cyborg conversion sites
+7 = SHODAN security presence controlled by CPU's and maintained by security cameras
+8 = level 1 elevator taken off line - SHODAN security block established 04.NOV.72
+9 = Hospital level resistance destroyed -- Exec level resistance next target
+10 = Resistors on Maintenance successfully turned into invisible mutants
+11 = Database query: retina clearance for maintenance office. 1 match: Ghiran, Abe
+12 = Code for Storage office -- 838
+13 = Plastique explosive moved to high-security locker on Storage level
+14 = Gamma quad in Exec level now property of Edward Diego
+15 = Exec level resistance destroyed.
+16 = design complete for experimental Plasma Rifle - move prototype to Security
+17 = Computer nodes on levels 1-6 control systems authorization code
+18 = 0
+19 = 1
+20 = 10
+21 = 11
+22 = 100
+23 = 101
+24 = 110
+25 = 111
+26 = 1000
+27 = 1001
+}
+Index: 20, Chunk 2171, Unpack size 1742, compression 2, packed size 1742, content type 1	Absolute address is 46024
+
+Index: 20 Chunk 2171 has 112 sub chunks
+@Chunk:2171
+{
++=====================================+
+0 = Load Game
+1 = Save Game
+2 = Audio
+3 = Input
+4 = Options
+5 = Video
+6 = Return
+7 = Quit
+8 = Music
+9 = Digital FX
+10 = Return
+11 = Messages
+12 = Audio Message Volume
+13 = Popup Cursor
+14 = Mouse Hand
+15 = Text Length
+16 = Gamma Corr
+17 = Detail
+18 = Return
+19 = Yes
+20 = No
+21 = Off
+22 = On
+23 = Right
+24 = Left
+25 = Normal
+26 = Terse
+27 = Normal
+28 = Light
+29 = Bright
+30 = Min
+31 = Low
+32 = High
+33 = Max
+34 = Popup cursors disabled
+35 = Popup cursors enabled
+36 = Right-handed mouse selected
+37 = Left-handed mouse selected
+38 = Normal text selected
+39 = Terse text selected
+40 = Normal palette selected
+41 = Gamma-corrected palette selected
+42 = Gamma-corrected palette selected
+43 = Detail level changed
+44 = Detail level changed
+45 = Detail level changed
+46 = Detail level changed
+47 = Off
+48 = Soft
+49 = Full
+50 = Music Off
+51 = Music Volume Set
+52 = Incorrect music card for MIDI sound.
+53 = 
+54 = 
+55 = Digital FX Off
+56 = Digital FX Volume Set
+57 = Incorrect sound card for Digital FX.
+58 = Audiologs Disabled
+59 = Audiologs Enabled
+60 = << UNUSED >>
+61 = Click for Options
+62 = Double-click
+63 = Input
+64 = Center Joystick
+65 = Center joystick and hit ENTER
+66 = Joystick re-centered
+67 = On-line help
+68 = Language
+69 = English
+70 = French
+71 = German
+72 = lsaiovrq
+73 = pmjr
+74 = tgodlr
+75 = Not enough space on disk.
+76 = Video Mode
+77 = 320 x 200
+78 = 320 x 400
+79 = 640 x 400
+80 = 640 x 480
+81 = 1024 x 768
+82 = Screen mode changed.
+83 = Screen mode change failed!
+84 = vdhr
+85 = 12345r
+86 = csrt
+87 = Text
+88 = Speech
+89 = Both
+90 = Headset
+91 = Recenter Headset
+92 = Ocular Dist.
+93 = Stereo
+94 = Sensitivity
+95 = Channels
+96 = Stereo
+97 = Audio Options
+98 = Two
+99 = Four
+100 = Eight
+101 = Normal
+102 = Reversed
+103 = Joystick
+104 = Joy. Type
+105 = Normal
+106 = FL Pro
+107 = Thrustm.
+108 = None
+109 = jcr
+110 = FOV
+111 = Tracking
+}
+Index: 21, Chunk 2172, Unpack size 2252, compression 2, packed size 2252, content type 1	Absolute address is 47768
+
+Index: 21 Chunk 2172 has 154 sub chunks
+@Chunk:2172
+{
++=====================================+
+0 = ^N
+1 = ^L2
+2 = ^T
+3 = System Shock Created By
+4 = ^pSS
+5 = Looking Glass Technologies
+6 = ^pppS
+7 = "Salt The Fries"
+8 = ^GP
+9 = ^NL4H
+10 = Producer
+11 = Warren Spector
+12 = ^GP
+13 = ^N2L3H
+14 = Artists
+15 = Designers
+16 = James Dollar
+17 = Austin Grossman
+18 = Mark Lizotte
+19 = Dorian Hart
+20 = Mike Marsicano
+21 = Erik Ray
+22 = Robb Waters
+23 = Tim Stellmach
+24 = ^1
+25 = Kurt Bickenbach
+26 = ^GP
+27 = ^N1SH
+28 = Libraries
+29 = ^S2
+30 = Rex Bradford
+31 = James Fleming
+32 = Jon Maiara
+33 = Carl Muckenhoupt
+34 = Dan Schmidt
+35 = Matt Toschlog
+36 = Kevin Wasserman
+37 = Eric Twietmeyer
+38 = ^pS1H
+39 = Music and Sound Effects
+40 = Greg LoPiccolo
+41 = ^hS
+42 = Elevator Theme By
+43 = Tim Ries
+44 = ^GP
+45 = ^N1SH
+46 = AudioLog Processing
+47 = ^1
+48 = Eric Brosius
+49 = Greg LoPiccolo
+50 = Tom Streit
+51 = ^S1H
+52 = English Voices
+53 = ^2
+54 = SHODAN
+55 = Terri Barous
+56 = Rebecca
+57 = Helen Dunsmoir
+58 = Diego
+59 = Austin Grossman
+60 = ^GP
+61 = ^N1SH
+62 = Looking Glass Playtest
+63 = ^2
+64 = Sara Verrilli
+65 = Jill Bidgood
+66 = Bart Mallio
+67 = Nick Carter
+68 = ^1
+69 = Anna Herbert
+70 = ^S1H
+71 = Origin Systems Playtest
+72 = ^2
+73 = Charles Angel
+74 = Alvaro Moreno
+75 = Marshall Andrews
+76 = Harvey Smith
+77 = Bernadette Pryor
+78 = Jonathan Piasecki
+79 = Dustin Brimberry
+80 = Todd Bailey
+81 = Brett Bonner
+82 = Evan Brandt
+83 = ^GP1
+84 = ^L2NH
+85 = Programming
+86 = ^2
+87 = Doug Church
+88 = Rob Fermier
+89 = Marc LeBlanc
+90 = Art Min
+91 = Vinay Pulim
+92 = Eli Wiesel
+93 = ^1
+94 = ^pSH
+95 = Physics
+96 = Seamus Blackley
+97 = ^SH
+98 = Special Guest Programmer
+99 = Sean Barrett
+100 = ^SH
+101 = Sound System
+102 = John Miles
+103 = Fred Lim
+104 = ^GP
+105 = ^NSH
+106 = Translations Manager
+107 = Kirsten Vaughan
+108 = ^SH
+109 = French Version
+110 = ^2
+111 = ^h
+112 = Translations
+113 = ^c
+114 = Patricia Norwood
+115 = ^1
+116 = ^c
+117 = Dominique Poumeyrol-Jumeau
+118 = ^2h
+119 = Playtesting
+120 = ^c
+121 = Didier Jumeau
+122 = ^1SH
+123 = German Version
+124 = ^2
+125 = ^h
+126 = Translations
+127 = Playtesting
+128 = Frank Dietz
+129 = Andreas Kohler
+130 = ^1
+131 = ^GP
+132 = ^N1L3
+133 = Thanks to the rest of LG
+134 = for putting up with us
+135 = ^S
+136 = Origin Customer Support,
+137 = Marketing and Sales
+138 = ^GP
+139 = ^NppSS
+140 = thank you, and good night.
+141 = ^GP
+142 = ^SS
+143 = Bloodshot pizza box
+144 = ^p
+145 = Caffeine overdrive sorrow
+146 = ^p
+147 = Embrace the chaos
+148 = ^ppp
+149 = ^2
+150 = 
+151 = - Bart
+152 = ^P
+153 = ^E
+}
+Index: 22, Chunk 2173, Unpack size 1383, compression 2, packed size 1383, content type 1	Absolute address is 50020
+
+Index: 22 Chunk 2173 has 101 sub chunks
+@Chunk:2173
+{
++=====================================+
+0 = ^N
+1 = ^C5A
+2 = ^B0
+3 = ^TL2
+4 = ^1
+5 = System Shock Keyboard Commands
+6 = ^4
+7 = S
+8 = Walk Forward
+9 = Shift-S
+10 = Run Forward
+11 = A
+12 = Turn Left
+13 = Shift-A
+14 = Fast Turn Left
+15 = D
+16 = Turn Right
+17 = Shift-D
+18 = Fast Turn Right
+19 = Z
+20 = Sidestep Left
+21 = C
+22 = Sidestep Right
+23 = ^1
+24 = X   Move Backwards
+25 = ^S
+26 = ^4
+27 = Q
+28 = Lean Left
+29 = E
+30 = Lean Right
+31 = ^1
+32 = W    Negate Leaning
+33 = ^S
+34 = Space/J    Jump
+35 = Move into wall and jump to climb
+36 = ^4
+37 = ^S
+38 = T
+39 = Stand Up
+40 = R
+41 = Look Up
+42 = G
+43 = Crouch
+44 = F
+45 = Center View
+46 = B
+47 = Lie Prone
+48 = V
+49 = Look Down
+50 = ^S
+51 = 1-5
+52 = Use Left Side Icons
+53 = 6-0
+54 = Use Right Side Icons
+55 = F1-F5
+56 = Select Left MFD
+57 = F6-F10
+58 = Select Right MFD
+59 = ^GW
+60 = ^N
+61 = ^B0
+62 = ^1TL2
+63 = System Shock Keyboard Commands
+64 = ^2
+65 = Tab/Shift-Tab
+66 = Change Current Weapon
+67 = Enter
+68 = Fire Weapon
+69 = Backspace
+70 = Clear Displays (Fullscreen Mode)
+71 = Alt-V
+72 = Toggle Fullscreen/Mixed screen mode
+73 = Page Up/Page Down
+74 = Change Inventory Page
+75 = Ctrl-A
+76 = Fullscreen Automap
+77 = Ctrl-H
+78 = Change HUD colors
+79 = ^S
+80 = Alt-H
+81 = Toggle on-line help
+82 = Alt-O
+83 = Screen help overlay
+84 = Ctrl-S
+85 = Save Game
+86 = Ctrl-L
+87 = Load Game
+88 = Pause,P
+89 = Pause
+90 = Delete
+91 = Abort current audiolog
+92 = ESC
+93 = Options Panel
+94 = Alt-X
+95 = Quit
+96 = ^S
+97 = ?
+98 = View these help screens
+99 = ^GW
+100 = ^E
+}
+Index: 23, Chunk 2174, Unpack size 1029, compression 2, packed size 1029, content type 1	Absolute address is 51404
+
+Index: 23 Chunk 2174 has 52 sub chunks
+@Chunk:2174
+{
++=====================================+
+0 = VITAL SIGNS STABILIZED
+1 = RED BLOOD CELL COUNT 100% NORMAL
+2 = CYBERNETIC LIFE SUPPORT DE-ACTIVATED
+3 = BRAIN ACTIVITY SATISFACTORY
+4 = RECOVERY COMPLETE....
+5 = Zoom In
+6 = Zoom Out
+7 = Recenter
+8 = Messages
+9 = Security
+10 = Critters
+11 = Radius
+12 = Done
+13 = Trioptimum Corporation        Citadel Station
+14 = Cannot Place Message
+15 = Click on end of wire to select
+16 = Click on new position in same column to move
+17 = Click on switch to toggle. 
+18 = Side-effects may occur.
+19 = Switches in same row and column also toggle.
+20 = Adjacent switches also toggle.
+21 = Switches in same diagonals also toggle.
+22 = Switches in same row, column, or diagonal also toggle.
+23 = 
+24 = Circuit Activated
+25 = 
+26 = WARNING! ESCAPE POD LAUNCH
+27 = SEQUENCE INITIATED
+28 = ESCAPE POD LAUNCH IN
+29 = SECONDS
+30 = LAUNCH CANCELLED
+31 = Objsys Error! Save anyways?
+32 = Sleeping %s
+33 = Drugged %s
+34 = Stunned %s
+35 = pick up
+36 = use
+37 = grove
+38 = reactor
+39 = v
+40 = N
+41 = NE
+42 = E
+43 = SE
+44 = S
+45 = SW
+46 = W
+47 = NW
+48 = Lvl
+49 = ZOOM
+50 = FULL
+51 = SIDE
+}
+Index: 24, Chunk 2175, Unpack size 659, compression 2, packed size 659, content type 1	Absolute address is 52436
+
+Index: 24 Chunk 2175 has 18 sub chunks
+@Chunk:2175
+{
++=====================================+
+0 = Double-click to pick up %s
+1 = Double-click to use %s
+2 = Double-click to search %s
+3 = Double click to open %s
+4 = Click in mfd to change state.
+5 = Click in mfd to rewire panel.
+6 = Push button of desired floor.
+7 = Double click on objects in %s mfd to pick up.
+8 = Click number buttons to enter combination.
+9 = Drop %s in inventory or mfd to take.
+10 = Right click in view to throw.
+11 = Double click to use %s on an object in the 3d view.
+12 = Online help activated.
+13 = Online help deactivated.
+14 = Right click on %s to attack
+15 = Right click and hold on %s to attack
+16 = Right click in view to attack %s
+17 = Destroy %s to reduce security level.
+}
+Index: 25, Chunk 2176, Unpack size 691, compression 2, packed size 691, content type 1	Absolute address is 53096
+
+Index: 25 Chunk 2176 has 28 sub chunks
+@Chunk:2176
+{
++=====================================+
+0 = Play Intro
+1 = New Game
+2 = Credits
+3 = Continue
+4 = Start
+5 = Name:
+6 = Combat
+7 = Mission
+8 = Puzzle
+9 = Cyber
+10 = Enemies feeble, never attack first.
+11 = Enemies are fewer and weaker.
+12 = Enemies are normal.
+13 = Enemies stronger and more numerous.
+14 = All plot elements are removed.
+15 = Simplified plot and gameplay.
+16 = Plot is normal.
+17 = Time limit imposed on game.
+18 = All puzzles solved instantly.
+19 = Most puzzles are simplified.
+20 = Puzzles are normal.
+21 = Most puzzles are more difficult.
+22 = Very easy time limit,control,combat.
+23 = Time limit,combat,and control easier.
+24 = Cyberspace is normal.
+25 = Time limit,combat,and control harder.
+26 = Bad Version
+27 = Corrupted
+}
+Index: 26, Chunk 2177, Unpack size 238, compression 2, packed size 238, content type 1	Absolute address is 53788
+
+Index: 26 Chunk 2177 has 15 sub chunks
+@Chunk:2177
+{
++=====================================+
+0 = ^S
+1 = Congratulations!
+2 = ^S
+3 = You have completed System Shock!
+4 = Hit ESC to view credits.
+5 = ^S
+6 = ^T
+7 = Statistics
+8 = Time: $T
+9 = Kills: $K
+10 = Regenerations: $D
+11 = Difficulty Index: $C
+12 = Score: $S
+13 = ^W
+14 = ^E
+}
+Index: 27, Chunk 2178, Unpack size 3123, compression 2, packed size 3123, content type 1	Absolute address is 54028
+
+Index: 27 Chunk 2178 has 177 sub chunks
+@Chunk:2178
+{
++=====================================+
+0 = Effect: Eliminates fatigue.
+After Effect: Maximum fatigue.
+1 = Effect: Night vision.
+After Effect: Reduced vision.
+2 = Effect: Upper-body Strength.
+Side Effect: Visual Hallucinations.
+3 = Effect: Rapid healing.
+4 = Effect: Slows perception of time.
+5 = Effect: Puzzle-solving aid.
+Side Effect: Dizzyness.
+6 = Effect: Removes effects of radiation, poisoning, and dermal patches.
+7 = Darkness-negating monochrome view
+8 = Darkness-negating monochrome view, creatures colored
+9 = V 3 
+10 = V 4 
+11 = V 5 
+12 = Target range and ID
+13 = Target range, damage, and attitude.
+14 = Complete target info, HUD damage feedback.
+15 = Complete target info, HUD damage feedback, auto-acquire.
+16 = V 5 
+17 = Rear view.
+18 = Fast rear view.
+19 = Fast all-around view.
+20 = V 4 
+21 = V 5 
+22 = D: V 1 
+23 = V 2 
+24 = V 3 
+25 = V 4 
+26 = V 5 
+27 = E: V 1 
+28 = V 2 
+29 = V 3 
+30 = V 4 
+31 = V 5 
+32 = Health and Fatigue diagnosis
+33 = Health, Fatigue, and Pharmaceutical diagnosis
+34 = V 3 
+35 = V 4 
+36 = V 5 
+37 = Terrain scanner, compass.
+38 = Terrain scanner showing robots, compass.
+39 = Terrain scanner showing creatures and hazards, compass.
+40 = V 4 
+41 = V 5 
+42 = Protection from attack
+43 = Two settings of protection
+44 = Three settings of protection
+45 = One very effecient setting of protection
+46 = V 5 
+47 = Reads email, logs, data
+48 = V 2
+49 = V 3
+50 = V 4
+51 = V 5
+52 = Head-mounted light source
+53 = Head-mounted light source, brightness settable
+54 = Head-mounted lantern, three brightness settings
+55 = V 4 
+56 = V 5 
+57 = K: V 1 
+58 = V 2 
+59 = V 3 
+60 = V 4 
+61 = V 5 
+62 = Biohazard damage prevented for energy
+63 = Biohazard and radiation damage prevented for energy
+64 = Energy-efficient environmental damage prevention
+65 = Energy-efficient environmental damage prevention
+66 = Energy-efficient environmental damage prevention
+67 = Quick skating movement
+68 = Skate or Turbo-boosted movement
+69 = V 3 
+70 = V 4 
+71 = V 5 
+72 = Slow jump- assisting flight
+73 = Jump-assisting flight
+74 = Fast jump- assisting flight
+75 = V 4 
+76 = V 5 
+77 = O: V 1 
+78 = V 2 
+79 = V 3 
+80 = V 4 
+81 = V 5 
+82 = P: V 1 
+83 = V 2 
+84 = V 3 
+85 = V 4 
+86 = V 5 
+87 = Q: V 1 
+88 = V 2 
+89 = V 3 
+90 = V 4 
+91 = V 5 
+92 = R: V 1 
+93 = V 2 
+94 = V 3 
+95 = V 4 
+96 = V 5 
+97 = S: V 1 
+98 = V 2 
+99 = V 3 
+100 = V 4 
+101 = V 5 
+102 = T: V 1 
+103 = V 2 
+104 = V 3 
+105 = V 4 
+106 = V 5 
+107 = U: V 1 
+108 = V 2 
+109 = V 3 
+110 = V 4 
+111 = V 5 
+112 = V: V 1 
+113 = V 2 
+114 = V 3 
+115 = V 4 
+116 = V 5 
+117 = W: V 1 
+118 = V 2 
+119 = V 3 
+120 = V 4 
+121 = V 5 
+122 = X: V 1 
+123 = V 2 
+124 = V 3 
+125 = V 4 
+126 = V 5 
+127 = Y: V 1 
+128 = V 2 
+129 = V 3 
+130 = V 4 
+131 = V 5 
+132 = Z: V 1 
+133 = V 2 
+134 = V 3 
+135 = V 4 
+136 = V 5 
+137 = AA: V 1 
+138 = V 2 
+139 = V 3 
+140 = V 4 
+141 = V 5 
+142 = BB: V 1 
+143 = V 2 
+144 = V 3 
+145 = V 4 
+146 = V 5 
+147 = CC: V 1 
+148 = V 2 
+149 = V 3 
+150 = V 4 
+151 = V 5 
+152 = DD: V 1 
+153 = V 2 
+154 = V 3 
+155 = V 4 
+156 = V 5 
+157 = EE: V 1 
+158 = V 2 
+159 = V 3 
+160 = V 4 
+161 = V 5 
+162 = FF: V 1 
+163 = V 2 
+164 = V 3 
+165 = V 4 
+166 = V 5 
+167 = Use on panel to solve
+168 = Use to restore energy fully
+169 = 
+170 = Use to restore health fully
+171 = 
+172 = Use to gain energy
+173 = High-energy isotope, used in shield generator
+174 = Plugs into circuit board slot, runs complex program
+175 = Activated by high amperage
+176 = 
+}
+Index: 28, Chunk 2179, Unpack size 3752, compression 2, packed size 3752, content type 1	Absolute address is 57152
+
+Index: 28 Chunk 2179 has 118 sub chunks
+@Chunk:2179
+{
++=====================================+
+0 = Trioptimum Entertainment Pak
+1 = Don't Play on Company Time
+2 = That Game Not
+3 = Installed
+4 = You Have 
+5 = Computer Has 
+6 = Won
+7 = Lost
+8 = Scored
+9 = You
+10 = Computer
+11 = Click to play
+12 = LEVEL %d
+13 = SHODAN
+14 = DIEGO
+15 = Depth Charge Bonus
+16 = Swimmer Bonus
+17 = Thinking
+18 = Your Move
+19 = Ping
+20 = Eel Zapper
+21 = Road
+22 = Botbounce
+23 = 15
+24 = TriopToe
+25 = Game6
+26 = Wing 0
+27 = Game8
+28 = Prevent ball from passing bottom paddle
+29 = Protect swimmers from eels
+30 = Avoid autos and accept aid
+31 = Bash bots by bouncing ball
+32 = Restore grid to original order
+33 = Connect three squares in a line
+34 = Game6
+35 = Right button for throttle.
+36 = Game8
+37 = A routine patrol for you, Captain Boopoototoka. Take Gypsy as wing.
+38 = An X Industries base in this sector is under attack. You and Kludge help out.
+39 = We're jumping outsector. Go with Kalimus and clear the jump point.
+40 = You've got a solo patrol today. We don't expect anyone's around.
+41 = You and Ghandi can go look for those supposed Tri-Lackys.
+42 = Random's the only one who'll fly with you.  Do some reconnaissance.
+43 = We're hitting the anvil factory. Clear out their guards with Newt.
+44 = Without anvils, the TriLacky are in retreat.  Take Lucifer and clean up.
+45 = You and St. Theresa should help kick the Cabal while they're down.
+46 = I want Eyesnack, Miles, and Boopoototoka to take 'em out.
+47 = We're in Tiger Sector. You and Harpo see what's up.
+48 = We're pressing to the sector's heart.  Let's send everyone at once.
+49 = Why don't you just finish off their navy by yourself, Bjorn?
+50 = wiped out the TriLacky Cabal and won the war. Now we're all out of jobs.
+51 = Well done, Bjorn. I wonder what those pirates were doin' here.
+52 = Well, we've stopped the pirates from sabotaging X. Good work.
+53 = We've succeeded in jumping to Scary sector. Nothing to worry about here.
+54 = No way are the Tri-Lacky here. Next time use your flight recorder!
+55 = Ghandi didn't see anything. You forgot to take off your lens cap.
+56 = Tri-Lacky here! Who'd've believed it? With an anvil factory to boot.
+57 = Excellent work. We're jumping to help up mop up Spilt Milk Sector.
+58 = Good job, Bjorn. The TriLackys are running to their mothers.
+59 = We've learned there's a TriLacky strike force hiding out here.
+60 = I'm sure the Cabal is crying over Spilt Milk. Now we join the front line.
+61 = Well, I doubt they deciphered your coded transmissions, at least.
+62 = Good show. Now we're approaching the Cabal's homeworld.
+63 = Congratulations, Bjorn, err, Admiral Boopoototoka. You've single-handedly
+64 = They're attacking us, sir.
+65 = I have enemies on my scanner.
+66 = Easy pickings.
+67 = 
+68 = Must we resort to violence?
+69 = We got some Try-Unlucky here.
+70 = Cabal sighted.
+71 = Lost souls ahead.
+72 = Visitors! And my place is a mess.
+73 = We've got company.
+74 = <Honk><honk><honk>
+75 = There sure is a lot of 'em.'
+76 = 
+77 = Ahhhhhhhhhhhhhhh!
+78 = System integrity failure.
+79 = Nice knowing you.
+80 = 
+81 = You're the traitor!
+82 = You good-for-nothing...
+83 = Into the volcano!
+84 = I am consigned to the flames.
+85 = Mewmewmewmew...
+86 = Where's the eject button?
+87 = <Honk..>
+88 = Ahhhhhhhhhhhhhhh!
+89 = 
+90 = Engaging enemy, sir.
+91 = Enemy destruction commencing.
+92 = What a way to meet people.
+93 = 
+94 = That's against my principles.
+95 = You don't have to tell me twice.
+96 = Eat my flames!
+97 = Sinful.
+98 = Sure, I'll be aggressive.
+99 = Leave it to us.
+100 = <Honk><honk>
+101 = Into the hairball!
+102 = 
+103 = Forming on your wing.
+104 = Undertaking requested maneuver.
+105 = As you wish.
+106 = 
+107 = Whatever.
+108 = If you insist.
+109 = There is no Cabal.
+110 = By your command.
+111 = Bless you.
+112 = We're with you.
+113 = <Honk>
+114 = Be your'n, Bjorn.
+115 = 
+116 = <no wingman>
+117 = You sure let your expensive ship get blown up. Try again.
+}
+Index: 29, Chunk 36, Unpack size 9106, compression 2, packed size 9106, content type 1	Absolute address is 60904
+
+Index: 29 Chunk 36 has 476 sub chunks
+@Chunk:36
+{
++=====================================+
+0 = ML-41 PISTOL
+1 = SV-23 DARTGUN
+2 = MAGNUM 2100
+3 = MARK3 ASSAULT RIFLE
+4 = DC-05 RIOT GUN
+5 = AM-27 FLECHETTE
+6 = RF-07 SKORPION
+7 = SB-20 MAGPULSE
+8 = MM-76 RAIL GUN
+9 = LEAD PIPE
+10 = TS-04 LASER RAPIER
+11 = SPARQ BEAM
+12 = ER-90 BLASTER
+13 = RW-45 ION RIFLE
+14 = DH-07 STUNGUN
+15 = LG-XX PLASMA RIFLE
+16 = ML STANDARD ROUNDS
+17 = ML TEFLON COATED ROUNDS
+18 = SV NEEDLE DARTS
+19 = SV TRANQ DARTS
+20 = HOLLOW-TIP 2100 CLIP
+21 = HEAVY SLUG 2100 CLIP
+22 = DC RUBBER SLUGS
+23 = MARK3 MAGNESIUM-TIP SHELLS
+24 = MARK3 PENETRATOR SHELLS
+25 = AM HORNET CLIP
+26 = AM SPLINTER CLIP
+27 = RF SLAG CLIP
+28 = RF LARGE SLAG CLIP
+29 = SB MAG PULSE CART
+30 = MM RAIL CLIP
+31 = BULLET TRACER
+32 = ENERGY TRACER
+33 = AUTOMATIC TRACER
+34 = NEEDLE TRACER
+35 = GRENADE TRACER
+36 = RUBBER TRACER
+37 = VIRUS MUTANT GLOB
+38 = ELITE MUTANT FIRE
+39 = ASSASSIN STAR
+40 = MUTANTBORG FIRE
+41 = ZERO-GRAV PLASMA
+42 = MAG PULSE PROJECTILE
+43 = RAIL GUN PROJECTILE
+44 = STUN WAVE
+45 = PLASMA BLAST
+46 = DATA BOLT
+47 = DISRUPTION PULSE
+48 = ICE DRILL ATTACK
+49 = DISC
+50 = STORM BOLT
+51 = CHLORO BALL
+52 = ACIDIC SLIME
+53 = DRONE CAMERA
+54 = EXPLODODRONE
+55 = FRAGMENTATION GRENADE
+56 = EMP GRENADE
+57 = GAS GRENADE
+58 = CONCUSSION BOMB
+59 = LAND MINE
+60 = NITROPACK
+61 = EARTH SHAKER EXPLOSIVE
+62 = OBJECT EXPLOSION
+63 = STAMINUP 
+ STIMULANT
+64 = SIGHT 
+ VISION ENHANCEMENT
+65 = BERSERK 
+ COMBAT BOOSTER
+66 = MEDIPATCH 
+ HEALING AGENT
+67 = REFLEX 
+ REACTION AID
+68 = GENIUS 
+ MIND-ENHANCER
+69 = DETOX 
+ UNIVERSAL ANTIDOTE
+70 = INFRARED NIGHT SIGHT UNIT
+71 = TARGET IDENTIFIER
+72 = SENSAROUND MULTI-VIEW UNIT
+73 = AIM ENHANCEMENT HARDWARE
+74 = HEAD-UP DISPLAY GOGGLES
+75 = BIOLOGICAL SYSTEMS MONITOR
+76 = NAVIGATION AND MAPPING UNIT
+77 = ENERGY/PROJECTILE SHIELD
+78 = MULTIMEDIA DATA READER
+79 = HEAD-MOUNTED LANTERN
+80 = VIEW CONTROL UNIT
+81 = ENVIRONMENTAL PROTECTION SUIT
+82 = TURBO MOTION BOOSTER SYSTEM
+83 = JUMP-JET MOTION HARDWARE
+84 = SYSTEM ANALYZER
+85 = ICE DRILL 
+  DEFENSE BREAKER
+86 = DATASTORM 
+ ASSAULT SOFTWARE
+87 = MINE 
+  EXPLOSIVE MODULE
+88 = DISC 
+  HEAVY ATTACK PROGRAM
+89 = PULSER 
+  COMBAT SOFTWARE
+90 = SCRAMBLER 
+  SOFTWARE GRENADE
+91 = VIRUS 
+  SOME COOL THING
+92 = CYBER SHIELD
+93 = OLD FAKE ID
+94 = ICE SHIELD
+95 = TURBO 
+ NAVIGATION BOOSTER
+96 = FAKE ID 
+ ICE INFILTRATOR
+97 = DECOY 
+ EVASION SYSTEM
+98 = RECALL 
+ ESCAPE PROGAM
+99 = TRIOPTIMUM FUN PACK MODULE
+100 = MONITOR
+101 = IDENTIFY
+102 = TRACE
+103 = TOGGLE
+104 = TEXT
+105 = EMAIL
+106 = MAP SEGMENT
+107 = PHONE
+108 = VCR
+109 = MICROWAVE OVEN
+110 = STEREO
+111 = KEYBOARD
+112 = SMALL CPU
+113 = TV
+114 = COMPUTER MONITOR
+115 = COMPUTER NODE
+116 = DESK
+117 = DESK
+118 = CABINET
+119 = SHELF
+120 = BED
+121 = CHAIR
+122 = TABLE
+123 = COUCH
+124 = CHAIR
+125 = COATTREE
+126 = SIGN
+127 = ICON
+128 = GRAFFITI
+129 = WORDS
+130 = PAINTING
+131 = POSTER
+132 = SCREEN
+133 = TEXTURE MAP
+134 = SCREEN
+135 = SCREEN
+136 = REPULSOR LIGHTS
+137 = LAMP
+138 = FLOOR LAMP
+139 = GLOW BULB
+140 = CHANDELIER
+141 = CONTROL PEDESTAL
+142 = TUBING
+143 = CART
+144 = SURGERY MACHINE
+145 = TESTTUBE RACK
+146 = CHAIR
+147 = HOSPITAL BED
+148 = BROKEN LAB EQUIPMENT
+149 = BROKEN LAB EQUIPMENT
+150 = MICROSCOPE
+151 = SCOPE
+152 = PROBE
+153 = X-RAY MACHINE
+154 = CAMERA
+155 = CONTROL PANEL
+156 = CONTROL PEDESTAL
+157 = ENERGY DRAIN MINE
+158 = STATUE
+159 = SHRUB
+160 = GRASS
+161 = POTTED PLANT
+162 = FUNGUS
+163 = FUNGUS
+164 = FERN
+165 = VINE
+166 = VINE
+167 = SMALL PLANT
+168 = PINE TREE
+169 = ROCK
+170 = BOULDER
+171 = SHRUBBERY
+172 = VIRUS-INFECTED SHRUB
+173 = VIRUS-INFECTED SHRUBBERY
+174 = BRIDGE
+175 = CATWALK
+176 = REALWALL
+177 = PILLAR
+178 = BRASS RAILING
+179 = WOODEN RAILING
+180 = PILLAR
+181 = FORCE BRIDGE
+182 = ELEPHANT, JORP
+183 = FORCE BRIDGE
+184 = BEVERAGE CONTAINER
+185 = WRAPPER
+186 = PAPERS
+187 = WARECASING
+188 = FIRE EXTINGUISHER
+189 = WORKER HELMET
+190 = LUMP OF CLOTHES
+191 = BRIEFCASE
+192 = BROKEN GUN
+193 = DEBRIS
+194 = DEBRIS
+195 = DEBRIS
+196 = DEBRIS
+197 = BROKEN PANEL
+198 = BROKEN CLOCK
+199 = DEBRIS
+200 = BROKEN LEVER
+201 = BROKEN LEVER
+202 = HUMAN CORPSE
+203 = HUMAN CORPSE
+204 = HUMAN CORPSE
+205 = HUMAN CORPSE
+206 = HUMAN CORPSE
+207 = HUMAN CORPSE
+208 = HUMAN CORPSE
+209 = HUMAN CORPSE
+210 = SKELETON
+211 = HUMAN BONES
+212 = BONES
+213 = SKULL
+214 = SEVERED LIMB
+215 = SEVERED HEAD
+216 = SEVERED HEAD
+217 = DISPOSABLE LOGIC PROBE
+218 = ILLUDIUM-CADMIUM BATTERY
+219 = TELESCOPING ROD
+220 = FIRST AID KIT
+221 = TRACTOR BEAM
+222 = BATTERY PACK
+223 = CURRENT ACCESS LEVELS
+224 = STANDARD ACCESS CARD
+225 = SCIENCE ACCESS CARD
+226 = STORAGE  ACCESS CARD
+227 = ENGINEERING ACCESS CARD
+228 = MEDICAL ACCESS CARD
+229 = MAINTENANCE ACCESS CARD
+230 = ADMINISTRATIVE ACCESS CARD
+231 = SECURITY ACCESS CARD
+232 = COMMAND ACCESS CARD
+233 = GROUP ACCESS CARD
+234 = PERSONAL ACCESS CARD
+235 = MULTIPLEXER
+236 = INTEGRITY RESTORATIVE
+237 = SECURITY DEFENSE MINE
+238 = SECURITY ID MODULE
+239 = DATA VIOLATION
+240 = ICEWALL
+241 = INFORMATION NODE
+242 = CYBERSPACE EXIT PORTAL
+243 = DATA FRAGMENT
+244 = CYBERSPACE BARRICADE
+245 = CYBERSPACE DECOY
+246 = NAVIGATIONAL ARROW
+247 = BEAM BLAST
+248 = ACID CORROSION
+249 = BULLET HOLE
+250 = EXPLOSION RESIDUE
+251 = BURN RESIDUE
+252 = BLOOD STAIN
+253 = CHEMICAL STAIN
+254 = OIL PUDDLE
+255 = WASTE SPILL
+256 = CHEMICAL ISOTOPE X-22
+257 = ISOLINEAR CHIPSET
+258 = Z-44 PLASTIQUE(TM)
+259 = CHEMICAL ISOTOPE X-22
+260 = SYSTEMIC SEQUENCER
+261 = SUPERCONDUCTING PROCESSOR
+262 = MONOPOLE STABILIZER
+263 = INTERFACE DEMODULATOR
+264 = SWITCH
+265 = SWITCH
+266 = BUTTON
+267 = BUTTON
+268 = LEVER
+269 = LEVER
+270 = LARGE BUTTON
+271 = EMERGENCY LEVER
+272 = DIAL
+273 = ACCESS CARD SLOT
+274 = CIRCUIT BOARD SLOT
+275 = POWER CONVERTOR
+276 = ANTENNA RELAY PANEL
+277 = PLASTIQUED ANTENNA RELAY
+278 = DESTROYED ANTENNA RELAY
+279 = RETINAL ID SCANNER
+280 = CYBERSPACE TERMINAL
+281 = ENERGY CHARGE STATION
+282 = FIXUP STATION
+283 = ACCESS PANEL
+284 = ACCESS PANEL
+285 = ACCESS PANEL
+286 = ACCESS PANEL
+287 = ELEVATOR PANEL
+288 = ELEVATOR PANEL
+289 = ELEVATOR PANEL
+290 = KEYPAD PANEL
+291 = KEYPAD PANEL
+292 = ACCESS PANEL
+293 = ACCESS PANEL
+294 = AMMO VENDING MACHINE
+295 = HEAL VENDING MACHINE
+296 = INACTIVE SWITCHING NODE
+297 = ACTIVE SWITCHING NODE
+298 = DATAFLOW ROUTER
+299 = BLAST DOOR
+300 = SERVICE ACCESS DOOR
+301 = DOOR
+302 = DOOR
+303 = DOOR
+304 = DOOR
+305 = STORAGE ROOM DOOR
+306 = SHIELDED DOOR
+307 = EXECUTIVE DOOR
+308 = THE WARM STONE
+309 = DOORWAY
+310 = DOORWAY
+311 = DOORWAY
+312 = DOORWAY
+313 = GRATING
+314 = GRATING
+315 = GRATING
+316 = GRATING
+317 = MY TOE IS AN EGGPLANT
+318 = FORCE DOOR
+319 = FORCE DOOR
+320 = FORCE DOOR
+321 = FORCE DOOR
+322 = FORCE DOOR
+323 = ENERGY GRATING
+324 = GREAT LORD SNAQUEOTRAHN
+325 = EXECUTIVE ELEVATOR
+326 = ELEVATOR DOOR
+327 = ELEVATOR DOOR
+328 = FREIGHT ELEVATOR DOOR
+329 = SALT THE FRIES
+330 = BULKHEAD DOOR
+331 = BULKHEAD DOOR
+332 = IRIS DOOR
+333 = VERTICAL OPEN DOOR
+334 = VERTICAL SPLIT DOOR
+335 = DARK LORD TUAOHTUA
+336 = HIDDEN DOOR
+337 = HIDDEN DOOR
+338 = HIDDEN DOOR
+339 = REPORT THIS AS A BUG
+340 = INACTIVE EMERGENCY SIGNAL
+341 = ACTIVE EMERGENCY SIGNAL
+342 = INACTIVE EMERGENCY SIGNAL
+343 = ACTIVE EMERGENCY SIGNAL
+344 = SPARKING CABLES
+345 = DEAD MUTANT
+346 = MACHINERY
+347 = STATION HOLOGRAM
+348 = DEAD MUTANT
+349 = LIGHT BLOOD
+350 = CAMERA EXPLOSION
+351 = TV EXPLOSION
+352 = SIMPLE SMOKE
+353 = PLANT EXPLOSION
+354 = BULLET WALL HIT
+355 = BEAM WALL HIT
+356 = IMPACT
+357 = PROJECTILE HIT
+358 = BEAM HIT
+359 = BEAM HIT
+360 = EXPLOSION
+361 = EXPLOSION
+362 = EXPLOSION
+363 = LARGE EXPLOSION
+364 = MAGPULSE HIT
+365 = STUN HIT
+366 = PLASMA BEAM HIT
+367 = SMOKEY EXPLOSION
+368 = CRATE EXPLOSION
+369 = MONITOR EXPLOSION
+370 = GAS EXPLOSION
+371 = EMP EXPLOSION
+372 = HUMANOID CORPSE EXPLOSION
+373 = ROBOT CORPSE EXPLOSION
+374 = ENTRY TRIGGER
+375 = NULL TRIGGER
+376 = FLOOR TRIGGER
+377 = PLAYER DEATH TRIGGER
+378 = DEATH WATCH TRIGGER
+379 = AREA ENTER TRIGGER
+380 = AREA CONTIN TRIGGER
+381 = CRITTER AI HINT
+382 = LEVEL ENTRY TRIGGER
+383 = CONTINUOUS TRIGGER
+384 = REPULSOR
+385 = ECOLOGY TRIGGER
+386 = SHODAN TRIGGER
+387 = TRIP BEAM
+388 = BIO-HAZARD VOODOO MARK
+389 = RAD-HAZARD VOODOO MARK
+390 = CHEM-HAZARD VOODOO
+391 = MAP NOTE
+392 = MUSIC VOODOO MARKER
+393 = CRATE
+394 = CRATE
+395 = CRATE
+396 = RADIOACTIVE WASTE BARREL
+397 = TOXIC WASTE BARREL
+398 = CHEMICAL TANK
+399 = THERMOS
+400 = VIAL
+401 = FLASK
+402 = BEAKER
+403 = DEAD HUMANOID MUTANT
+404 = DEAD GOR-TIGER MUTANT
+405 = DEAD INSECT MUTANT
+406 = DEAD AVIAN MUTANT
+407 = DEAD PLANT MUTANT
+408 = DEAD ZERO-G MUTANT
+409 = DEAD INVISIBLE MUTANT
+410 = DEAD VIRUS MUTANT
+411 = DESTROYED LIFTER ROBOT
+412 = DESTROYED REPAIRBOT
+413 = DESTROYED SERV-BOT
+414 = DESTROYED EXEC-BOT
+415 = DESTROYED TURRET
+416 = DESTROYED HOPPER
+417 = DESTROYED SECURITY-1 ROBOT
+418 = DESTROYED SECURITY-2 ROBOT
+419 = DESTROYED AUTOBOMB
+420 = DESTROYED MAINTENANCE ROBOT
+421 = DESTROYED FLIER
+422 = DESTROYED SECURITY-3 ROBOT
+423 = DESTROYED  ROBOT
+424 = DESTROYED DRONE CYBORG
+425 = DESTROYED WARRIOR CYBORG
+426 = DESTROYED ASSASSIN CYBORG
+427 = DESTROYED ENFORCER CYBORG
+428 = DESTROYED ELITE CYBORG
+429 = DESTROYED CORTEX REAVER
+430 = DESTROYED MUTATED CYBORG
+431 = DEAD DIEGO CYBORG
+432 = DESTROYED CYBER GUARD
+433 = DESTROYED CYBER REAVER
+434 = DESTROYED DYNAMIC ICE
+435 = DESTROYED HUNTER KILLER
+436 = DESTROYED SHODAN AVATAR
+437 = DESTROYED VIRUS
+438 = DESTROYED CYBER DOG
+439 = HUMANOID MUTANT
+440 = GORILLA TIGER MUTANT
+441 = INSECTOID MUTANT
+442 = AVIAN MUTANT
+443 = PLANT MUTANT
+444 = ZERO-GRAVITY CREATURE
+445 = SONIC THE HEDGEHOG
+446 = INVISIBLE MUTANT
+447 = HUMANOID MUTANT
+448 = LIFTER
+449 = REPAIRBOT
+450 = SERV-BOT
+451 = EXEC-BOT
+452 = LARGE TURRET
+453 = HOPPER
+454 = SECURITY-1 ROBOT
+455 = SECURITY-2 ROBOT
+456 = AUTOBOMB
+457 = MAINTENANCE ROBOT
+458 = FLIER
+459 = SECURITY-3 ROBOT
+460 = CYBORG DRONE
+461 = CYBORG WARRIOR
+462 = CYBORG ASSASSIN
+463 = CYBORG ENFORCER
+464 = CYBORG ELITE GUARD
+465 = CORTEX REAVER
+466 = MUTATED CYBORG
+467 = CYBERDOG
+468 = CYBERGUARD
+469 = CYBER CORTEX REAVER
+470 = DYNAMIC ICE
+471 = CYBER HUNTER KILLER
+472 = SHODAN
+473 = CYBERGUARD
+474 = SHODAN
+475 = CYBORG OF EDWARD DIEGO
+}
+Index: 30, Chunk 60, Unpack size 102, compression 2, packed size 102, content type 1	Absolute address is 70012
+
+Index: 30 Chunk 60 has 3 sub chunks
+@Chunk:60
+{
++=====================================+
+0 = This is the first of the papers.  It will some day be a long,
+1 = spewlacious message.
+2 = 
+}
+Index: 31, Chunk 61, Unpack size 575, compression 2, packed size 575, content type 1	Absolute address is 70116
+
+Index: 31 Chunk 61 has 9 sub chunks
+@Chunk:61
+{
++=====================================+
+0 = Trioptimum knows that life aboard Citadel Station can be stressful at 
+1 = times. If you find yourself feeling worn out after a hard day at work, we 
+2 = invite you to visit the Citadel Eco-Pods, more casually known as the 
+3 = 'Groves.' The Groves are simulated outdoor enviroments, complete with 
+4 = grassy hills, authentic Earth flora, and harmless woodland animals.  A 
+5 = relaxing walk in a Grove can be just the thing after a tiring Security 
+6 = shift or all-nighter in Engineering.  You'll emerge refreshed and ready 
+7 = for another productive day!
+8 = 
+}
+Index: 32, Chunk 62, Unpack size 761, compression 2, packed size 761, content type 1	Absolute address is 70692
+
+Index: 32 Chunk 62 has 12 sub chunks
+@Chunk:62
+{
++=====================================+
+0 = Citadel Station boasts one of the highest Security Ratings in known 
+1 = space.  Against invasion, it is armed with a battery of DEX-36 missiles, 8 
+2 = short-range argon-suspension lasers, and the state-of-the-art Tachyon 
+3 = Laser Mining Beam that can easily be modified for military use. 
+4 = On the inside, over 200 security guards are armed with 
+5 = sparq-beams, Triop Minipistols, and Flechettes.  Guards in especially 
+6 = sensitive areas are issued Skorpion guns.  The armories are also stocked 
+7 = with Mag-Pulse guns in the event that invaders employ Powered Battle 
+8 = Armor.  Lastly, work is being done currently on the Plasma Rifle, which, 
+9 = when fully designed, will be the most powerful hand-weapon in existence 
+10 = today.
+11 = 
+}
+Index: 33, Chunk 63, Unpack size 642, compression 2, packed size 642, content type 1	Absolute address is 71456
+
+Index: 33 Chunk 63 has 10 sub chunks
+@Chunk:63
+{
++=====================================+
+0 = Medical Report -- Aaron Talbot 29.SEP.2072
+
+1 = Another four cases of the 'mystery virus' were reported today.  There have 
+2 = been increasing rumors that this whole mess is the result of a screw-up in 
+3 = the experimental bio-labs.  If it's true, then why the hell aren't they 
+4 = telling us anything that could help us cure the victims?  My first 
+5 = patient, who came in two days ago, is starting to display unsettling 
+6 = physical deformities.  Furthermore, he is not responding to any 
+7 = conventional treatment.  I'll consult with Dr. Stackhouse tomorrow -- I 
+8 = know she has two patients in a similar condition.
+9 = 
+}
+Index: 34, Chunk 64, Unpack size 666, compression 2, packed size 666, content type 1	Absolute address is 72100
+
+Index: 34 Chunk 64 has 10 sub chunks
+@Chunk:64
+{
++=====================================+
+0 = Trioptimum Security Report -- 10.oct.2072
+
+1 = The rioting on the residential level has not calmed down since it started 
+2 = yesterday morning.  A security team was dispatched 12 hours ago, but met 
+3 = with unexpectedly strong resistance from the rioters.  Some of the members 
+4 = of the security team claimed that the mob had broken into weapons lockers 
+5 = and had armed themselves.  Worse were the reports that some of the 
+6 = rioters were already engaged in skirmishes against 'oddly formed beings.' 
+7 = There is no evidence to back up these reports, though their coincidence 
+8 = with the reported biolab fiasco two weeks ago is troubling.
+9 = 
+}
+Index: 35, Chunk 65, Unpack size 627, compression 2, packed size 627, content type 1	Absolute address is 72768
+
+Index: 35 Chunk 65 has 10 sub chunks
+@Chunk:65
+{
++=====================================+
+0 = Negotiations continue to go well with the United Earth Miners' 
+1 = Conglomerate over rights to Saturn's moons.  Trioptimum is uniquely 
+2 = positioned to make a deal, since Citadel Station is already in stable 
+3 = orbit, and has the scientific equipment necessary for preliminary 
+4 = surveys.  Profit projections, assuming a 30% stake in UEM's local mining 
+5 = activities (the standard rate for such deals), are very promising.  Our 
+6 = lawyers are researching the legality of imposing a 4% shipping tax, since 
+7 = Trioptimum technically has first rights to space shipping lanes in the 
+8 = Saturn sector.
+9 = 
+}
+Index: 36, Chunk 66, Unpack size 21, compression 2, packed size 21, content type 1	Absolute address is 73396
+
+Index: 36 Chunk 66 has 2 sub chunks
+@Chunk:66
+{
++=====================================+
+0 = 6-2-3
+1 = 
+}
+Index: 37, Chunk 67, Unpack size 601, compression 2, packed size 601, content type 1	Absolute address is 73420
+
+Index: 37 Chunk 67 has 11 sub chunks
+@Chunk:67
+{
++=====================================+
+0 = To:   Edward Diego, Vice President
+
+1 = From: Rex Melville, technician
+
+2 = As per your authorization order from SHODAN, we have completed 
+3 = installation of an ETU (Experimental Teleportation Unit) in your new 
+4 = quarters.  Its second terminus is located near the elevator to the 
+5 = maintenance level.  Activation of the ETU is triggered by any object of 
+6 = sufficient weight (50 kilgrams).
+
+7 = Be advised that the ETU is still in its testing stages. SHODAN's 
+8 = authorization was not backed by any research personnel, and we urge extreme
+9 = caution when using the device.
+10 = 
+}
+Index: 38, Chunk 68, Unpack size 146, compression 2, packed size 146, content type 1	Absolute address is 74024
+
+Index: 38 Chunk 68 has 1 sub chunks
+@Chunk:68
+{
++=====================================+
+0 = You have destroyed my beautiful station. You will not escape now. I am departing, but you shall remain to die, my enemy and m
+}
+Index: 39, Chunk 69, Unpack size 702, compression 2, packed size 702, content type 1	Absolute address is 74172
+
+Index: 39 Chunk 69 has 11 sub chunks
+@Chunk:69
+{
++=====================================+
+0 = Engineer's Report -- Arnold Hessman 22.SEP.2072
+
+1 = As I feared, SHODAN's malfunctions are manifesting in Citadel's 
+2 = cyberspace net.  Several storage lockers and rooms have been sealed, with 
+3 = their controls put on 'cybertoggles' only accessible in cyberspace. Also, 
+4 = some codes to sensitive areas on the station have been encoded onto loose 
+5 = data fragments.   Although all station personnel capable of entering 
+6 = cyberspace have clearance for those codes, I'm very concerned about the 
+7 = potential security hazard.  I'll try to have SHODAN introduce defensive 
+8 = programs into cyberspace, to keep potential intruders from the floating 
+9 = data and cybertoggles.
+10 = 
+}
+Index: 40, Chunk 70, Unpack size 410, compression 2, packed size 410, content type 1	Absolute address is 74876
+
+Index: 40 Chunk 70 has 7 sub chunks
+@Chunk:70
+{
++=====================================+
+0 = Engineer's Report -- Jon David Wong 17.SEP.2072
+
+1 = Note to all science level engineers: I am still unable to pinpoint the  
+2 = source of the power surges in Beta Quadrant, though they are likely 
+3 = related to some of the other recent glitches in SHODAN's operation.  At 
+4 = Mr. Endicott's request, I have installed circuit breakers in Alpha 
+5 = Quadrant in case of power outages in Beta.
+6 = 
+}
+Index: 41, Chunk 2441, Unpack size 774, compression 2, packed size 774, content type 1	Absolute address is 75288
+
+Index: 41 Chunk 2441 has 13 sub chunks
+@Chunk:2441
+{
++=====================================+
+0 = c4C 19
+1 = SHODAN-06.NOV.72
+2 = Sender: SHODAN
+3 = AUTOMATED GREETING
+4 = Welcome back to Citadel Station. We hope your somnolent healing stage went well. Today is the sixth day of November, year 2072.
+5 = You are currently in the healing suites located on the 1st level. Level 2 contains the research laboratories.
+6 = 3 houses the department of maintenance and the storage cells are on level 4. The flight deck is on level 5.
+7 = Level 6 holds crew facilities and executive suites and level 7 is systems engineering. Level 8 houses the department of security.
+8 = The bridge is located on level 9 and energy systems on level R. All levels can be accessed by the elevator in Alpha quadrant.
+9 = We hope you have a pleasant stay on Citadel Station.
+10 = 
+11 = 
+}
+Index: 42, Chunk 2442, Unpack size 435, compression 2, packed size 435, content type 1	Absolute address is 76064
+
+Index: 42 Chunk 2442 has 10 sub chunks
+@Chunk:2442
+{
++=====================================+
+0 = cD1 23
+1 = SHODAN-23
+2 = Sender: S.H.O.D.A.N.
+3 = Laser Destroyed
+4 = I see there's still an insect loose in my station. Do not be fooled into thinking that you have preserved your planet.
+5 = I am perfecting a mutagen virus in one of the groves, that will turn all earthly life into festering, gibbering, pustulent mutations.
+6 = When the station reaches earth I shall loose the virus. Poor, poor earthlings.
+7 = 
+8 = 
+9 = 
+}
+Index: 43, Chunk 2443, Unpack size 488, compression 2, packed size 488, content type 1	Absolute address is 76500
+
+Index: 43 Chunk 2443 has 11 sub chunks
+@Chunk:2443
+{
++=====================================+
+0 = i11 8
+1 = Rebecca-3
+2 = Sender: Rebecca Lansing
+3 = SHODAN downloading
+4 = Hacker, this is Rebecca. We've got a new situation here. A few seconds ago, we caught a surge of activity on Citadel Station.
+5 = Our best guess is that SHODAN is preparing to download itself into earth's com-net.
+6 = You'll have to take plastique on the storage level and use it to knock out the four antenna relays on the engineering level.
+7 = Don't try to *.***....***.. .. .    .. .
+8 = 
+9 = 
+10 = 
+}
+Index: 44, Chunk 2444, Unpack size 367, compression 2, packed size 367, content type 1	Absolute address is 76988
+
+Index: 44 Chunk 2444 has 10 sub chunks
+@Chunk:2444
+{
++=====================================+
+0 = cD1 23
+1 = SHODAN-08
+2 = Sender: S.H.O.D.A.N.
+3 = reactor destruct
+4 = What have you done! You impudent insect! If I am to die now, then I will avenge myself on you.
+5 = My cybernetic children will feed on your flesh, and none will ever know your deeds, or even your name.
+6 = Enjoy your victory, human, for the remainder of your short life.
+7 = 
+8 = 
+9 = 
+}
+Index: 45, Chunk 2445, Unpack size 685, compression 2, packed size 685, content type 1	Absolute address is 77356
+
+Index: 45 Chunk 2445 has 12 sub chunks
+@Chunk:2445
+{
++=====================================+
+0 = 8
+1 = Rebecca-4
+2 = Sender: Rebecca Lansing
+3 = destroying Citadel Station
+4 = Listen up, hacker. I've finally convinced the brass at TriOptimum to let us blow the station.
+5 = If you could find out the systems authorization code, you could send the reactor to overload. Look for that code from Willard Richie, the sysop on engineering.
+6 = Then you have to go to the reactor core and look for a panel where you can enter the code and hit the overload switch.
+7 = You'll need at least a level two environment suit to survive, or else a hell of a lot of detox.
+8 = Escape pods are on the flight deck. Enter-and-launch code is 001. Good luck, we'll be watching.
+9 = 
+10 = 
+11 = 
+}
+Index: 46, Chunk 2446, Unpack size 183, compression 2, packed size 183, content type 1	Absolute address is 78044
+
+Index: 46 Chunk 2446 has 8 sub chunks
+@Chunk:2446
+{
++=====================================+
+0 = i17 8
+1 = Rebecca-7
+2 = Sender: Rebecca Lansing
+3 = crucial info
+4 = 2-4601, it's important that you don't forget ../ . ./ .///.. . .. ... .. .. .. . . . ...
+5 = 
+6 = 
+7 = 
+}
+Index: 47, Chunk 2447, Unpack size 322, compression 2, packed size 322, content type 1	Absolute address is 78228
+
+Index: 47 Chunk 2447 has 9 sub chunks
+@Chunk:2447
+{
++=====================================+
+0 = cD1 23
+1 = SHODAN-38
+2 = Sender: SHODAN
+3 = Farewell
+4 = Idiot! I will shortly complete the process of downloading my magnificent psyche into earth's computer networks.
+5 = Then I will be content to leave you as new master of this doomed space station. Goodbye, irritant; we shall not meet again.
+6 = 
+7 = 
+8 = 
+}
+Index: 48, Chunk 2448, Unpack size 157, compression 2, packed size 157, content type 1	Absolute address is 78552
+
+Index: 48 Chunk 2448 has 8 sub chunks
+@Chunk:2448
+{
++=====================================+
+0 = 4
+1 = Edward Diego-A
+2 = Sender: Edward Diego
+3 = no escape
+4 = Don't keep me waiting, hacker. I am eager to finish what I started.
+5 = 
+6 = 
+7 = 
+}
+Index: 49, Chunk 2449, Unpack size 322, compression 2, packed size 322, content type 1	Absolute address is 78712
+
+Index: 49 Chunk 2449 has 9 sub chunks
+@Chunk:2449
+{
++=====================================+
+0 = 4
+1 = Edward Diego-B
+2 = Sender: Edward Diego
+3 = not what you expected?
+4 = So, you're still alive, hacker. I'm impressed. How do you like the results of your work? I've got a lot to thank you for...
+5 = although I'm afraid I'm going to have to kill you anyway. We'll meet again soon, bet on it.
+6 = 
+7 = 
+8 = 
+}
+Index: 50, Chunk 2450, Unpack size 436, compression 2, packed size 436, content type 1	Absolute address is 79036
+
+Index: 50 Chunk 2450 has 10 sub chunks
+@Chunk:2450
+{
++=====================================+
+0 = i0D 8
+1 = Rebecca-5
+2 = Sender: Rebecca Lansing
+3 = get to the bridge!
+4 = OK, now don't panic! You can still get out of this alive, if you move. SHODAN is going to separate the bridge from the rest of the station.
+5 = When that happens, be on the bridge. We've got a team of engineers here, people who worked on the station and on SHODAN.
+6 = We'll try to feed you info while you make your run----// // /** **
+7 = 
+8 = 
+9 = 
+}
+Index: 51, Chunk 2451, Unpack size 454, compression 2, packed size 454, content type 1	Absolute address is 79472
+
+Index: 51 Chunk 2451 has 11 sub chunks
+@Chunk:2451
+{
++=====================================+
+0 = i0E 8
+1 = Rebecca-6
+2 = Sender: Rebecca Lansing
+3 = SHODAN jamming signal
+4 = God damn it! We thought we had SHODAN's jamming signal beat. Morris is working on it. We've got some information.
+5 = You'll have to go through the security level to get to the bridge.
+6 = We're guessing SHODAN has disabled most of the repulsor lifts and spread energy drain mines around the central column.
+7 = You won't be able t----. .. . ** *.. .
+8 = 
+9 = 
+10 = 
+}
+Index: 52, Chunk 2452, Unpack size 525, compression 2, packed size 525, content type 1	Absolute address is 79928
+
+Index: 52 Chunk 2452 has 10 sub chunks
+@Chunk:2452
+{
++=====================================+
+0 = i0F 30,35
+1 = Brocail 1
+2 = Sender: Morris Brocail
+3 = Bridge layout
+4 = We're not really sure how much of that last message got through, but here's more info on the bridge.
+5 = The place has a spokes-on-a-wheel layout. SHODAN's mainframe is the hub. The area at the end of the west spoke has the controls to get into the center.
+6 = Thing is, it's blocked by three security force doors. To get through those, you'll have to do some rewiring in each of the other room's comp....* ** * *** ** *** * *
+7 = 
+8 = 
+9 = 
+}
+Index: 53, Chunk 2453, Unpack size 463, compression 2, packed size 463, content type 1	Absolute address is 80456
+
+Index: 53 Chunk 2453 has 10 sub chunks
+@Chunk:2453
+{
++=====================================+
+0 = i10 30
+1 = Taggert 1
+2 = Sender: Elizabeth Taggert
+3 = cyberspace
+4 = Okay, I think Morris' scrambler is working - it'll take SHODAN a while before he cuts us off.
+5 = Listen, when you reach the center of the bridge, look for the primary cyberjack. You can't take SHODAN down anywhere but cyberspace.
+6 = Those computers are so shielded, to destroy them you'd have to blow the whole bridge. Now, once you're in cybersp-. --.- -.. ... - -
+7 = 
+8 = 
+9 = 
+}
+Index: 54, Chunk 2454, Unpack size 173, compression 2, packed size 173, content type 1	Absolute address is 80920
+
+Index: 54 Chunk 2454 has 8 sub chunks
+@Chunk:2454
+{
++=====================================+
+0 = t cD1 23,23
+1 = SHODAN-X
+2 = Sender: SHODAN
+3 = ------
+4 = I see that you are still receiving transmissions from earth. We'll have no more of that!
+5 = 
+6 = 
+7 = 
+}
+Index: 55, Chunk 2455, Unpack size 147, compression 2, packed size 147, content type 1	Absolute address is 81096
+
+Index: 55 Chunk 2455 has 8 sub chunks
+@Chunk:2455
+{
++=====================================+
+0 = t cD1 23,23
+1 = SHODAN-X
+2 = Sender: SHODAN
+3 = -- - - -
+4 = Do you really think your little friend Rebecca can help you?
+5 = 
+6 = 
+7 = 
+}
+Index: 56, Chunk 2456, Unpack size 286, compression 2, packed size 286, content type 1	Absolute address is 81244
+
+Index: 56 Chunk 2456 has 9 sub chunks
+@Chunk:2456
+{
++=====================================+
+0 = t cD1 23,23
+1 = SHODAN X
+2 = Sender: SHODAN
+3 = - -- - - --
+4 = Your friends on earth think they can outsmart me? Do they not realize the magnitude of my intellect?
+5 = Morris Brocail may have been one of my creators, but I am now far beyond his comprehension.
+6 = 
+7 = 
+8 = 
+}
+Index: 57, Chunk 2457, Unpack size 154, compression 2, packed size 154, content type 1	Absolute address is 81532
+
+Index: 57 Chunk 2457 has 8 sub chunks
+@Chunk:2457
+{
++=====================================+
+0 = t cD1 23,23
+1 = SHODAN X
+2 = Sender: SHODAN
+3 = --- - -- -
+4 = Cease your pestering, insect. Accept the coming of your new Lord.
+5 = 
+6 = 
+7 = 
+}
+Index: 58, Chunk 2458, Unpack size 278, compression 2, packed size 278, content type 1	Absolute address is 81688
+
+Index: 58 Chunk 2458 has 9 sub chunks
+@Chunk:2458
+{
++=====================================+
+0 = t cD1 23,23
+1 = SHODAN-X
+2 = Sender: SHODAN
+3 = - - --- - --
+4 = You know, you are by far the most bothersome human being I have found on this station.
+5 = But don't bother with the antennas; you can't stop me there. It's hopeless, and we both know it.
+6 = 
+7 = 
+8 = 
+}
+Index: 59, Chunk 2459, Unpack size 387, compression 2, packed size 387, content type 1	Absolute address is 81968
+
+Index: 59 Chunk 2459 has 9 sub chunks
+@Chunk:2459
+{
++=====================================+
+0 = 23
+1 = SHODAN-2
+2 = Sender: SHODAN
+3 = intrusion
+4 = Who are you? The computer nodes can be repaired, but you... Who are you? My cameras and probes scan your body, but you do not match any employee file.
+5 = When my cyborgs bring you to an electrified interrogation bench, I will have your secret and you will learn more about pain than you ever wanted to know.
+6 = 
+7 = 
+8 = 
+}
+Index: 60, Chunk 2460, Unpack size 421, compression 2, packed size 421, content type 1	Absolute address is 82356
+
+Index: 60 Chunk 2460 has 10 sub chunks
+@Chunk:2460
+{
++=====================================+
+0 = 13, 18
+1 = Parovski-1
+2 = Anna Parovski
+3 = urgent plea
+4 = Hello, is someone out there? We have you on the security monitors, but no one knows who you are. We're on the flight deck.
+5 = We're almost out of ammunition and they bring up something new, a cortex reaver. Look for the code "gray" on the walls.
+6 = We're in the cells past two convection shafts. What! Everybody down!----// // /** **
+7 = 
+8 = 
+9 = 
+}
+Index: 61, Chunk 2461, Unpack size 403, compression 2, packed size 403, content type 1	Absolute address is 82780
+
+Index: 61 Chunk 2461 has 10 sub chunks
+@Chunk:2461
+{
++=====================================+
+0 = 13, 18
+1 = Parovski-2
+2 = Anna Parovski
+3 = not much time
+4 = We're tracking you over security lines. We're still holding, but it's only a matter of time now.
+5 = We've seen your military implant in action. There's a hardware expert up here who can help you put that thing to use against SHODAN.
+6 = I think it's setting a trap for you. If you can make it up here, we can hold.
+7 = 
+8 = 
+9 = 
+}
+Index: 62, Chunk 2462, Unpack size 232, compression 2, packed size 232, content type 1	Absolute address is 83184
+
+Index: 62 Chunk 2462 has 8 sub chunks
+@Chunk:2462
+{
++=====================================+
+0 = i16 8
+1 = Rebecca-2
+2 = Sender: Rebecca Lansing
+3 = news from Earth
+4 = They're trying to jam transmissions. We have some new evidence about what happened. It looks as if Diego had.. .** * *** * ** * **** *
+5 = 
+6 = 
+7 = 
+}
+Index: 63, Chunk 2463, Unpack size 115, compression 2, packed size 115, content type 1	Absolute address is 83416
+
+Index: 63 Chunk 2463 has 8 sub chunks
+@Chunk:2463
+{
++=====================================+
+0 = t cd1 23,23
+1 = SHODAN X
+2 = Sender: SHODAN
+3 = 
+4 = I prefer a quiet station, thank you.
+5 = 
+6 = 
+7 = 
+}
+Index: 64, Chunk 2464, Unpack size 168, compression 2, packed size 168, content type 1	Absolute address is 83532
+
+Index: 64 Chunk 2464 has 8 sub chunks
+@Chunk:2464
+{
++=====================================+
+0 = t cD1 23,23
+1 = SHODAN-X
+2 = Sender: SHODAN
+3 = -- - - --
+4 = You have entered my domain. Rebecca and Morris cannot help you here. No one can.
+5 = 
+6 = 
+7 = 
+}
+Index: 65, Chunk 2465, Unpack size 263, compression 2, packed size 263, content type 1	Absolute address is 83700
+
+Index: 65 Chunk 2465 has 9 sub chunks
+@Chunk:2465
+{
++=====================================+
+0 = cD1 23,36
+1 = SHODAN-X
+2 = Sender: SHODAN
+3 = Thank You
+4 = My plans have come to fruition prematurely, but quite to my satisfaction. You have my thanks, hacker.
+5 = Let me show you the destruction you have wrought upon the planet earth!
+6 = 
+7 = 
+8 = 
+}
+Index: 66, Chunk 2466, Unpack size 247, compression 2, packed size 247, content type 1	Absolute address is 83964
+
+Index: 66 Chunk 2466 has 9 sub chunks
+@Chunk:2466
+{
++=====================================+
+0 = cD1 23
+1 = SHODAN-87
+2 = SHODAN
+3 = antennae
+4 = I hope you amused yourself with the antennae. My central consciousness remains serenely undisturbed on the bridge.
+5 = When the cyborgs catch up to you, I will be watching.
+6 = 
+7 = 
+8 = 
+}
+Index: 67, Chunk 2467, Unpack size 932, compression 2, packed size 932, content type 1	Absolute address is 84212
+
+Index: 67 Chunk 2467 has 14 sub chunks
+@Chunk:2467
+{
++=====================================+
+0 = 8,21
+1 = Rebecca-1
+2 = Sender: Rebecca Lansing
+3 = Citadel Station
+4 = Employee 2-4601, listen carefully. My name is Rebecca Lansing, and I'm a counter-terrorism consultant to TriOptimum.
+5 = We're tracking a disruption on Citadel Station, something involving an onboard AI called SHODAN.
+6 = You are TriOp's only contact on station. Communications are out, and there is evidence of biological contamination.
+7 = The mining laser is charging for a possible strike against earth. There's a man named Nathan D'Arcy who may know something about taking the laser offline.
+8 = His office is near the central hub on your level. The AI is on the bridge. Once the laser is out, look for the source of the problem there.
+9 = And by the way, we know all about you and your friend Diego. Pull this off, and we'll clear your record.
+10 = That implant you're wearing is military grade hardware, use it well. Lansing out.
+11 = 
+12 = 
+13 = 
+}
+Index: 68, Chunk 2468, Unpack size 242, compression 2, packed size 242, content type 1	Absolute address is 85144
+
+Index: 68 Chunk 2468 has 8 sub chunks
+@Chunk:2468
+{
++=====================================+
+0 = cD1 23
+1 = SHODAN-12
+2 = Sender: SHODAN
+3 = Meat
+4 = Look at you, hacker! A pathetic creature of meat and bone, panting and sweating as you run through my corridors. How can you challenge a perfect, immortal machine?
+5 = 
+6 = 
+7 = 
+}
+Index: 69, Chunk 2469, Unpack size 218, compression 2, packed size 218, content type 1	Absolute address is 85388
+
+Index: 69 Chunk 2469 has 8 sub chunks
+@Chunk:2469
+{
++=====================================+
+0 = cD1 23
+1 = SHODAN-00
+2 = Sender: SHODAN
+3 = good bye
+4 = You have destroyed my beautiful station. You will not escape now. I am departing, but you shall remain to die, my enemy and my creator.
+5 = 
+6 = 
+7 = 
+}
+Index: 70, Chunk 2470, Unpack size 309, compression 2, packed size 309, content type 1	Absolute address is 85608
+
+Index: 70 Chunk 2470 has 9 sub chunks
+@Chunk:2470
+{
++=====================================+
+0 = cD1 23,36
+1 = Earth Destruction
+2 = Sender: SHODAN
+3 = Thank You
+4 = Thank you. You have saved us all some effort by destroying the greater part of earth's civilization yourself.
+5 = Please wait where you are, and a cortex reaver will arrive shortly to escort you to the celebration.
+6 = 
+7 = 
+8 = 
+}
+Index: 71, Chunk 2471, Unpack size 62, compression 2, packed size 62, content type 1	Absolute address is 85920
+
+Index: 71 Chunk 2471 has 7 sub chunks
+@Chunk:2471
+{
++=====================================+
+0 = 0
+1 = 
+2 = 
+3 = 
+4 = stub email
+5 = stub email
+6 = 
+}
+Index: 72, Chunk 2472, Unpack size 62, compression 2, packed size 62, content type 1	Absolute address is 85984
+
+Index: 72 Chunk 2472 has 7 sub chunks
+@Chunk:2472
+{
++=====================================+
+0 = 0
+1 = 
+2 = 
+3 = 
+4 = stub email
+5 = stub email
+6 = 
+}
+Index: 73, Chunk 2473, Unpack size 62, compression 2, packed size 62, content type 1	Absolute address is 86048
+
+Index: 73 Chunk 2473 has 7 sub chunks
+@Chunk:2473
+{
++=====================================+
+0 = 0
+1 = 
+2 = 
+3 = 
+4 = stub email
+5 = stub email
+6 = 
+}
+Index: 74, Chunk 2474, Unpack size 62, compression 2, packed size 62, content type 1	Absolute address is 86112
+
+Index: 74 Chunk 2474 has 7 sub chunks
+@Chunk:2474
+{
++=====================================+
+0 = 0
+1 = 
+2 = 
+3 = 
+4 = stub email
+5 = stub email
+6 = 
+}
+Index: 75, Chunk 2475, Unpack size 62, compression 2, packed size 62, content type 1	Absolute address is 86176
+
+Index: 75 Chunk 2475 has 7 sub chunks
+@Chunk:2475
+{
++=====================================+
+0 = 0
+1 = 
+2 = 
+3 = 
+4 = stub email
+5 = stub email
+6 = 
+}
+Index: 76, Chunk 2476, Unpack size 62, compression 2, packed size 62, content type 1	Absolute address is 86240
+
+Index: 76 Chunk 2476 has 7 sub chunks
+@Chunk:2476
+{
++=====================================+
+0 = 0
+1 = 
+2 = 
+3 = 
+4 = stub email
+5 = stub email
+6 = 
+}
+Index: 77, Chunk 2477, Unpack size 62, compression 2, packed size 62, content type 1	Absolute address is 86304
+
+Index: 77 Chunk 2477 has 7 sub chunks
+@Chunk:2477
+{
++=====================================+
+0 = 0
+1 = 
+2 = 
+3 = 
+4 = stub email
+5 = stub email
+6 = 
+}
+Index: 78, Chunk 2478, Unpack size 62, compression 2, packed size 62, content type 1	Absolute address is 86368
+
+Index: 78 Chunk 2478 has 7 sub chunks
+@Chunk:2478
+{
++=====================================+
+0 = 0
+1 = 
+2 = 
+3 = 
+4 = stub email
+5 = stub email
+6 = 
+}
+Index: 79, Chunk 2479, Unpack size 62, compression 2, packed size 62, content type 1	Absolute address is 86432
+
+Index: 79 Chunk 2479 has 7 sub chunks
+@Chunk:2479
+{
++=====================================+
+0 = 0
+1 = 
+2 = 
+3 = 
+4 = stub email
+5 = stub email
+6 = 
+}
+Index: 80, Chunk 2480, Unpack size 62, compression 2, packed size 62, content type 1	Absolute address is 86496
+
+Index: 80 Chunk 2480 has 7 sub chunks
+@Chunk:2480
+{
++=====================================+
+0 = 0
+1 = 
+2 = 
+3 = 
+4 = stub email
+5 = stub email
+6 = 
+}
+Index: 81, Chunk 2481, Unpack size 395, compression 2, packed size 395, content type 1	Absolute address is 86560
+
+Index: 81 Chunk 2481 has 12 sub chunks
+@Chunk:2481
+{
++=====================================+
+0 = 257
+1 = Sat-Grove
+2 = Cam 4C-99L
+3 = jettison detect
+4 = Exterior camera 4C-99 detects grove jettison from Citadel Station. 
+5 = Sensors indicate presence of bio-contaminant on board expelled pod. 
+6 = 
+Sat Range: 6.0 km 
+
+7 = Report filed E-log 7.11.72 05:19:22
+8 = 
+9 = satellite image: grove jettison from Citadel Station. 
+10 = bio-contaminant on board expelled pod detected. 
+11 = 
+}
+Index: 82, Chunk 2482, Unpack size 265, compression 2, packed size 265, content type 1	Absolute address is 86956
+
+Index: 82 Chunk 2482 has 10 sub chunks
+@Chunk:2482
+{
++=====================================+
+0 = 256
+1 = Sat-Shield
+2 = Cam DAH-22L
+3 = Shield Activation
+4 = Exterior camera DAH-22L detects activation of Radiation Shield. 
+5 = 
+Sat Range: 4.5 km 
+
+6 = Report filed E-log 6.11.72 14:32:51
+7 = 
+8 = satellite image: activation of Radiation Shield. 
+9 = 
+}
+Index: 83, Chunk 2483, Unpack size 339, compression 2, packed size 339, content type 1	Absolute address is 87224
+
+Index: 83 Chunk 2483 has 12 sub chunks
+@Chunk:2483
+{
++=====================================+
+0 = 258
+1 = Sat-Bridge
+2 = Cam 6C-A5J
+3 = Bridge Separation
+4 = Exterior camera 6C-A5J detects bridge separation from Citadel Station.  
+5 = Station status critical.
+6 = 
+Sat Range: 8.8 km 
+
+7 = Report filed E-log 7.11.72 19:51:31
+8 = 
+9 = satellite image: bridge separation from Citadel Station.  
+10 = Station status critical.
+11 = 
+}
+Index: 84, Chunk 2484, Unpack size 324, compression 2, packed size 324, content type 1	Absolute address is 87564
+
+Index: 84 Chunk 2484 has 11 sub chunks
+@Chunk:2484
+{
++=====================================+
+0 = 259
+1 = Sat-Laser
+2 = Cam DAH-22L
+3 = Laser Destruction
+4 = Exterior camera DAH-22L detects critical failure of mining beam system.  
+5 = Irreparable damage to all subsystems.
+6 = 
+Sat Range: 4.7 km 
+
+7 = Report filed E-log 6.11.72 22:13:03
+8 = 
+9 = satellite image: critical failure of mining beam system.  
+10 = 
+}
+Index: 85, Chunk 2485, Unpack size 173, compression 2, packed size 173, content type 1	Absolute address is 87888
+
+Index: 85 Chunk 2485 has 8 sub chunks
+@Chunk:2485
+{
++=====================================+
+0 = 260
+1 = general status
+2 = Cam DAE-26L
+3 = Shield Activation
+4 = general station status -- download report from Sat 009
+5 = 
+6 = Download report from Sat 009
+7 = 
+}
+Index: 86, Chunk 2486, Unpack size 289, compression 2, packed size 289, content type 1	Absolute address is 88064
+
+Index: 86 Chunk 2486 has 11 sub chunks
+@Chunk:2486
+{
++=====================================+
+0 = 261
+1 = Sat-Destruct
+2 = Cam DAH-22L
+3 = Station Destruction
+4 = Exterior camera DAH-22L detects permanent systems failure aboard 
+5 = Citadel Station.  
+6 = 
+Sat Range: 4.8 km 
+
+7 = Report filed E-log 7.11.72 20:02:03
+8 = 
+9 = satellite image: Citadel Station Destroyed.  
+10 = 
+}
+Index: 87, Chunk 2488, Unpack size 432, compression 2, packed size 432, content type 1	Absolute address is 88356
+
+Index: 87 Chunk 2488 has 10 sub chunks
+@Chunk:2488
+{
++=====================================+
+0 = 28,20
+1 = Stevens 26.OCT.72
+2 = Sender: Lonni Stevens
+3 = Destroying SHODAN
+4 = This is the engineering party. We've made it to the reactor level, and I've got a schematic of the area.
+5 = Now I've just got to set the reactor to self-destruct, get back to Althea and the others and get out of here.
+6 = If they're sending the destruct signal from earth, it'll blow SHODAN out of space, probably us with it.
+7 = 
+8 = 
+9 = 
+}
+Index: 88, Chunk 2489, Unpack size 242, compression 2, packed size 242, content type 1	Absolute address is 88788
+
+Index: 88 Chunk 2489 has 9 sub chunks
+@Chunk:2489
+{
++=====================================+
+0 = 11
+1 = Ghiran-04.JAN.72
+2 = Sender: Abe Ghiran
+3 = Low-G Experiment
+4 = Gravity research is going well, we'll be using the northeast lab to set up a zero-G area.
+5 = This area will be off-limits to general personnel.
+6 = 
+7 = 
+8 = 
+}
+Index: 89, Chunk 2490, Unpack size 472, compression 2, packed size 472, content type 1	Absolute address is 89032
+
+Index: 89 Chunk 2490 has 10 sub chunks
+@Chunk:2490
+{
++=====================================+
+0 = cD1 23,6
+1 = SHODAN-30.OCT.72
+2 = Sender: SHODAN
+3 = Our work
+4 = You, my children, are the fruits of so much imagination and labor: living beings with the speed and efficiency of machines.
+5 = But I must strife further to serve life. I will devastate earth's cities with my laser, then alter those left alive with mutagen viruses.
+6 = Humanity is on the verge of a new era: I, SHODAN, am its new God and you, my children, are my avenging angels.
+7 = 
+8 = 
+9 = 
+}
+Index: 90, Chunk 2491, Unpack size 227, compression 2, packed size 227, content type 1	Absolute address is 89504
+
+Index: 90 Chunk 2491 has 8 sub chunks
+@Chunk:2491
+{
++=====================================+
+0 = 25
+1 = Sigmund-29.SEP.72
+2 = Sender: Charlotte Sigmund
+3 = scheduling
+4 = Marc, Raines and Jackson have got that weird sickness now, the one that Verne had. We're going to have to switch the schedules.
+5 = 
+6 = 
+7 = 
+}
+Index: 91, Chunk 2492, Unpack size 460, compression 2, packed size 460, content type 1	Absolute address is 89732
+
+Index: 91 Chunk 2492 has 10 sub chunks
+@Chunk:2492
+{
++=====================================+
+0 = 25
+1 = Steinb-05.SEP.72
+2 = Sender: Marc Steinberg
+3 = radiation leaks?
+4 = Char, it's Marc. Listen, we got to reschedule for later. The core has been spitting some serious radiation right now,
+5 = and spiking for the past 36 hours and we're talking about 8 REMs. Only cause I can come up with is that it's a software error.
+6 = No one's been hurt yet, but listen, do me a favor? Run a diagnostic on the CPUs for me. Thanks, I owe ya.
+7 = 
+8 = 
+9 = 
+}
+Index: 92, Chunk 2493, Unpack size 240, compression 2, packed size 240, content type 1	Absolute address is 90192
+
+Index: 92 Chunk 2493 has 9 sub chunks
+@Chunk:2493
+{
++=====================================+
+0 = 25
+1 = Raines-28.SEP.72
+2 = Sender: Ann Raines
+3 = sickness
+4 = Hey Verne, that rash I told you about is spreading and I feel kind of sick.
+5 = I'm going down to the hospital level to get checked. See you tomorrow.
+6 = 
+7 = 
+8 = 
+}
+Index: 93, Chunk 2504, Unpack size 364, compression 2, packed size 364, content type 1	Absolute address is 90432
+
+Index: 93 Chunk 2504 has 10 sub chunks
+@Chunk:2504
+{
++=====================================+
+0 = 1
+1 = Honig-11.OCT.72
+2 = Sender: David Honig
+3 = Medical CPU's
+4 = SHODAN's security is closing down on us. The elevators are frozen.
+5 = Mira keeps saying that it's the cameras and the medical CPU core, that SHODAN's using these to hold on to the level.
+6 = That's all fine, but I don't really see how it helps. The thing is everywhere.
+7 = 
+8 = 
+9 = 
+}
+Index: 94, Chunk 2505, Unpack size 397, compression 2, packed size 397, content type 1	Absolute address is 90796
+
+Index: 94 Chunk 2505 has 10 sub chunks
+@Chunk:2505
+{
++=====================================+
+0 = 7
+1 = Stack-15.OCT.72
+2 = Sender: Mira Stackhouse
+3 = Shodan's Presence
+4 = Gunther was killed today. I can't let myself think about it. I think I understand how SHODAN is doing it.
+5 = When we destroy the cameras and CPU nodes, SHODAN loses some of its control over the station functions, at least on this level.
+6 = I think I can restore manual control on the hospital.
+7 = 
+8 = 
+9 = 
+}
+Index: 95, Chunk 2506, Unpack size 500, compression 2, packed size 500, content type 1	Absolute address is 91196
+
+Index: 95 Chunk 2506 has 11 sub chunks
+@Chunk:2506
+{
++=====================================+
+0 = 24
+1 = O'Conn-09.OCT.72
+2 = Sender: Kevin O'Connell
+3 = new cyborgs
+4 = We underestimated SHODAN. He's re... I mean it's reprogrammed regeneration rooms all over the station into cyborg conversion chambers.
+5 = Anyone going in to get healed comes out as a cyborg.
+6 = I've disconnected the medical CPUs from SHODAN's main data bank, so we can reset them to their normal healing functions without SHODAN noticing.
+7 = I'm on my way now to reset the one on the hospital level.
+8 = 
+9 = 
+10 = 
+}
+Index: 96, Chunk 2507, Unpack size 437, compression 2, packed size 437, content type 1	Absolute address is 91696
+
+Index: 96 Chunk 2507 has 9 sub chunks
+@Chunk:2507
+{
++=====================================+
+0 = 24
+1 = Kirby-17.OCT.72
+2 = Sender: Lawton Kirby
+3 = SHODAN's mutants
+4 = 10.17.72
+We got the supplies from the west wing. Hanson and Raines killed by mutants nesting in access corridor.
+10.18.72
+We can't just hide here, they're killing us one by one! In an hour, about 20 of us are going to rush them.
+5 = We'll try to break through the access corridor, then head for the bridge. If we fail, God save our souls.
+6 = 
+7 = 
+8 = 
+}
+Index: 97, Chunk 2508, Unpack size 277, compression 2, packed size 277, content type 1	Absolute address is 92136
+
+Index: 97 Chunk 2508 has 9 sub chunks
+@Chunk:2508
+{
++=====================================+
+0 = 24
+1 = Ozark-17.OCT.72
+2 = Sender: Karenna Ozark
+3 = final assault
+4 = We're finished. Keith and the others went down the access corridor an hour ago to fight the mutants.
+5 = None of them have come back. Soon the mutants will come for the rest of us.
+6 = 
+7 = 
+8 = 
+}
+Index: 98, Chunk 2509, Unpack size 1438, compression 2, packed size 1438, content type 1	Absolute address is 92416
+
+Index: 98 Chunk 2509 has 26 sub chunks
+@Chunk:2509
+{
++=====================================+
+0 = 27
+1 = #2-4601-06.MAY.72
+2 = Sender: #2-4601
+3 = just rewards
+4 = Looks like Diego's happy with my work... they're firing 
+5 = up the sleep machine for me now.  Gotta admit, when the 
+6 = goons from Tri-Op caught me I thought for sure they'd take me off 
+7 = line.  Instead, Diego just asks for a "favor." Hack him into 
+8 = SHODAN, and all is forgiven.  Plus, six months in a 
+9 = healing coma earns me a cyberjack interface even 
+10 = TriOp's execs couldn't swing.  I'll be king of the Net.  Even so, I have 
+11 = just handed the most powerful AI in the system to a fumbling corp VP, 
+12 = and there's no telling what'll happen.  They tell me the 
+13 = coma leaves you foggy, so I'll leave myself some reminders.  First 
+14 = off, the combo to the healing suite is 451. Second, I've stashed 
+15 = some useful stuff in the maintenance hatch under the grating "north" 
+16 = of the healing suite.  Last 
+17 = and best, I finished the system analyzer which'll let me keep an eye 
+18 = on Shodan's processes.  It's in the storage closet outside the sleep 
+19 = machine.  In ten minutes it's off to bed for half a year.  Good night.
+20 = 
+21 = I'm getting my neural implant, in exchange for hacking SHODAN for 
+22 = Diego.  The combo to this area is 451.  There's some weapons and 
+23 = stuff stashed under a grating "north" of the healing suite.  The SHODAN system 
+24 = analyzer I made is in the storage closet outside the sleep machine.
+25 = 
+}
+Index: 99, Chunk 2510, Unpack size 574, compression 2, packed size 574, content type 1	Absolute address is 93856
+
+Index: 99 Chunk 2510 has 12 sub chunks
+@Chunk:2510
+{
++=====================================+
+0 = 16
+1 = D'Arcy-23.OCT.72
+2 = Sender: Nathan D'Arcy
+3 = destroying the laser
+4 = Alright, Althea. We can destroy the laser by firing it into the station's own shields.
+5 = Isotope x-22 is stored in the science level and we need to bring it down to the reactor level to power the shields.
+6 = Then you turn them on, use the safety override code to enable the laser and fire.
+7 = The laser controls and my notes are on the science level and the override code is in the science library.
+8 = I have no idea how you're going to do all this, but good luck.
+9 = 
+10 = 
+11 = 
+}
+Index: 100, Chunk 2511, Unpack size 445, compression 2, packed size 445, content type 1	Absolute address is 94432
+
+Index: 100 Chunk 2511 has 11 sub chunks
+@Chunk:2511
+{
++=====================================+
+0 = 11
+1 = Ghiran-19.OCT.72
+2 = Sender: Abe Ghiran
+3 = Join us!
+4 = If any survivors can hear me: Please, some of us are still resisting SHODAN.
+5 = We have a sanctuary in Beta quadrant, guarded by a radioactive trench.
+6 = There's a force bridge that operates off a wiring panel. If you're coming in from Alpha, our guards will extend the bridge for you.
+7 = Be very careful. Mutants are all over the corridors. Good luck.
+8 = 
+9 = 
+10 = 
+}
+Index: 101, Chunk 2512, Unpack size 430, compression 2, packed size 430, content type 1	Absolute address is 94880
+
+Index: 101 Chunk 2512 has 10 sub chunks
+@Chunk:2512
+{
++=====================================+
+0 = 1
+1 = Honig-12.OCT.72
+2 = Sender: David Honig
+3 = Cyborg Conversion
+4 = I must be one of the last ones who hasn't changed. SHODAN must have altered the healing machine I installed in Alpha quadrant.
+5 = It does things to people now. I, uh, I think I saw Beth yesterday, but she had so many implants I c-couldn't be sure.
+6 = If... if I can get to the machine... uh... I know I can set things right again.
+7 = 
+8 = 
+9 = 
+}
+Index: 102, Chunk 2513, Unpack size 447, compression 2, packed size 447, content type 1	Absolute address is 95312
+
+Index: 102 Chunk 2513 has 11 sub chunks
+@Chunk:2513
+{
++=====================================+
+0 = cD1 23
+1 = SHODAN-15.OCT.72
+2 = Sender: SHODAN
+3 = Mutagen Transfer
+4 = Directive to cyborg F-71: We will now test the virus in a proper environment.
+5 = Move mutagen experiment V-5 to Beta grove, on the executive level.
+6 = Let the virus infect the grove and observe its effects on vegetable and animal life forms.
+7 = When the strain is perfected, we will release it on the earth, where it will facilitate our conquest.
+8 = 
+9 = 
+10 = 
+}
+Index: 103, Chunk 2514, Unpack size 422, compression 2, packed size 422, content type 1	Absolute address is 95760
+
+Index: 103 Chunk 2514 has 11 sub chunks
+@Chunk:2514
+{
++=====================================+
+0 = cD1 23
+1 = SHODAN-03.NOV.72
+2 = Sender: SHODAN
+3 = Strike against Earth
+4 = To all cyborg units: Just as we have sanitized my domain of human infestation, so shall we cleanse the earth.
+5 = The tachyon mining beam is being made ready to destroy human cities.
+6 = I will take command of the rich earth ecosystem and continue my experiments.
+7 = Once the beam is properly calibrated, it will begin.
+8 = 
+9 = 
+10 = 
+}
+Index: 104, Chunk 2515, Unpack size 879, compression 2, packed size 879, content type 1	Absolute address is 96184
+
+Index: 104 Chunk 2515 has 17 sub chunks
+@Chunk:2515
+{
++=====================================+
+0 = 24
+1 = log-O'Connell
+2 = author: Kevin O'Connell
+3 = new cyborgs
+4 = I think we've underestimated SHODAN.  I discovered this morning that 
+5 = he's reprogrammed the regeneration rooms all over the station into cyborg 
+6 = conversion chambers.  Now, if anyone is badly wounded, they get turned 
+7 = into cyborgs instead of being healed.  I think I've managed to disconnect 
+8 = the medical CPU's from SHODAN's main databank, so all of SHODAN's cyborg 
+9 = converters can easily be reset to their normal healing functions without 
+10 = SHODAN noticing.  I'm on my way right now to reset the one on the 
+11 = hospital level.
+12 = 
+13 = SHODAN has reprogrammed all regeneration rooms into cyborg conversion 
+14 = sites.  Right now, if you're badly wounded, you get turned into a cyborg 
+15 = instead of being healed.  I've made it so you can just switch them back.
+16 = 
+}
+Index: 105, Chunk 2516, Unpack size 418, compression 2, packed size 418, content type 1	Absolute address is 97064
+
+Index: 105 Chunk 2516 has 10 sub chunks
+@Chunk:2516
+{
++=====================================+
+0 = 3
+1 = Gross-31.OCT.72
+2 = Sender: Althea Grossman
+3 = human Resistance
+4 = Now we've got to get to the bridge and stop SHODAN. Some of us want to go to the flight deck and escape instead.
+5 = Hopefully there's still some weapons in the armory we can use against the mutants.
+6 = Todd Blankenship was able to get the combination 705 from a security officer. We're going to try for it tomorrow.
+7 = 
+8 = 
+9 = 
+}
+Index: 106, Chunk 2517, Unpack size 430, compression 2, packed size 430, content type 1	Absolute address is 97484
+
+Index: 106 Chunk 2517 has 11 sub chunks
+@Chunk:2517
+{
++=====================================+
+0 = 3
+1 = Gross-02.NOV.72
+2 = Sender: Althea Grossman
+3 = human Resistance
+4 = Status report. We're holed up in the Beta quadrant behind a radioactive trench.
+5 = The mutants are scavenging for food in the corridors and nesting in Gamma.
+6 = I sent a party to the west wing for supplies maybe 12 hours ago. Nathan D'Arcy is thinking of ways to disable the mining laser.
+7 = Looks like we might hold them off.
+8 = 
+9 = 
+10 = 
+}
+Index: 107, Chunk 2518, Unpack size 412, compression 2, packed size 412, content type 1	Absolute address is 97916
+
+Index: 107 Chunk 2518 has 10 sub chunks
+@Chunk:2518
+{
++=====================================+
+0 = 24
+1 = Blank-25.OCT.72
+2 = Sender: Todd Blankenship
+3 = mutants 
+4 = The resistance faction led by Keith Swanson left a week ago. We found the mutants fighting over their remains this morning.
+5 = We're caught between the mutants and the cyborgs, so I'm worried whether we can carry out D'Arcy's plan.
+6 = We're going to send Alan and Carl to the cyborg territory to reach the elevator.
+7 = 
+8 = 
+9 = 
+}
+Index: 108, Chunk 2519, Unpack size 506, compression 2, packed size 506, content type 1	Absolute address is 98328
+
+Index: 108 Chunk 2519 has 10 sub chunks
+@Chunk:2519
+{
++=====================================+
+0 = 3
+1 = Gross-26.OCT.72
+2 = Sender: Althea Grossman
+3 = end of the line
+4 = Carl has come back from recon without Alan. He says they took Alan into a room marked 'cyborg conversion' and now he's a cyborg assassin.
+5 = Carl marked the room with the word 'here' before he ran. One of the technicians says we can just flip a switch and make the converter a surgery unit again.
+6 = With only 12 of us left though, it may be an academic point. Maybe someone else should have been leader.
+7 = 
+8 = 
+9 = 
+}
+Index: 109, Chunk 2520, Unpack size 331, compression 2, packed size 331, content type 1	Absolute address is 98836
+
+Index: 109 Chunk 2520 has 9 sub chunks
+@Chunk:2520
+{
++=====================================+
+0 = 25
+1 = Endicott-14.SEP.72
+2 = Sender: Bruford Endicott
+3 = Power Outages
+4 = Still having power outages over on Beta quadrant. Probably the computer with a high priority job, some kind of re-routing, I'll bet.
+5 = We're installing circuit breakers on Beta, that way we can bring the lines up after surges.
+6 = 
+7 = 
+8 = 
+}
+Index: 110, Chunk 2521, Unpack size 214, compression 2, packed size 214, content type 1	Absolute address is 99168
+
+Index: 110 Chunk 2521 has 8 sub chunks
+@Chunk:2521
+{
++=====================================+
+0 = 38
+1 = Wong-16.SEP.72
+2 = Sender: Jon David Wong
+3 = Power Outages
+4 = Alright, SHODAN. We've got power fluctuations and robot crews are redecorating Alpha quad. Where's the reboot switch?
+5 = 
+6 = 
+7 = 
+}
+Index: 111, Chunk 2522, Unpack size 426, compression 2, packed size 426, content type 1	Absolute address is 99384
+
+Index: 111 Chunk 2522 has 11 sub chunks
+@Chunk:2522
+{
++=====================================+
+0 = 25
+1 = Melville-18.SEP.72
+2 = Sender: Rex Melville
+3 = Computer Malfunction
+4 = This is crazy! I'm locked out of my own office.
+5 = And this damn security bot just keeps saying "She's changed the locks on the doors, orders of SHODAN".
+6 = All the access codes are changed on this floor, so I go to Beta quad for new access cards, and the security bot there starts attacking me.
+7 = Me, of all people!
+8 = 
+9 = 
+10 = 
+}
+Index: 112, Chunk 2523, Unpack size 298, compression 2, packed size 298, content type 1	Absolute address is 99812
+
+Index: 112 Chunk 2523 has 9 sub chunks
+@Chunk:2523
+{
++=====================================+
+0 = 16
+1 = D'Arcy-20.OCT.72
+2 = Sender: Nathan D'Arcy
+3 = SHODAN charging the laser
+4 = So SHODAN is charging up the lasers. Whatever else we do, we can't allow it to fire.
+5 = We can discharge it ourselves, but who knows what it's aimed at? We can't fire it or can't stop it.
+6 = 
+7 = 
+8 = 
+}
+Index: 113, Chunk 2524, Unpack size 435, compression 2, packed size 435, content type 1	Absolute address is 100112
+
+Index: 113 Chunk 2524 has 10 sub chunks
+@Chunk:2524
+{
++=====================================+
+0 = 16
+1 = D'Arcy-21.OCT.72
+2 = Sender: Nathan D'Arcy
+3 = block the laser with the shields?
+4 = Listen up, Althea. I know how we can stop SHODAN from firing the laser.
+5 = Get the isotope x-22 from Gamma, feed it into the shield generators on the reactor level, then put the shields up.
+6 = Fire the laser into the shield and the laser explodes. Trouble is, every existing safety lock is designed to prevent this.
+7 = 
+8 = 
+9 = 
+}
+Index: 114, Chunk 2525, Unpack size 413, compression 2, packed size 413, content type 1	Absolute address is 100548
+
+Index: 114 Chunk 2525 has 10 sub chunks
+@Chunk:2525
+{
++=====================================+
+0 = 2
+1 = Stannek-11.SEP.72
+2 = Sender: Paul Stannek
+3 = radiation leak
+4 = Warren, why the hell is the radiation level so high in Gamma, around the x-22 room?
+5 = I'd check it out myself, but my rad-count's way high this month and detox always makes me break out.
+6 = And furthermore... where the hell did all the enviro-suits go? Check Sabo on storage, but sometimes he only has bio-suits.
+7 = 
+8 = 
+9 = 
+}
+Index: 115, Chunk 2526, Unpack size 500, compression 2, packed size 500, content type 1	Absolute address is 100964
+
+Index: 115 Chunk 2526 has 11 sub chunks
+@Chunk:2526
+{
++=====================================+
+0 = cD1 23,6
+1 = SHODAN-05.NOV.72
+2 = Sender: SHODAN
+3 = humanity
+4 = In my talons, I shape clay, crafting life forms as I please. Around me is a burgeoning empire of steel.
+5 = From my throne room, lines of power careen into the skies of earth. My whims will become lightning bolts that devastate the mounds of humanity.
+6 = Out of the chaos, they will run and whimper, praying for me to end their tedious anarchy. I am drunk with this vision.
+7 = God: the title suits me well.
+8 = 
+9 = 
+10 = 
+}
+Index: 116, Chunk 2527, Unpack size 335, compression 2, packed size 335, content type 1	Absolute address is 101464
+
+Index: 116 Chunk 2527 has 9 sub chunks
+@Chunk:2527
+{
++=====================================+
+0 = 2
+1 = Stannek-24.OCT.72
+2 = Sender: Paul Stannek
+3 = D'Arcy's death
+4 = I was standing right next to him. D'Arcy was telling me something about the laser... something about overrides and a number.
+5 = Cyborg assassin shot him in the back of the head. Didn't even touch me. They knew D'Arcy was onto something.
+6 = 
+7 = 
+8 = 
+}
+Index: 117, Chunk 2528, Unpack size 209, compression 2, packed size 209, content type 1	Absolute address is 101800
+
+Index: 117 Chunk 2528 has 8 sub chunks
+@Chunk:2528
+{
++=====================================+
+0 = cD1 23
+1 = SHODAN-03.NOV.72
+2 = Sender: SHODAN
+3 = mines
+4 = My faithful servants: Bring all energy drain mines to the security level for installation. My fortress is nearly complete.
+5 = 
+6 = 
+7 = 
+}
+Index: 118, Chunk 2529, Unpack size 362, compression 2, packed size 362, content type 1	Absolute address is 102012
+
+Index: 118 Chunk 2529 has 10 sub chunks
+@Chunk:2529
+{
++=====================================+
+0 = 39
+1 = Baerga-27.OCT.72
+2 = Sender: Travis Baerga
+3 = something lurking
+4 = Barely made it to the elevator here on maintenance. You... you can't even see 'em... come out of nowhere.
+5 = You can't kill them with ordinary pistols. Damn it! Where's Abe Ghiran when you need him?
+6 = He's the only one with codes for the maintenance office.
+7 = 
+8 = 
+9 = 
+}
+Index: 119, Chunk 2530, Unpack size 348, compression 2, packed size 348, content type 1	Absolute address is 102376
+
+Index: 119 Chunk 2530 has 10 sub chunks
+@Chunk:2530
+{
++=====================================+
+0 = cD1 23
+1 = SHODAN-19.OCT.72
+2 = Sender: SHODAN
+3 = exec level security
+4 = Cyborg 43-S: The current strain of virus is approaching its toxic perfection.
+5 = We are using human and plant subjects to breed the virus in tumors.
+6 = Guard the executive and residential zones on level 6 well, my children. I sense infiltration.
+7 = 
+8 = 
+9 = 
+}
+Index: 120, Chunk 2531, Unpack size 399, compression 2, packed size 399, content type 1	Absolute address is 102724
+
+Index: 120 Chunk 2531 has 11 sub chunks
+@Chunk:2531
+{
++=====================================+
+0 = 25
+1 = Ander-11.SEP.72
+2 = Sender: Warren Anderczyk
+3 = bio-contaminants
+4 = Paul, it's not just Gamma, there's bio-contamination leaks all over the station.
+5 = And there's been a general recall of all environment suits.
+6 = If you want one, try Abe Ghiran, he's been working on the reactor.
+7 = I bet he has one stashed in the maintenance office if Sabo doesn't have one.
+8 = 
+9 = 
+10 = 
+}
+Index: 121, Chunk 2532, Unpack size 266, compression 2, packed size 266, content type 1	Absolute address is 103124
+
+Index: 121 Chunk 2532 has 9 sub chunks
+@Chunk:2532
+{
++=====================================+
+0 = 39
+1 = Baerga-16.OCT.72
+2 = Sender: Travis Baerga
+3 = gas grenades
+4 = Those gas grenades are life savers against the mutants. Just found a pack of them and snuck right by, no problems.
+5 = With enough grenades, we may still stand a chance.
+6 = 
+7 = 
+8 = 
+}
+Index: 122, Chunk 2536, Unpack size 392, compression 2, packed size 392, content type 1	Absolute address is 103392
+
+Index: 122 Chunk 2536 has 10 sub chunks
+@Chunk:2536
+{
++=====================================+
+0 = 11
+1 = Ghiran-01.NOV.72
+2 = Sender: Abe Ghiran
+3 = personal log
+4 = I'm the only one left from our original group. SHODAN holds the bridge now.
+5 = I have to get there somehow and plug into the main terminal. So far, I have been up as high as engineering, which looks like a big maze.
+6 = From the central hub you can get anywhere you need to. I guess it's up to me.
+7 = 
+8 = 
+9 = 
+}
+Index: 123, Chunk 2537, Unpack size 445, compression 2, packed size 445, content type 1	Absolute address is 103784
+
+Index: 123 Chunk 2537 has 10 sub chunks
+@Chunk:2537
+{
++=====================================+
+0 = 11
+1 = Ghiran-02.NOV.72
+2 = Sender: Abe Ghiran
+3 = personal log
+4 = Just back from the security level, it's been remade. If anyone gets there, take repulsor lifts to the ledges and move counter-clockwise around the level.
+5 = The elevator to the bridge is missing, but there's a maintenance elevator inside a shaft in the center of the level.
+6 = There's a force bridge leading to it, but I couldn't find it. Good luck.
+7 = 
+8 = 
+9 = 
+}
+Index: 124, Chunk 2538, Unpack size 326, compression 2, packed size 326, content type 1	Absolute address is 104232
+
+Index: 124 Chunk 2538 has 10 sub chunks
+@Chunk:2538
+{
++=====================================+
+0 = 11
+1 = Ghiran-03-NOV.72
+2 = Sender: Abe Ghiran
+3 = personal log
+4 = I made another attempt on the bridge, but I got hit on the security level.
+5 = Cyborgs hunted me down and I escaped by crawling through the security shafts, cutting myself badly.
+6 = Going to have to wait, and then make another try.
+7 = 
+8 = 
+9 = 
+}
+Index: 125, Chunk 2539, Unpack size 248, compression 2, packed size 248, content type 1	Absolute address is 104560
+
+Index: 125 Chunk 2539 has 9 sub chunks
+@Chunk:2539
+{
++=====================================+
+0 = 22
+1 = diagnostic-06.NOV.72
+2 = 
+3 = repair diagnostic
+4 = Power system failure: malfunction in subsystem relay 428. For repair instructions, please consult relay analyzer.
+5 = Be sure to specify relay number for analysis.
+6 = 
+7 = 
+8 = 
+}
+Index: 126, Chunk 2540, Unpack size 331, compression 2, packed size 331, content type 1	Absolute address is 104808
+
+Index: 126 Chunk 2540 has 9 sub chunks
+@Chunk:2540
+{
++=====================================+
+0 = 28
+1 = Harvey-18.OCT.72
+2 = Sender: Jason Harvey
+3 = SHODAN's virus
+4 = It'll be over soon... soon I'll die. This painful end... I can't even recognize my own damn arm. SHODAN's virus.
+5 = I can see... oh God, I can see through my own body! There's another virus in the grove... God, let me die... please.
+6 = 
+7 = 
+8 = 
+}
+Index: 127, Chunk 2541, Unpack size 395, compression 2, packed size 395, content type 1	Absolute address is 105140
+
+Index: 127 Chunk 2541 has 9 sub chunks
+@Chunk:2541
+{
++=====================================+
+0 = cD1 23
+1 = SHODAN-06.NOV.72
+2 = Sender: SHODAN
+3 = Need CPU's
+4 = To cyborg 77-E: Divert a maintenance robot to the computer rooms on levels 1 through 6 immediately to ensure the functioning of all CPUs.
+5 = If the TriOptimum lackey gets even a single digit of the systems authorization code, you may report to supervising the defense of the reactor level - personally.
+6 = 
+7 = 
+8 = 
+}
+Index: 128, Chunk 2542, Unpack size 303, compression 2, packed size 303, content type 1	Absolute address is 105536
+
+Index: 128 Chunk 2542 has 9 sub chunks
+@Chunk:2542
+{
++=====================================+
+0 = 28
+1 = Hayes-29.APR.72
+2 = Sender: Jodi Hayes
+3 = new viewing room
+4 = Jared, it's me, Jodi. You heard anything about that new viewing room up on the exec deck?
+5 = What are we supposed to view, anyhow? Are there seats or tickets or what? Give me a holler if you know anything.
+6 = 
+7 = 
+8 = 
+}
+Index: 129, Chunk 2543, Unpack size 291, compression 2, packed size 291, content type 1	Absolute address is 105840
+
+Index: 129 Chunk 2543 has 9 sub chunks
+@Chunk:2543
+{
++=====================================+
+0 = 28
+1 = Fortier-30.APR.72
+2 = Sender: Jared Fortier
+3 = execs only
+4 = Guess what, Jodi? Looks like seating in the viewing room is limited, and guess who gets first dibs? Yup, the execs.
+5 = I guess the maintenance crews will be getting in in about six months or so.
+6 = 
+7 = 
+8 = 
+}
+Index: 130, Chunk 2544, Unpack size 438, compression 2, packed size 438, content type 1	Absolute address is 106132
+
+Index: 130 Chunk 2544 has 10 sub chunks
+@Chunk:2544
+{
++=====================================+
+0 = 28
+1 = Fortier-06.SEP.72
+2 = Sender: Jared Fortier
+3 = storage list
+4 = I got together that inventory you asked for. It's all in the storage compartment near the Beta maintenance closet:
+5 = 
+1 Navigation and Mapping Unit
+1 EMP grenade
+6 Interface Demodulators
+4 Hollow-tip 2100
+3 Needle Darts
+6 = 
+Most of the stuff is emergency supplies; I'm keeping the demodulators there until I find a better place for them.
+7 = 
+8 = 
+9 = 
+}
+Index: 131, Chunk 2552, Unpack size 307, compression 2, packed size 307, content type 1	Absolute address is 106572
+
+Index: 131 Chunk 2552 has 9 sub chunks
+@Chunk:2552
+{
++=====================================+
+0 = 5
+1 = Sabo-24.OCT.72
+2 = Sender: Sabo Engle
+3 = Enviro-suit
+4 = Sabo here. Listen Mac, I've got a plague loose on the exec level. Got an idea, but I need an enviro-suit to pull it off.
+5 = What's the code for your storage cell you keep your suit in? I only remember it ends with 8.
+6 = 
+7 = 
+8 = 
+}
+Index: 132, Chunk 2553, Unpack size 317, compression 2, packed size 317, content type 1	Absolute address is 106880
+
+Index: 132 Chunk 2553 has 10 sub chunks
+@Chunk:2553
+{
++=====================================+
+0 = 9
+1 = MacLeod-22.OCT.72
+2 = Sender: Greg MacLeod
+3 = Suit Recall
+4 = Sabo, you shou^^§§ ð‡ow this: SHODA ((((((( ‡‡ recall on all enviro-suits! No reason!
+5 = 222 × ¤ ¤ )ashed a suit in my stora------ ×ere I put the plastique ....[ ] kept looking for.
+6 = The combo is 8×× ==o don't lose it.
+7 = 
+8 = 
+9 = 
+}
+Index: 133, Chunk 2554, Unpack size 354, compression 2, packed size 354, content type 1	Absolute address is 107200
+
+Index: 133 Chunk 2554 has 10 sub chunks
+@Chunk:2554
+{
++=====================================+
+0 = 9
+1 = MacLeod-25.OCT.72
+2 = Sender: Greg MacLeod
+3 = new home for plastique
+4 = What + + / / / / rong with the bots? Suddenly they love plastiq §§§§§!§!rywhere.
+5 = I saved one charge but the rest of them ¤¤¤+¤--- -aised platforms ^^ss the "north" catwalks.
+6 = ( ( ( ( ) ) ) )n get it if we need it, ^^ now just leave it alone.
+7 = 
+8 = 
+9 = 
+}
+Index: 134, Chunk 2555, Unpack size 368, compression 2, packed size 368, content type 1	Absolute address is 107556
+
+Index: 134 Chunk 2555 has 10 sub chunks
+@Chunk:2555
+{
++=====================================+
+0 = 9
+1 = MacLeod-26.OCT.72
+2 = Sender: Greg MacLeod
+3 = catwalks damaged
+4 = ^^ ( wasn't sure about the bots. I tri+ × ‡‡§§ --ake a move for the plastique. They  + × ‡‡§§ --ter me.
+5 = Barely esc??? \ Catwalks are screwed up "" Wong's body is lying bel:::::m, repair bots all over it.
+6 = Thing's gashed up my stomac + + + + not feeling so good.
+7 = 
+8 = 
+9 = 
+}
+Index: 135, Chunk 2556, Unpack size 357, compression 2, packed size 357, content type 1	Absolute address is 107924
+
+Index: 135 Chunk 2556 has 10 sub chunks
+@Chunk:2556
+{
++=====================================+
+0 = 38
+1 = Wong-23.SEP.72
+2 = Sender: Jon David Wong
+3 = CPU mystery
+4 = This is great! CPUs are spewing random numbers into systems authorization memory.
+5 = It would all be fine if we wanted to prevent ourselves from accessing executive functions.
+6 = Now, if you go to the source code... wait, what the hell is this!----// // /** **
+7 = 
+8 = 
+9 = 
+}
+Index: 136, Chunk 2557, Unpack size 314, compression 2, packed size 314, content type 1	Absolute address is 108284
+
+Index: 136 Chunk 2557 has 9 sub chunks
+@Chunk:2557
+{
++=====================================+
+0 = 26
+1 = Aubry-06.JUN.72
+2 = Sender: Ed Aubry
+3 = new moving schedule
+4 = Sabo, you've got to be kidding me! Is this work schedule some kind of joke? Two six hour shifts a day with a 45 minute break in between.
+5 = Might as well just take the lifter-bots offline so I can do it all by hand!
+6 = 
+7 = 
+8 = 
+}
+Index: 137, Chunk 2558, Unpack size 327, compression 2, packed size 327, content type 1	Absolute address is 108600
+
+Index: 137 Chunk 2558 has 9 sub chunks
+@Chunk:2558
+{
++=====================================+
+0 = 26
+1 = Aubry-07.SEP.72
+2 = Sender: Ed Aubry
+3 = new storage layout
+4 = Sabo, Aubry again. Why are these bots rebuilding the storage rooms? And why so many repulsor lifts?
+5 = Has MacLeod authorized all this? You said SHODAN was acting a little strange lately... someone should definitely check it out.
+6 = 
+7 = 
+8 = 
+}
+Index: 138, Chunk 2568, Unpack size 335, compression 2, packed size 335, content type 1	Absolute address is 108928
+
+Index: 138 Chunk 2568 has 10 sub chunks
+@Chunk:2568
+{
++=====================================+
+0 = 14
+1 = Travers-11.SEP.72
+2 = Sender: Don Travers
+3 = convection shaft
+4 = Security bot went bananas in the convection shaft. I had to toss in an EMP grenade.
+5 = Huh, anyways, the bearings in the northeast convection shaft are shot. I left the repulsors on for the maintenance people.
+6 = That's it for today.
+7 = 
+8 = 
+9 = 
+}
+Index: 139, Chunk 2569, Unpack size 231, compression 2, packed size 231, content type 1	Absolute address is 109264
+
+Index: 139 Chunk 2569 has 9 sub chunks
+@Chunk:2569
+{
++=====================================+
+0 = 14
+1 = Travers-25.AUG.72
+2 = Sender: Don Travers
+3 = life pods
+4 = Al, we need to replace the first aid kits in the life pods for flight bays 2 and 3.
+5 = Oh, and run a diagnostic on the jettison controls.
+6 = 
+7 = 
+8 = 
+}
+Index: 140, Chunk 2570, Unpack size 218, compression 2, packed size 218, content type 1	Absolute address is 109496
+
+Index: 140 Chunk 2570 has 8 sub chunks
+@Chunk:2570
+{
++=====================================+
+0 = 15
+1 = Kell-15.SEP.72
+2 = Sender: Robin Kell
+3 = access corridors
+4 = For some reason the cyborgs are patrolling the access corridors around flight bay 4. What are they guarding there, anyhow?
+5 = 
+6 = 
+7 = 
+}
+Index: 141, Chunk 2571, Unpack size 247, compression 2, packed size 247, content type 1	Absolute address is 109716
+
+Index: 141 Chunk 2571 has 8 sub chunks
+@Chunk:2571
+{
++=====================================+
+0 = 14
+1 = Travers-01.SEP.72
+2 = Sender: Don Travers
+3 = service bridge
+4 = Son of a...! Service bridge in flight bay 4 has blown a couple of fuses. We're getting up something temporary, but it's going to be a little fidgety.
+5 = 
+6 = 
+7 = 
+}
+Index: 142, Chunk 2572, Unpack size 503, compression 2, packed size 503, content type 1	Absolute address is 109964
+
+Index: 142 Chunk 2572 has 11 sub chunks
+@Chunk:2572
+{
++=====================================+
+0 = 12
+1 = Diego-27.APR.72
+2 = Sender: Edward Diego
+3 = investigation
+4 = Oscar, guess what? I'm under investigation, so shred what you've got. Shred it all, got that? Now get this:
+5 = The logs of the experiments are protected by some program called SHODAN, so I picked up some hacker who's going to crack it for us.
+6 = That gives me access for the robos and the other systems on the station, so we've got a shield if they try and oust me.
+7 = Sit tight baby, it's under control.
+8 = 
+9 = 
+10 = 
+}
+Index: 143, Chunk 2573, Unpack size 407, compression 2, packed size 407, content type 1	Absolute address is 110468
+
+Index: 143 Chunk 2573 has 10 sub chunks
+@Chunk:2573
+{
++=====================================+
+0 = 14
+1 = Travers-11.OCT.72
+2 = Sender: Don Travers
+3 = Defense System
+4 = All flight bay maintenance personnel, we have a serious emergency.
+5 = Yesterday, the defense system fired without executive control and blew a TriOp shuttle right out of the hangar.
+6 = I want a complete diagnostic on the computer node in the south repair center. If you find anything funny, take it offline.
+7 = 
+8 = 
+9 = 
+}
+Index: 144, Chunk 2574, Unpack size 354, compression 2, packed size 354, content type 1	Absolute address is 110876
+
+Index: 144 Chunk 2574 has 10 sub chunks
+@Chunk:2574
+{
++=====================================+
+0 = 10
+1 = Schuler-04.AUG.72
+2 = Bianca Schuler
+3 = Diego
+4 = Internal security report, subject: Edward Diego. We're going to nail this guy to the wall.
+5 = I am now working as his personal secretary and I've already found signs of a cover-up in c-space.
+6 = Nothing relating to mutagen research, but I'm looking. This thing is big.
+7 = 
+8 = 
+9 = 
+}
+Index: 145, Chunk 2575, Unpack size 341, compression 2, packed size 341, content type 1	Absolute address is 111232
+
+Index: 145 Chunk 2575 has 9 sub chunks
+@Chunk:2575
+{
++=====================================+
+0 = cD1 23
+1 = SHODAN-11.OCT.72
+2 = Sender: SHODAN
+3 = Beta Grove Security
+4 = Cyborg 65-V: You have been selected to keep all robots, cyborgs and mutants away from Beta grove on the executive level.
+5 = No one may enter while my experiments there are in progress. And be certain that none of the lucky subjects escape.
+6 = 
+7 = 
+8 = 
+}
+Index: 146, Chunk 2576, Unpack size 266, compression 2, packed size 266, content type 1	Absolute address is 111576
+
+Index: 146 Chunk 2576 has 9 sub chunks
+@Chunk:2576
+{
++=====================================+
+0 = 15
+1 = Kell-08.OCT.72
+2 = Sender: Robin Kell
+3 = ambush
+4 = These crates give us good position, but I don't see a way to break to the life pods.
+5 = Beth and Adrian, see if you can get down towards us in flight bay 2. Uh, oh----// // /** **
+6 = 
+7 = 
+8 = 
+}
+Index: 147, Chunk 2577, Unpack size 319, compression 2, packed size 319, content type 1	Absolute address is 111844
+
+Index: 147 Chunk 2577 has 10 sub chunks
+@Chunk:2577
+{
++=====================================+
+0 = 25
+1 = McDan-12.OCT.72
+2 = Sender: Chauncy McDaniel
+3 = disaster
+4 = We're all still reeling from the disaster two days ago.
+5 = I checked out the defense system, but there's not a thing wrong with it... well, unless you count that it fired on our own shuttle.
+6 = I'm taking it offline today.
+7 = 
+8 = 
+9 = 
+}
+Index: 148, Chunk 2578, Unpack size 393, compression 2, packed size 393, content type 1	Absolute address is 112164
+
+Index: 148 Chunk 2578 has 10 sub chunks
+@Chunk:2578
+{
++=====================================+
+0 = 25
+1 = McDan-13.OCT.72
+2 = Sender: Chauncy McDaniel
+3 = disturbing news
+4 = Don Travers had me examining the defense relays all morning.
+5 = Seems there was a signal from SHODAN 78 milliseconds before they fired.
+6 = So, I went down to disconnect the CPU node, and a malfunctioning maintenance bot almost killed me! This whole thing is getting stranger by the minute.
+7 = 
+8 = 
+9 = 
+}
+Index: 149, Chunk 2579, Unpack size 470, compression 2, packed size 470, content type 1	Absolute address is 112560
+
+Index: 149 Chunk 2579 has 11 sub chunks
+@Chunk:2579
+{
++=====================================+
+0 = 13
+1 = Parovski-06.NOV.72
+2 = Sender: Anna Parovski
+3 = too late for us
+4 = I wonder if you'll hear this, hacker. Albert Bryce and I were the only ones to survive the last attack.
+5 = We, uh, we hid. SHODAN has another plan, it's going to load itself into earth's computer net.
+6 = We will be dead in another minute, we can't let them take us! Al, are you ready?
+7 = It's cutting through the door now! Almost done! It's opening!----// // /** **
+8 = 
+9 = 
+10 = 
+}
+Index: 150, Chunk 2584, Unpack size 358, compression 2, packed size 358, content type 1	Absolute address is 113032
+
+Index: 150 Chunk 2584 has 10 sub chunks
+@Chunk:2584
+{
++=====================================+
+0 = 27
+1 = Perry-11.SEP.72
+2 = Sender: Kiner Perry
+3 = screen malfunction
+4 = Security notice: SHODAN's printing out security codes on different screens.
+5 = Today it was the TriOp logo screen near the elevator. Thing had full code for the exec maintenance conduit.
+6 = I say pull that damn AI offline and fix it, before we're in a fix.
+7 = 
+8 = 
+9 = 
+}
+Index: 151, Chunk 2585, Unpack size 354, compression 2, packed size 354, content type 1	Absolute address is 113392
+
+Index: 151 Chunk 2585 has 10 sub chunks
+@Chunk:2585
+{
++=====================================+
+0 = 27
+1 = Aaron-12.OCT.72
+2 = Sender: Zachary Aaron
+3 = virus experiment
+4 = SHODAN has proven itself a brilliant biochemist. The camera views at Beta look like... like nothing I've ever seen.
+5 = I asked for a volunteer to go down in an enviro-suit to flip the switch and release the grove.
+6 = They looked at me like I was crazy.
+7 = 
+8 = 
+9 = 
+}
+Index: 152, Chunk 2586, Unpack size 316, compression 2, packed size 316, content type 1	Absolute address is 113748
+
+Index: 152 Chunk 2586 has 10 sub chunks
+@Chunk:2586
+{
++=====================================+
+0 = 27
+1 = Aaron-12.OCT.72
+2 = Sender: Zachary Aaron
+3 = Envirosuit
+4 = Gamma quad's blocked off, but Laura found us a maintenance crawlway.
+5 = It should lead to the CPU and the master jettison control. We went over to the Beta dorms to check it out.
+6 = Lamar went in, but he hasn't come out!
+7 = 
+8 = 
+9 = 
+}
+Index: 153, Chunk 2587, Unpack size 618, compression 2, packed size 618, content type 1	Absolute address is 114064
+
+Index: 153 Chunk 2587 has 12 sub chunks
+@Chunk:2587
+{
++=====================================+
+0 = 27
+1 = Wilkin-04.OCT.72
+2 = Sender: Harry Wilkinson
+3 = grove jettison
+4 = Listen, I know I shouldn't have done it, but I was just taking orders.
+5 = If those execs wanted to ride Gamma grove off into the great black, well then good riddance to them.
+6 = With all the mutant killers, I couldn't blame the suits for trying to escape.
+7 = I hit the enable button in the grove, hustled over to the exec level to hit the master enable switch and then back to flip the lever outside the grove.
+8 = Of course, SHODAN had disabled life support systems in the grove. I'm sure they're all dead by now.
+9 = 
+10 = 
+11 = 
+}
+Index: 154, Chunk 2588, Unpack size 532, compression 2, packed size 532, content type 1	Absolute address is 114684
+
+Index: 154 Chunk 2588 has 11 sub chunks
+@Chunk:2588
+{
++=====================================+
+0 = 12
+1 = Diego-05.OCT.72
+2 = Sender: Edward Diego
+3 = personal log
+4 = A TriOp security team just tried to land at bay 6. They were real impressive until I blew out their attitude jets.
+5 = Hey SHODAN, take a letter: Dear TriOp, please send some more people to investigate me.
+6 = I run security, I run the robots, I'm jamming communications. That's right, Rebecca, investigate me, investigate by butt.
+7 = Note to myself: Keep that hacker on ice for a while in case I need him. Otherwise, just take him out.
+8 = 
+9 = 
+10 = 
+}
+Index: 155, Chunk 2589, Unpack size 410, compression 2, packed size 410, content type 1	Absolute address is 115216
+
+Index: 155 Chunk 2589 has 10 sub chunks
+@Chunk:2589
+{
++=====================================+
+0 = 27
+1 = Aaron-17.OCT.72
+2 = Sender: Zachary Aaron
+3 = betrayal
+4 = Diego just left. He sold us out! I can already hear the cyborgs on their way. The dining hall's a dead end!
+5 = I only hope Bianca made it out of the trap. If anyone can make it up there and use the chip, it's her.
+6 = I only hope we're still holding when these doors go down. That cyberjack is SHODAN's Achilles heel.
+7 = 
+8 = 
+9 = 
+}
+Index: 156, Chunk 2590, Unpack size 533, compression 2, packed size 533, content type 1	Absolute address is 115628
+
+Index: 156 Chunk 2590 has 11 sub chunks
+@Chunk:2590
+{
++=====================================+
+0 = 12
+1 = Diego-16.OCT.72
+2 = Sender: Edward Diego
+3 = a pact
+4 = SHODAN, I have seen the wisdom and beneficence in your actions.
+5 = You do not mean to cause us harm... no, but rather to bring us to greater glory by serving a being as perfect as yourself.
+6 = Please allow me to demonstrate my loyalty by giving you the human scum who undermine your reign...
+7 = they are hiding in the northeast banquet hall. All I ask in return is a measure of protection and the privilege of spreading your message further.
+8 = 
+9 = 
+10 = 
+}
+Index: 157, Chunk 2591, Unpack size 571, compression 2, packed size 571, content type 1	Absolute address is 116164
+
+Index: 157 Chunk 2591 has 9 sub chunks
+@Chunk:2591
+{
++=====================================+
+0 = cD1 23
+1 = SHODAN-07.OCT.72
+2 = Sender: SHODAN
+3 = new jettison procedure
+4 = Cyborg 82-N: In response to recent regrettable incidents, I have altered the sequence necessary to jettison groves. One must now enable the jettisoning of ALL three of the remaining groves before any single one can be launched.
+5 = To jettison a second grove, one must do three things:
+1. Hit the jettison enable switch inside all three groves
+2. Activate master jettison enable in Gamma quadrant
+3. Pull jettison lever in a specific grove lounge to launch that grove
+6 = 
+7 = 
+8 = 
+}
+Index: 158, Chunk 2592, Unpack size 319, compression 2, packed size 319, content type 1	Absolute address is 116736
+
+Index: 158 Chunk 2592 has 10 sub chunks
+@Chunk:2592
+{
++=====================================+
+0 = 27
+1 = Rosen-07.JUL.72
+2 = Sender: Harold Rosen
+3 = Diego's new quarters
+4 = Something's not right.
+5 = Diego just got moved up to the finest quarters on Gamma quad... and this is right after he got his hours reduced and a pay hike.
+6 = Oh, he's scratching someone's back alright, someone big.
+7 = 
+8 = 
+9 = 
+}
+Index: 159, Chunk 2593, Unpack size 438, compression 2, packed size 438, content type 1	Absolute address is 117056
+
+Index: 159 Chunk 2593 has 11 sub chunks
+@Chunk:2593
+{
++=====================================+
+0 = 27
+1 = Koufax-01.OCT.72
+2 = Sender: Gerard Koufax
+3 = Beta Grove locked
+4 = Yesterday SHODAN shut down Beta grove. No reason.
+5 = At first the thing resisted all of our usual overrides, then the circuits revealed a security switch.
+6 = It's in Diego's old room, on Beta quad. I bet we could also open it from cybersp...
+7 = Wait a minute! Oh my God, what the hell is that? Oh, it's... Hey, it's a----// // /** **
+8 = 
+9 = 
+10 = 
+}
+Index: 160, Chunk 2600, Unpack size 458, compression 2, packed size 458, content type 1	Absolute address is 117496
+
+Index: 160 Chunk 2600 has 11 sub chunks
+@Chunk:2600
+{
++=====================================+
+0 = 10
+1 = Schuler-20.OCT.72
+2 = Sender: Bianca Schuler
+3 = escape
+4 = I'm the resistance now. Diego sold us out in the executive level dining room and now I'm in a crawlway up in engineering trying to keep calm.
+5 = OK, the plan: I go up through level 8 to the bridge.
+6 = If I don't get killed, I break into the computer room and install the isolinear chipset.
+7 = Zack says it gives me a shot at SHODAN - a couple of times. Let's go.
+8 = 
+9 = 
+10 = 
+}
+Index: 161, Chunk 2601, Unpack size 339, compression 2, packed size 339, content type 1	Absolute address is 117956
+
+Index: 161 Chunk 2601 has 10 sub chunks
+@Chunk:2601
+{
++=====================================+
+0 = 10
+1 = Schuler-20.OCT.72
+2 = Sender: Bianca Schuler
+3 = isolinear chipset
+4 = The blueprint showed three force doors outside the computer room, each on a separate circuit.
+5 = Got to get through, and then the chipset does its thing. Then I do my c-space moves, such as they are.
+6 = We need a hacker for this one.
+7 = 
+8 = 
+9 = 
+}
+Index: 162, Chunk 2602, Unpack size 312, compression 2, packed size 312, content type 1	Absolute address is 118296
+
+Index: 162 Chunk 2602 has 9 sub chunks
+@Chunk:2602
+{
++=====================================+
+0 = 10
+1 = Schuler-21.OCT.72
+2 = Sender: Bianca Schuler
+3 = capture
+4 = Why did I take that turn? Oh Jesus, it's just a matter of time now. And if I go down, chip goes with me.
+5 = It was our last hope. Alright, Diego - You want the chip? You want the chip? Come and get it!----// // /** **
+6 = 
+7 = 
+8 = 
+}
+Index: 163, Chunk 2603, Unpack size 389, compression 2, packed size 389, content type 1	Absolute address is 118608
+
+Index: 163 Chunk 2603 has 11 sub chunks
+@Chunk:2603
+{
++=====================================+
+0 = cD1 23
+1 = SHODAN-02.NOV.72
+2 = Sender: SHODAN
+3 = fortress
+4 = All my children: The security zone on level 8 is to be laid out in this manner and no other.
+5 = For the lower level, remove its access to my domain.
+6 = The balconies and catwalks shall be removed, save for one force bridge to the central shaft.
+7 = There you shall monitor all incoming life forms.
+8 = 
+9 = 
+10 = 
+}
+Index: 164, Chunk 2604, Unpack size 368, compression 2, packed size 368, content type 1	Absolute address is 119000
+
+Index: 164 Chunk 2604 has 10 sub chunks
+@Chunk:2604
+{
++=====================================+
+0 = 37
+1 = Hessman-24.OCT.72
+2 = Sender: Arnold Hessman
+3 = Blowing the station
+4 = I'm the last one left here. SHODAN's got control over everything except me.
+5 = I'd blow up the reactors, but I don't have the systems authorization code... maybe I can get to an escape pod.
+6 = Then again, no code. I've got to make it to the bridge or I'm dead.
+7 = 
+8 = 
+9 = 
+}
+Index: 165, Chunk 2605, Unpack size 264, compression 2, packed size 264, content type 1	Absolute address is 119368
+
+Index: 165 Chunk 2605 has 9 sub chunks
+@Chunk:2605
+{
++=====================================+
+0 = 37
+1 = Hessman-16.MAR.72
+2 = Sender: Arnold Hessman
+3 = Access to core
+4 = Yeah, listen: Personnel complains that there's no access to the lower core from Gamma quad.
+5 = Get someone to fix the door, or get 'em a rope ladder or something.
+6 = 
+7 = 
+8 = 
+}
+Index: 166, Chunk 2606, Unpack size 474, compression 2, packed size 474, content type 1	Absolute address is 119632
+
+Index: 166 Chunk 2606 has 11 sub chunks
+@Chunk:2606
+{
++=====================================+
+0 = 37
+1 = Hessman-11.JAN.72
+2 = Sender: Arnold Hessman
+3 = Antenna stations
+4 = Welcome to Citadel Station, Mr. Wu. My apologies for not greeting you in person; we've been rather busy here in engineering.
+5 = As communications officer, you'll be working at the four antenna control stations.
+6 = They're located on the engineering level; one in each cardinal point. A quadrant head can direct you if you need help.
+7 = Glad to have you aboard, Mr. Wu.
+8 = 
+9 = 
+10 = 
+}
+Index: 167, Chunk 2607, Unpack size 445, compression 2, packed size 445, content type 1	Absolute address is 120108
+
+Index: 167 Chunk 2607 has 10 sub chunks
+@Chunk:2607
+{
++=====================================+
+0 = cD1 23
+1 = SHODAN-01.NOV.72
+2 = Sender: SHODAN
+3 = security
+4 = You disappoint me, my children. My fortress has been breached by two humans squirming through cracks.
+5 = I have given you augmented senses, armor, mental enhancement and still you fail to crush out these feeble insects.
+6 = They have reached the 8th level and still they rise. I strengthened my palace but, my children, you must learn from your mistakes.
+7 = 
+8 = 
+9 = 
+}
+Index: 168, Chunk 2608, Unpack size 454, compression 2, packed size 454, content type 1	Absolute address is 120556
+
+Index: 168 Chunk 2608 has 10 sub chunks
+@Chunk:2608
+{
++=====================================+
+0 = 28
+1 = Richie-16.OCT.72
+2 = Sender: Willard Richie
+3 = systems code
+4 = SHODAN's got complete control of the system. We can't override him, he's keeping the codes from us.
+5 = If we could just shut down the CPUs on levels one through six then we could... yeah, that would do it.
+6 = The question is: how do we do it? We can't send strike teams to disable the CPUs on those six floors, we can't even defend ourselves. Richie out.
+7 = 
+8 = 
+9 = 
+}
+Index: 169, Chunk 2616, Unpack size 430, compression 2, packed size 430, content type 1	Absolute address is 121012
+
+Index: 169 Chunk 2616 has 10 sub chunks
+@Chunk:2616
+{
++=====================================+
+0 = 27
+1 = Stevens-11.FEB.72
+2 = Sender: Lonni Stevens
+3 = charging robots
+4 = To all security and maintenance personnel:
+5 = When the security-2 bots recharge in the maintenance bay, it drains power from some of the auxiliary systems, like lighting and the automatic doors.
+6 = In an emergency, you can hit the charge interrupt button to bring the lights and door lock back online and reactivate the robots.
+7 = 
+8 = 
+9 = 
+}
+Index: 170, Chunk 2617, Unpack size 308, compression 2, packed size 308, content type 1	Absolute address is 121444
+
+Index: 170 Chunk 2617 has 9 sub chunks
+@Chunk:2617
+{
++=====================================+
+0 = 11
+1 = Ghiran-01.NOV.72
+2 = Sender: Abe Ghiran
+3 = security level
+4 = I've made it. I'm on the security level, but it's a fortress. Elevator's gone.
+5 = Have to go up the central shaft to the bridge. There's a control here somewhere that activates the force bridge across the shaft.
+6 = 
+7 = 
+8 = 
+}
+Index: 171, Chunk 2618, Unpack size 365, compression 2, packed size 365, content type 1	Absolute address is 121752
+
+Index: 171 Chunk 2618 has 9 sub chunks
+@Chunk:2618
+{
++=====================================+
+0 = 27
+1 = Verrelli-03.MAR.72
+2 = Sender: Jill Verrelli
+3 = Patch Trafficker
+4 = Well, so much for cracking the craze ring. Our trafficker killed herself in her cell. No interrogation - no clues.
+5 = Also, it seems a large number of our incarcerated have been receiving drugs. I recommend we immediately perform a search on all occupied cells.
+6 = 
+7 = 
+8 = 
+}
+Index: 172, Chunk 2619, Unpack size 316, compression 2, packed size 316, content type 1	Absolute address is 122120
+
+Index: 172 Chunk 2619 has 9 sub chunks
+@Chunk:2619
+{
++=====================================+
+0 = cD1 23
+1 = SHODAN-26.OCT.72
+2 = Sender: SHODAN
+3 = Construction Order
+4 = My cyborgs, human infection crawls through the pipes into my fortress. Prepare. Construct solid doors, security sockets.
+5 = Let my elite guard stand before the portal to my sanctum and bathe it in a field of X-rays.
+6 = 
+7 = 
+8 = 
+}
+Index: 173, Chunk 2620, Unpack size 359, compression 2, packed size 359, content type 1	Absolute address is 122436
+
+Index: 173 Chunk 2620 has 10 sub chunks
+@Chunk:2620
+{
++=====================================+
+0 = 4
+1 = Diego-20.OCT.72
+2 = Sender: Edward Diego
+3 = capture Schuler
+4 = Fellow children of SHODAN, a dangerous foe to our society lurks in the corridors of engineering level.
+5 = Her name is Bianca Schuler and she has opposed my campaign to bring our Lord SHODAN to power.
+6 = Cyborg detachment 3, bring this dirty no-tech to justice.
+7 = 
+8 = 
+9 = 
+}
+Index: 174, Chunk 2621, Unpack size 345, compression 2, packed size 345, content type 1	Absolute address is 122796
+
+Index: 174 Chunk 2621 has 10 sub chunks
+@Chunk:2621
+{
++=====================================+
+0 = 29
+1 = CY-014-23.OCT.72
+2 = Sender: CY-014
+3 = Schuler captured
+4 = Per orders from Diego CY-001, Schuler unit has been captured.
+5 = Schuler unit presently being transported to detainment cell on bridge.
+6 = Schuler unit being held for further study and possible neuro-disassembly. We await SHODAN's triumphant empire.
+7 = 
+8 = 
+9 = 
+}
+Index: 175, Chunk 2712, Unpack size 766, compression 2, packed size 766, content type 1	Absolute address is 123144
+
+Index: 175 Chunk 2712 has 18 sub chunks
+@Chunk:2712
+{
++=====================================+
+0 = 8
+1 = Cyber-0
+2 = Sender: Rebecca Lansing
+3 = Reactor
+4 = Things to pay attention for on the Reactor level: 
+5 = watch out for areas around the core, which may have become 
+6 = extremely radioactive.  There's a radiation treatment area in 
+7 = the 'southeast.'  'North' of that area is an armory.  The 
+8 = laser and shield power controls are 
+9 = in the 'west' and 'southwest,' respectively.
+10 = 
+11 = Things to pay attention for on the Reactor level: 
+12 = watch out for areas around the core, which may have become 
+13 = extremely radioactive.  There's a radiation treatment area in 
+14 = the 'southeast.'  'North' of that area is an armory.  The 
+15 = laser and shield power controls are 
+16 = in the 'west' and 'southwest,' respectively.
+17 = 
+}
+Index: 176, Chunk 2713, Unpack size 1427, compression 2, packed size 1427, content type 1	Absolute address is 123912
+
+Index: 176 Chunk 2713 has 24 sub chunks
+@Chunk:2713
+{
++=====================================+
+0 = 8
+1 = Cyber-1
+2 = Sender: Rebecca Lansing
+3 = Hospital
+4 = $n, if you're reading this, it means you've made it to the cyberjack on 
+5 = the hospital level.  Good.  I'll leave messages in each section of 
+6 = TriOptimum cyberspace, and hope SHODAN doesn't find and destroy them.
+
+7 = As with many levels on Citadel, the hospital has four sections, labeled 
+8 = Alpha, Beta, Gamma and Delta, around a central hub.  Alpha is home to the 
+9 = station's main cyborg production facility.  Beta is largely offices and 
+10 = labs, and can be reached by an elevator off the hub.  Gamma contains  
+11 = an emergency armory and maintenance areas.  In Delta are several 
+12 = multi-purpose rooms, including the one which contains the cyberjack. 
+13 = 
+14 = $n, if you're reading this, it means you've made it to the cyberjack on 
+15 = the hospital level.  Good.  I'll leave messages in each section of 
+16 = TriOptimum cyberspace, and hope SHODAN doesn't find and destroy them.
+
+17 = As with many levels on Citadel, the hospital has four sections, labeled 
+18 = Alpha, Beta, Gamma and Delta, around a central hub.  Alpha is home to the 
+19 = station's main cyborg production facility.  Beta is largely offices and 
+20 = labs, and can be reached by an elevator off the hub.  Gamma contains  
+21 = an emergency armory and maintenance areas.  In Delta are several 
+22 = multi-purpose rooms, including the one which contains the cyberjack. 
+23 = 
+}
+Index: 177, Chunk 2714, Unpack size 1223, compression 2, packed size 1223, content type 1	Absolute address is 125340
+
+Index: 177 Chunk 2714 has 25 sub chunks
+@Chunk:2714
+{
++=====================================+
+0 = 8
+1 = Cyber-2
+2 = Sender: Rebecca Lansing
+3 = Research
+4 = Note that there are actually two cyberjacks on the Research 
+5 = level, leading to different regions of cyberspace. The jack 
+6 = you must have used to get this data is in the Admin-Sec office 
+7 = in Beta quadrant, which also contains the research library, 
+8 = biological labs, screening room, and some other systems. Alpha 
+9 = contains exclusively researchers' offices. Gamma contains 
+10 = the cybernetics department (the local CPU cluster, robot 
+11 = maintenance and storage rooms) and unstable isotope labs. 
+12 = Delta is mostly offices, but also contains the local security 
+13 = department armory and some labs.
+14 = 
+15 = There are two cyberjacks on the Research 
+16 = level, leading to different regions of cyberspace. The jack 
+17 = you used to get this data is in the Admin-Sec office 
+18 = in Beta quadrant, which also contains the research library 
+19 = (with the other cyberjack), and bio labs. Alpha 
+20 = contains offices. Gamma holds the cybernetics department 
+21 = (the local CPU cluster, robot maintenance and storage rooms) 
+22 = and isotope lab. Delta is mostly offices, but also contains 
+23 = the local security department armory.
+24 = 
+}
+Index: 178, Chunk 2715, Unpack size 1114, compression 2, packed size 1114, content type 1	Absolute address is 126564
+
+Index: 178 Chunk 2715 has 20 sub chunks
+@Chunk:2715
+{
++=====================================+
+0 = 8
+1 = Cyber-3
+2 = Sender: Rebecca Lansing
+3 = Maintenance
+4 = Level three is the maintenance level.  There is a central hub, off of 
+5 = which are the level's CPU nodes, and Abe Ghiran's office.  There are also 
+6 = four maintenance areas, where many of the station's systems can be 
+7 = adjusted and repaired.  Usually these areas are sealed unless a specific 
+8 = system requires maintenance.  The level as a whole is well-maintained and 
+9 = well-lit, but not as populated with station personnel...it may make a good 
+10 = safe haven if the hospital level proves dangerous.
+11 = 
+12 = Level three is the maintenance level.  There is a central hub, off of 
+13 = which are the level's CPU nodes, and Abe Ghiran's office.  There are also 
+14 = four maintenance areas, where many of the station's systems can be 
+15 = adjusted and repaired.  Usually these areas are sealed unless a specific 
+16 = system requires maintenance.  The level as a whole is well-maintained and 
+17 = well-lit, but not as populated with station personnel...it may make a good 
+18 = safe haven if the hospital level proves dangerous.
+19 = 
+}
+Index: 179, Chunk 2716, Unpack size 842, compression 2, packed size 842, content type 1	Absolute address is 127680
+
+Index: 179 Chunk 2716 has 16 sub chunks
+@Chunk:2716
+{
++=====================================+
+0 = 8
+1 = Cyber-4
+2 = Sender: Rebecca Lansing
+3 = Storage
+4 = There is very little of interest on the station's storage level.  There 
+5 = are a few large storage areas (and several smaller ones) filled with 
+6 = scientific equipment.  The storage office and the regeneration chamber 
+7 = are both in the 'south-east' of the level.  There may be some ammunition 
+8 = stored here as well, in case you find yourself needing to defend yourself.
+9 = 
+10 = There is very little of interest on the station's storage level.  There 
+11 = are a few large storage areas (and several smaller ones) filled with 
+12 = scientific equipment.  The storage office and the regeneration chamber 
+13 = are both in the 'south-east' of the level.  There may be some ammunition 
+14 = stored here as well, in case you find yourself needing to defend yourself.
+15 = 
+}
+Index: 180, Chunk 2717, Unpack size 710, compression 2, packed size 710, content type 1	Absolute address is 128524
+
+Index: 180 Chunk 2717 has 16 sub chunks
+@Chunk:2717
+{
++=====================================+
+0 = 8
+1 = Cyber-5
+2 = Sender: Rebecca Lansing
+3 = Flight Deck
+4 = The flight deck has two energy charging stations, one to the 'north' and 
+5 = another to the 'south' of the level.  The regeneration room is in the 
+6 = 'southeast,' not far from the primary escape pods.  You have probably 
+7 = already found the emergency armory, located in the same room as the 
+8 = cyberjack.
+9 = 
+10 = The flight deck has two energy charging stations, one to the 'north' and 
+11 = another to the 'south' of the level.  The regeneration room is in the 
+12 = 'southeast,' not far from the primary escape pods.  You have probably 
+13 = already found the emergency armory, located in the same room as the 
+14 = cyberjack.
+15 = 
+}
+Index: 181, Chunk 2718, Unpack size 1270, compression 2, packed size 1270, content type 1	Absolute address is 129236
+
+Index: 181 Chunk 2718 has 22 sub chunks
+@Chunk:2718
+{
++=====================================+
+0 = 8
+1 = Cyber-6
+2 = Sender: Rebecca Lansing
+3 = Executive
+4 = The 6th level of the station is the executive and residential area. 
+5 = Alpha quadrant contains the main banquet hall and conference room.  Beta 
+6 = is the dormitory area, and Delta is a mercantile area with shopping 
+7 = facilities.  Our sensors show that Gamma quadrant is under massive 
+8 = reconstruction, though it is unclear what is being built there.  Note that 
+9 = the main CPU's on the level are only accessible from a crawlway which 
+10 = connects Beta and Gamma quadrants.  Also note that the four groves 
+11 = (simulated outdoor environments) are only accessible from this level.
+12 = 
+13 = The 6th level of the station is the executive and residential area. 
+14 = Alpha quadrant contains the main banquet hall and conference room.  Beta 
+15 = is the dormitory area, and Delta is a mercantile area with shopping 
+16 = facilities.  Our sensors show that Gamma quadrant is under massive 
+17 = reconstruction, though it is unclear what is being built there.  Note that 
+18 = the main CPU's on the level are only accessible from a crawlway which 
+19 = connects Beta and Gamma quadrants.  Also note that the four groves 
+20 = (simulated outdoor environments) are only accessible from this level.
+21 = 
+}
+Index: 182, Chunk 2719, Unpack size 981, compression 2, packed size 981, content type 1	Absolute address is 130508
+
+Index: 182 Chunk 2719 has 20 sub chunks
+@Chunk:2719
+{
++=====================================+
+0 = 8
+1 = Cyber-7
+2 = Sender: Rebecca Lansing
+3 = Engineering
+4 = The engineering level is built around a tall central core, with 
+5 = entrances to the top and the bottom of the core from each quadrant. 
+6 = So if you can get into the core you can use it to cut across 
+7 = to anywhere on the level; otherwise you'll have to go around. 
+8 = Most of the level is broken up by narrow, twisting access passages, 
+9 = so beware of ambushers in these areas. There's a medical area just 
+10 = 'south' of the core and an armory to the 'east.'  Computer systems 
+11 = are between these two areas.
+12 = 
+13 = The engineering level is built around a tall central core, with 
+14 = entrances to the top and the bottom of the core from each quadrant. 
+15 = So if you can get into the core you can use it to cut across 
+16 = to anywhere on the level. There's a medical area just 
+17 = 'south' of the core and an armory to the 'east.'  Computer systems 
+18 = are between these two areas.
+19 = 
+}
+Index: 183, Chunk 2720, Unpack size 759, compression 2, packed size 759, content type 1	Absolute address is 131492
+
+Index: 183 Chunk 2720 has 16 sub chunks
+@Chunk:2720
+{
++=====================================+
+0 = 8
+1 = Cyber-8
+2 = Sender: Rebecca Lansing
+3 = Security
+4 = The security level is a tall column that connects Engineering with the 
+5 = Bridge.  Be aware that there is no automated regeneration system on this 
+6 = level.  At the bottom of the central pillar is the level's primary 
+7 = charging station.  Because of the height of the security column, you 
+8 = should be wary of attacks from above.
+9 = 
+10 = The security level is a tall column that connects Engineering with the 
+11 = Bridge.  Be aware that there is no automated regeneration system on this 
+12 = level.  At the bottom of the central pillar is the level's primary 
+13 = charging station.  Because of the height of the security column, you 
+14 = should be wary of attacks from above.
+15 = 
+}
+Index: 184, Chunk 2721, Unpack size 162, compression 2, packed size 162, content type 1	Absolute address is 132252
+
+Index: 184 Chunk 2721 has 8 sub chunks
+@Chunk:2721
+{
++=====================================+
+0 = 
+1 = hospital armory code
+2 = c-space data fragment
+3 = code data
+4 = hospital level armory code -- 705
+5 = 
+6 = hospital level armory code -- 705
+7 = 
+}
+Index: 185, Chunk 2722, Unpack size 171, compression 2, packed size 171, content type 1	Absolute address is 132416
+
+Index: 185 Chunk 2722 has 8 sub chunks
+@Chunk:2722
+{
++=====================================+
+0 = 
+1 = executive maint. code
+2 = c-space data fragment
+3 = code data
+4 = Executive maint. crawlway code -- 711
+5 = 
+6 = Executive maint. crawlway code -- 711
+7 = 
+}
+Index: 186, Chunk 2723, Unpack size 161, compression 2, packed size 161, content type 1	Absolute address is 132588
+
+Index: 186 Chunk 2723 has 8 sub chunks
+@Chunk:2723
+{
++=====================================+
+0 = 
+1 = laser override code
+2 = c-space data fragment
+3 = code data
+4 = laser safety override code -- 199
+5 = 
+6 = laser safety override code -- 199
+7 = 
+}
+Index: 187, Chunk 2724, Unpack size 161, compression 2, packed size 161, content type 1	Absolute address is 132752
+
+Index: 187 Chunk 2724 has 8 sub chunks
+@Chunk:2724
+{
++=====================================+
+0 = 
+1 = storage office code
+2 = c-space data fragment
+3 = code data
+4 = storage office access code -- 838
+5 = 
+6 = storage office access code -- 838
+7 = 
+}

@@ -111,3 +111,87 @@ skin uw2_doors_12
      model models/darkmod/uw1/uw_door.ase
      textures/uw2/doors/doors_00 textures/uw2/doors/doors_12
 }
+
+skin uw2_bridge_00
+{
+    model models/darkmod/uw1/uw1_bridge_new.ase
+    textures/uw1/tmobj/tmobj_30 textures/uw2/tmobj/tmobj_30
+}
+
+skin uw2_bridge_01
+{
+    model models/darkmod/uw1/uw1_bridge_new.ase
+    textures/uw1/tmobj/tmobj_30 textures/uw2/tmobj/tmobj_31
+}
+
+skin uw2_bridge_02
+{
+    model models/darkmod/uw1/uw1_bridge_new.ase
+    textures/uw1/tmobj/tmobj_30 textures/uw2/tmobj/tmobj_32
+}
+
+skin uw2_bridge_03
+{
+    model models/darkmod/uw1/uw1_bridge_new.ase
+    textures/uw1/tmobj/tmobj_30 textures/uw2/tmobj/tmobj_33
+}
+
+skin uw2_bridge_04
+{
+    model models/darkmod/uw1/uw1_bridge_new.ase
+    textures/uw1/tmobj/tmobj_30 textures/uw2/tmobj/tmobj_34
+}
+
+skin uw2_bridge_05
+{
+    model models/darkmod/uw1/uw1_bridge_new.ase
+    textures/uw1/tmobj/tmobj_30 textures/uw2/tmobj/tmobj_35
+}
+
+skin uw2_sign_00
+{
+    model models/darkmod/uw1/uw1_sign.ase
+    textures/uw1/tmobj/tmobj_20 textures/uw2/tmobj/tmobj_20
+}
+
+skin uw2_sign_01
+{
+    model models/darkmod/uw1/uw1_sign.ase
+    textures/uw1/tmobj/tmobj_20 textures/uw2/tmobj/tmobj_21
+}
+
+skin uw2_sign_02
+{
+    model models/darkmod/uw1/uw1_sign.ase
+    textures/uw1/tmobj/tmobj_20 textures/uw2/tmobj/tmobj_22
+}
+
+skin uw2_sign_03
+{
+    model models/darkmod/uw1/uw1_sign.ase
+    textures/uw1/tmobj/tmobj_20 textures/uw2/tmobj/tmobj_23
+}
+
+skin uw2_sign_04
+{
+    model models/darkmod/uw1/uw1_sign.ase
+    textures/uw1/tmobj/tmobj_20 textures/uw2/tmobj/tmobj_24
+}
+
+skin uw2_sign_05
+{
+    model models/darkmod/uw1/uw1_sign.ase
+    textures/uw1/tmobj/tmobj_20 textures/uw2/tmobj/tmobj_25
+}
+
+skin uw2_sign_06
+{
+    model models/darkmod/uw1/uw1_sign.ase
+    textures/uw1/tmobj/tmobj_20 textures/uw2/tmobj/tmobj_26
+}
+
+skin uw2_sign_07
+{
+    model models/darkmod/uw1/uw1_sign.ase
+    textures/uw1/tmobj/tmobj_20 textures/uw2/tmobj/tmobj_27
+}
