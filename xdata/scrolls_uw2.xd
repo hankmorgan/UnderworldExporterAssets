@@ -1,0 +1,3075 @@
+
+
+readables/uw2/scroll_000
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"The pages are blank."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_001
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'On the Properties of Runestones.' Second Edition annotated by the mage Nystul"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_002
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'Key to the Black Gate' by Anton of New Magincia"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_003
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'Mysteries of the Abyss,' being a chronicle of the hubris of Tyball, and of his defeat by the Avatar in the Great Stygian Abyss."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_004
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'Collected historical plays of Raymundo of Britain'"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_005
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'101 Avatar jokes,' by Chuckles the Jester (autographed by the author)"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_006
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"This book appears to contain magic formulas, and contains references to the Guardian and his servants. However, much of it is written in an obscure scripts, which you are unable to decipher. The first page identifies it as the property of Mors Gotha."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_007
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Dear Avatar,  Greetings, old friend!  I hope this letter finds thee in good health. 'Tis now almost a year since thy defeat of the Guardian..."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_008
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Avatar --   Please come to the throne room as soon as possible.  Lord British shall be holding a meeting to discuss our options in this sudden crisis.   -- Miranda "
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_010
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Harry --  I'm not going to be able to get you that slug repellent until Thursday, so I hope you can hold on until then.  In the meantime, I'd stop storing food in your office. -Sabo "
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_012
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Sabo, have you seen what's going on with the moving platform system? One of the main elevators is jammed, and I don't even want to talk about the ones near the castle ladder.  Also, I'm having more problems with giant slugs in my office.  Is there anything you can do?  - Harry "
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_014
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'Mages' Digest' (issue 1018)"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_015
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'The Wizard of Oz' by L. Frank Baum "
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_016
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'The Princess Bride' by William Goldman "
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_017
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'The Wealth of Nations' by Adam Smith "
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_018
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'Pale Fire' by Vladimir Nabokov "
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_019
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'Green Eggs and Ham' by Dr. Seuss "
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_020
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'Swords Against Death' by Fritz Leiber "
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_021
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'Neuromancer' by William Gibson"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_022
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'Something Under the Bed is Drooling' by Bill Watterson"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_023
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'At the Mountains of Madness' by H.P. Lovecraft"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_024
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'Sex' by Madonna "
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_025
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"No practical application found yet for this spell. May be too undignified for use by most wizards.  I prefer the more difficult 'Slow Fall' spell."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_032
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Borne:  Somewhere in the environs of your tower there is a gem of a hard black material. On your life, find it and keep it safe from theft. This matter is of the highest importance.      -G"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_033
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Food Delivery Voucher: Delivery of twenty (20) stalks sourweed, fifteen (15) loaves poori bread, ... etc."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_034
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Avatar, Do not omit in thy travels to speak with a mage named Zoranthus -- thou shalt find him in a prison of his own. .            - Bishop"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_035
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"The Guardian is most displeased with your apparent lack of progress.  I will be sending you the runes Rel, Sanct and Ylem to speed up your production rate. -- M.G."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_037
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Make sure you remember to move the gem into the oubliette, and then set up the trap as I directed.  Screw this one up, Relk, and I'll have your skull  made into a tankard.  - M.G."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_038
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Avatar,I dare not remain in the keep any longer -- the situation is too dangerous. Mors Gotha has arrived with her murderers; be wary of her, for she may discern thy true nature. The spellbook she carries may be of great  interest to thee.  Good luck; I hope we shall meet again one day.         Altara "
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_040
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"We have found the entrance to the cave which we believe to contain the lost city of Anodunos, long frozen by our first ice age.  Presently, we are searching for a place to camp which is safe from the many hostile ice creatures here."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_041
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		". . .have frozen over, only the Filanium deposits to the southeast are still viable.  To make matters worse, a tribe of Yeti has. . . "
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_042
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Rune Order Form: Resist Blows: Bet, In, Sanct  Lesser Heal: In, Bet, Mani  Locate: Bet, Wis, Ex  Speed: Rel, Tym, Por"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_044
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"...worms are much tougher than we first thought.  The snow cats are less dangerous, although one of them almost got Ripkin when she fell through the ice.  Worst of all are the snowball-throwing Yeti, which..."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_045
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Instru. . .m control  Manipu. . .auses th. . .ze to chan. . .wo step process.  To get the ke. . .ake sure the leve. . .ch and chain are all. . .To rea. . .oor, lower the. . .nd switch, and pres. . .walk through the force f. . .to maze. . .stroy this note aft. . .else we'll both hang.  Much of this note is smudged and unreadable. "
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_046
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"...an extremely curious herb, it seems like the legendary mandrake to thrive only on gravesites.  Its effects are entirely singular, in my experience...   (the rest of the note is faded and unreadable)"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_047
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"This latest discovery is quite exciting.  No longer having an active metabolism, it is useless to me, but I must write to Dr. Kintobor.  The spice acts as a mild sedative when chewed, and its effects are actuated when the subject subsequently sleeps.  It (the entry stops here)"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_048
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"3 roots Mandrake, 4 clumps blood moss, 3 bunches dream-spice, 10 cloves garlic."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_049
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Avatar, My sources tell me Mors Gotha is moving closer to our dimensional neighborhood. Seek her out -- she carries a spellbook of great value to thee. Be warned, though -- she is a dangerous opponent. I should know.            - Bishop"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_066
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"2/13/31  On the verge of making a breakthrough in magically-induced heat reduction.  The proper runic formula is either An Flam Rel, or In An Flam.  I shall first try An Flam Rel, which, although a combination of greater risk, should result in a greater reduction of heat. "
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_096
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'I muzt align a bi-phazal kontroller with a skup pattern matrikz in a Delgnizator.' 'What ozillation frekenzy will produze ekzor rezonanze?' 'And how may I engage Skup-interlok?'"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_097
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"For Avatar: Controller Crystal M4Y8"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_098
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"For Eloemosynator "
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_099
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'Haz produktion inkreazed thiz cykle?' 'Theze Runez have great Virtue.'"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_100
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'I will chooze the blak rok.' 'I will chooze the white rok.'"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_101
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'How many Vorz are rekired to operate the Fleddlezonger?'"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_102
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'The alien bird iz very nize.' 'It swallowz fish and slidez on ize.'"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_103
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'Uija ja Es. Dbu'a aflsfu nfaabhf.'"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_104
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'You are sweating like a pig.' 'Korregtion: pigz don't sweat.'"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_105
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'I have failed in my funktion.' 'Your termination iz now imminent.'"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_106
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'Guezz what?' 'What?' 'That'z what!' 'Thiz iz not efficient behavior.'"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_107
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'How many Vorz doez it take to skup a lightsphere?' 'None -- Vorz cannot skup, dinglenoggen!"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_108
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'Guardian iz efficiency Talorified.  'Yez.  I muzt agree.'"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_109
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'I muzt make the Vorz more agrezzive.'"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_110
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'Your aura haz stopped glozifying.'"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_111
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'Have you heard of theze thingz called doorz?' 'Yez. They are very strange."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_129
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"3529 "
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_130
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Istrik -- B+Jashou -- C+Perrin -- F (dead)Odraanj -- A-Ravenna -- deadMirre -- BLodrah -- B-Elster -- incomplete"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_131
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"All items are property of the academy.  Please leave them for the next student."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_132
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"This is partially a test in the judicious use of mana.  You will not be allowed to regain mana after the first section."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_133
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Instructions to students:Anyone caught cheating on the exam will be ensorcelled and expelled."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_135
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Elster -- I hope your thesis is going well, and good luck on that exam!  love, mom"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_136
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Rovilar,  The council has voted on the matter of the secure vault. They think it would be safest to build it in the Ethereal Void, and to put up obstacles that require magical training, in addition to an ordinary key.  They'd like to see plans next week, and if all goes well expect it finished in a month."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_137
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Kalarion,  I have taken care of the Vas and Tym runes you sent me. They should be fairly safe.          Signed, Rovilar"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_138
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Larkin,   This is now the fifth straight day that I have detected an interdimensional disturbance in the ether.  Judging from the proportional increases, I am now surer than ever that something monstrously powerful is fast approaching our planet.  The council has thus far refused to acknowledge the import of my observations, but I am convinced that we are potentially in grave danger.  Could you place me on the agenda for the next council meeting?  Thanks.          -Devrow "
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_160
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"160"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_192
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"'Greater than the lowly imp are a variety of daemons. The Hordling is the soldier of Hell. Mightier than it is the pestilent, dim-witted Despoiler. Few indeed meet the dreaded void Destroyer and live.'"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_193
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"On Chromatographic Alchemy:  As far as current research allows, only certain very specific solutions can hold particular magical effects.  Fortuitously, these may be distinguished by color.  E.g., yellow for healing, red for curing of poison, purple for protection, brown for speed, and black for invisibility.  A clear solution is required for mana restoring potions, but certain other potations can also be so suspended."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_194
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"194"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_202
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"202"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_210
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"210"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_220
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"220"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_224
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"224"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_225
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Ethereal effects of various spells: Locate - none.  Map Area - none. Roaming Sight - none. Create Food - normal. Tremor - very strange."
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/scroll_240
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Foolish thief!  'All that glitters is not gold.'                            Gotcha,                            Morphius"
+	}
+	"gui_page1"	: "guis/readables/sheets/sheet_paper_hand_nancy.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+
+
+readables/uw2/sign_000
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Something indecipherable"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_064
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Avatar's Quarters"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_066
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"experiments in progress -- please keep gates closed "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_067
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		" PRISON - Unauthorized Entry Forbidden "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_068
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		" DINING HALL "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_070
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"LIBRARY "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_073
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"STOREROOM "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_078
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"ARMOURY "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_100
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Caution!  Animal training area."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_101
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Security Corridor.  Standard Procedure."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_102
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Armoury: Authorized Goblins Only"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_103
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Captain's Quarters "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_104
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Danger -- Do not enter without armed escort. "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_105
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Smithy "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_106
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Kitchen"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_149
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Main Floodgate Control"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_150
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Dam Control Access"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_152
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Blog House and Rocks "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_172
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Section One: Lateral Reasoning"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_173
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Section Two: Equilibrium and Non-local Causality"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_174
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Section Three: Psychokinesis and Terraforming"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_175
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Section Four: Spatial Reasoning"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_176
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Section Five: Effects and Constraints"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_177
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Section Six: Risk Avoidance"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_178
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Section Seven: Nonreversible Processes"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_179
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Section Eight"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_180
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Exit"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_181
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Section Two, Part Two: Synchronization"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_182
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Please leave your #2 test wand for the next student."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_183
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Recycle Now!"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_184
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"3 : 5 : 2 : 9 "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_185
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Exit to Exam Level One"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_186
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Secure vault.  For your safety, please keep out."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_187
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Southeast Tower"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_188
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Northwest Tower"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_189
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Please check your familiar here"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_190
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Mages found cheating on the exam will be subject to suspension, expulsion or polymorph"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_191
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"This pad will teleport you back to the pre-examination staging area. Students who choose this option may retake the exam following a two-week waiting period."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_192
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Here lies Molloy, faithful tailor."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_193
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Reef: R.I.P."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_194
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Trystero - Beloved servant."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_195
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Here lies Jaemz, eternally at rest."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_196
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Dugg: he has found a long-awaited rest."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_197
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Ostin, lovable court jester."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_198
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Mahk, loyal page.  R.I.P."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_199
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Teej, carriage-maker."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_200
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Here lie the mortal remains of Gehreg, loving h sband and fath r."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_201
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Dahler, royal gardener, hereunder plant d."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_202
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Here lies Warinn, chief of s rvants."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_203
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Here lies Felis, royal physician."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_204
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Poll, dead at age 54."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_205
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"The final r.sting place of Korrigan, captain of the guard."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_206
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Here lies Brand.  His life was virtuous."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_207
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Here lies Helena, beloved wife of Praecor Loth, in rest eternal."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_208
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Drain Control."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_210
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"The King is Dead, and Long may he Reign."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_213
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Let Trespassers Beware, for their efforts are Anticipated and Foredoomed. "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_214
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Let this Tomb Stand here in Frozen Solitude to mark the Final Extent of His Retreat."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_215
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Ever Vigilant"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_216
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Find thee the map, once whole, By my hand now eight times parted. Else face death, a land, Seldom traveled, seldom charted."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_217
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Let Only the Strong Enter"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_224
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Arena of Air"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_225
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Arena of Earth"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_226
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Arena of Fire"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_227
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Arena of Water"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_229
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"The stairway down lies to the north, if you'd risk it."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_230
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"You'd do best to go back the way you came..."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_231
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Thy journey is doomed! Turn back while you can."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_232
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Naught of value lies east."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_233
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Here lies Doric. He'll sing no more."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_240
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Bl y Skup Chamber  Ductosnore only"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_245
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"The Shrine of Spirituality"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_248
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"The Si"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_249
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"gil Of"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_250
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"ing"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_280
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Beware... Evil Dead Beyond"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_281
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"This be my death curse carved in stone on thou who reads it I am now dead"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_282
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Grak is a corpseworm"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_283
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Antimagic negates antimagic"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_285
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"HeimdaarnHe who journeyed from afar"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_286
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Thost the Fi t"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_289
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Thulsoom th MadSurvivor of the Third Age"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_293
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"At last!  Now, all that is left is to conquer the maze..."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_316
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"Thou canst not defeat the Drakhri!"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_352
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"The gravestone reads: "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_353
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"The tombstone reads: "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_368
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"The plaque reads: "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_369
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"The plaque reads: "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_370
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"An ancient rune: "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_371
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"An ancient rune: "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_372
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"The sign reads: "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_373
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"The sign reads: "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_374
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"The sign reads: "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_375
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"The sign reads: "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_376
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"The writing reads: "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_377
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"The writing reads: "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_378
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"An ancient rune: "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_379
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"An ancient rune: "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_380
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"The writing reads: "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_381
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"The runes read: "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_382
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"The runes read: "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_383
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"The writing reads: "
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_384
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"a_wall"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_385
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"a_door"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_386
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"an_altar"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_387
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"stairs leading up"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_388
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"stairs leading down"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_389
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"a_pipe"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_390
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"a_grating"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_391
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"a_drain"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_392
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"a_princess chained to a wall"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_393
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"a_window"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_394
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"a_tapestry"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_395
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"THE FINAL DOOR"
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_508
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"You have a vision of a cup."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_509
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"You have a vision of a cup."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_510
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"You have a vision of a cup."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
+
+readables/uw2/sign_511
+{
+	precache
+	"num_pages"	: "1"
+	"page1_title" :
+		{
+		""
+		}
+	"page1_body" :
+	{
+		"You don't see a vision this time."
+	}
+	"gui_page1"	: "guis/readables/uw_transparent.gui"
+	"snd_page_turn" : "readable_page_turn"
+}
