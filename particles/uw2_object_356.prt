@@ -1,0 +1,26 @@
+particle uw2_object_356 {
+{
+count	1
+material	textures/uw2/objects/objects_356
+time	0.050
+cycles	0.000
+bunching	0.000
+distribution	rect 0.000 0.000 0.000
+direction	cone "0.000"
+orientation	view
+speed	"0.000"
+size	"16.000"
+aspect	"-1.000"
+rotation	"-1.000"
+angle	180.000
+randomDistribution	0
+boundsExpansion	0.000
+fadeIn	0.000
+fadeOut	0.000
+fadeIndex	0.000
+color	1.000 1.000 1.000 1.000
+fadeColor	0.000 0.000 0.000 0.000
+offset	0.000 0.000 0.000
+gravity	0.000
+}
+}

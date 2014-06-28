@@ -1,0 +1,15 @@
+textures\uw2\objects\objects_447
+{
+DECAL_MACRO
+noShadows
+twoSided
+nonsolid
+noimpact
+qer_editorimage textures/uw2/objects/objects_447.tga
+{
+blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+colored
+clamp
+ map textures/uw2/objects/objects_447.tga
+}
+}
