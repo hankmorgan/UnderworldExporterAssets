@@ -1,0 +1,59 @@
+textures\shock\doors\dooranim_303
+{
+	qer_editorimage textures\shock\doors\2404\2404_0000.tga
+	{
+		blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+		colored
+	alphatest 0.0
+		map textures\shock\doors\2404\2404_0005.tga
+
+	}
+		{
+			if (parm8 == 0)
+				blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+				colored
+			alphatest 0.0
+				map textures\shock\doors\2404\2404_0000.tga
+
+		}
+		{
+			if (parm8 == 1)
+				blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+				colored
+			alphatest 0.0
+				map textures\shock\doors\2404\2404_0001.tga
+
+		}
+		{
+			if (parm8 == 2)
+				blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+				colored
+			alphatest 0.0
+				map textures\shock\doors\2404\2404_0002.tga
+
+		}
+		{
+			if (parm8 == 3)
+				blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+				colored
+			alphatest 0.0
+				map textures\shock\doors\2404\2404_0003.tga
+
+		}
+		{
+			if (parm8 == 4)
+				blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+				colored
+			alphatest 0.0
+				map textures\shock\doors\2404\2404_0004.tga
+
+		}
+		{
+			if (parm8 == 5)
+				blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+				colored
+			alphatest 0.0
+				map textures\shock\doors\2404\2404_0005.tga
+
+		}
+}

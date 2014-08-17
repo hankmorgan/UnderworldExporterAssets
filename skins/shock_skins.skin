@@ -168,3 +168,153 @@ skin shock_grating_003
    model models/shock/shock_grating.ase
    textures/shock/grating/2417 textures/shock/grating/2417
 }
+
+skin shock_anim_door_299
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_299
+}
+
+skin shock_anim_door_300
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_300
+}
+
+skin shock_anim_door_301
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_301
+}
+
+skin shock_anim_door_302
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_302
+}
+
+skin shock_anim_door_303
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_303
+}
+
+skin shock_anim_door_304
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_304
+}
+
+skin shock_anim_door_305
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_305
+}
+
+skin shock_anim_door_306
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_306
+}
+
+skin shock_anim_door_318
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_318
+}
+
+skin shock_anim_door_319
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_319
+}
+
+skin shock_anim_door_320
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_320
+}
+
+skin shock_anim_door_321
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_321
+}
+
+skin shock_anim_door_322
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_322
+}
+
+skin shock_anim_door_323
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_323
+}
+
+skin shock_anim_door_324
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_324
+}
+
+skin shock_anim_door_325
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_325
+}
+
+skin shock_anim_door_326
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_326
+}
+
+skin shock_anim_door_327
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_327
+}
+
+skin shock_anim_door_328
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_328
+}
+
+skin shock_anim_door_330
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_330
+}
+
+skin shock_anim_door_331
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_331
+}
+
+skin shock_anim_door_332
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_332
+}
+
+skin shock_anim_door_336
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_336
+}
+
+skin shock_anim_door_337
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_337
+}
+
+skin shock_anim_door_338
+{
+model models/shock/doorway.ase
+      textures/shock/dooranim textures/shock/doors/dooranim_338
+}

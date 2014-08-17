@@ -136,3 +136,14 @@ skin uw1_sign_07
     textures/uw1/tmobj/tmobj_20 textures/uw1/tmobj/tmobj_27
 }
 
+skin uw1_bridge_texture_222
+{
+    model models/darkmod/uw1/uw1_bridge_new.ase
+    textures/uw1/tmobj/tmobj_30 textures/uw1/uw1_222
+}
+
+skin uw1_bridge_texture_224
+{
+    model models/darkmod/uw1/uw1_bridge_new.ase
+    textures/uw1/tmobj/tmobj_30 textures/uw1/uw1_224
+}

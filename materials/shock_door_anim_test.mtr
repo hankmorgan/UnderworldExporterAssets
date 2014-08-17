@@ -1,0 +1,64 @@
+textures\shock\dooranim
+ {
+	//DECAL_MACRO
+	//noShadows
+	//twoSided
+	//monsterclip
+	//playerclip
+        //translucent
+
+	qer_editorimage textures/shock/grating/2415.tga
+	{
+		blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+	        colored
+		 map textures\shock\doors\2400\2400_0006.tga
+	}
+      
+
+      {
+              if ( parm8 == 0 )
+		blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+        	colored
+                 map textures\shock\doors\2400\2400_0000.tga
+      }
+      {
+              if ( parm8 == 1 )
+		blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+        	colored
+                  map textures\shock\doors\2400\2400_0001.tga
+      }
+      {
+             if ( parm8 == 2 )
+		blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+        	colored
+                 map textures\shock\doors\2400\2400_0002.tga
+      }
+      {
+              if ( parm8 == 3 )
+		blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+        	colored
+                 map textures\shock\doors\2400\2400_0003.tga
+      }
+      {
+              if ( parm8 == 4 )
+		blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+        	colored
+                 map textures\shock\doors\2400\2400_0004.tga
+      }
+      {
+              if ( parm8 == 5 )
+		blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+        	colored
+                 map textures\shock\doors\2400\2400_0005.tga
+      }
+      {
+              if ( parm8 == 6 )
+		blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+        	colored
+                 map textures\shock\doors\2400\2400_0006.tga
+      }
+
+
+
+ }
+

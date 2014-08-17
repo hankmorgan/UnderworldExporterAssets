@@ -1,14 +1,18 @@
 textures\shock\grating\2417
 {
-	DECAL_MACRO
+	//DECAL_MACRO
 	noShadows
 	twoSided
 	monsterclip
 	playerclip
+       //sort decal
+      //sort nearest
         	
 	qer_editorimage textures/shock/grating/2417.tga
 	{
+	//blend add
 		blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+		alphatest 0.0
 	colored
 		map textures/shock/grating/2417.tga
 	}

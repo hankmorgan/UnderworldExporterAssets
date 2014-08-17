@@ -5,11 +5,13 @@ noShadows
 twoSided
 nonsolid
 noimpact
+	sort decal
+	sort nearest
 qer_editorimage textures/uw2/objects/objects_437.tga
 {
-blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
-colored
-clamp
- map textures/uw2/objects/objects_437.tga
+	blend GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA
+	colored
+	clamp
+	map textures/uw2/objects/objects_437.tga
 }
 }
